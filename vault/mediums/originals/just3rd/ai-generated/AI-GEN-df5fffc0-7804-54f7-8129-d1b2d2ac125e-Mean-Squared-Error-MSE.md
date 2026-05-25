@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/mean-squared-error-mse|mean-squared-error-mse]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/copyright-protection|copyright-protection]]"
 learning-time-in-minutes: 4
 ---
 # Mean Squared Error (MSE) for Watermarking Performance

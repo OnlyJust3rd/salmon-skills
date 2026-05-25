@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[part-of-speech-tagging-explanation|part-of-speech-tagging-explanation]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/linguistic-text-processing/linguistic-text-processing|linguistic-text-processing]]"
 learning-time-in-minutes: 3
 ---
 # Part-of-Speech (POS) Tagging: Understanding Word Roles

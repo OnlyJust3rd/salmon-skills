@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[co-occurrence-matrix-identification|co-occurrence-matrix-identification]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-feature-engineering/text-feature-engineering|text-feature-engineering]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Co-Occurrence Matrices

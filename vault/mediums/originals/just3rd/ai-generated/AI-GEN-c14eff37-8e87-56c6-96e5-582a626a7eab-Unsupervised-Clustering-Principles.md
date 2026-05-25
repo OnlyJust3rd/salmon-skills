@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[unsupervised-clustering-principles|unsupervised-clustering-principles]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-clustering/text-clustering|text-clustering]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Unsupervised Clustering Principles

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/algorithms/algorithm-classification/microskills/lossy-compression-principles|lossy-compression-principles]]"
+related-skills:
+  - "[[skills/computing/computer-science/algorithms/algorithm-classification/algorithm-classification|algorithm-classification]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Lossy Compression Principles

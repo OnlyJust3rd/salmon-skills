@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[tcp-characteristics|tcp-characteristics]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/transport-layer/transport-layer|transport-layer]]"
 learning-time-in-minutes: 4
 ---
 # Understanding TCP Characteristics

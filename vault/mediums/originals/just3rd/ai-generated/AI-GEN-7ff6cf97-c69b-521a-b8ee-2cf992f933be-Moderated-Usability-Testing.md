@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[moderated-usability-testing|moderated-usability-testing]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/user-experience/user-experience|user-experience]]"
 learning-time-in-minutes: 4
 ---
 # Moderated Usability Testing: The Facilitator's Role

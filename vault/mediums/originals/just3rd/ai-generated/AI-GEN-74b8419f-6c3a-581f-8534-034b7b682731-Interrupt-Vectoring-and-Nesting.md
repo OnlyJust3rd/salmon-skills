@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/interrupt-vectoring-and-nesting|interrupt-vectoring-and-nesting]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/input-output-interfacing|input-output-interfacing]]"
 learning-time-in-minutes: 5
 ---
 # Interrupt Vectoring and Nesting

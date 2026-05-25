@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/mobile-development/flutter/microskills/widget-tree|widget-tree]]"
+related-skills:
+  - "[[skills/computing/software-engineering/mobile-development/flutter/flutter|flutter]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Widget Tree in Flutter

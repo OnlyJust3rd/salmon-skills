@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/use-cases-for-data-models|use-cases-for-data-models]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/data-modeling|data-modeling]]"
 learning-time-in-minutes: 5
 ---
 # Choosing the Right Data Model for the Job

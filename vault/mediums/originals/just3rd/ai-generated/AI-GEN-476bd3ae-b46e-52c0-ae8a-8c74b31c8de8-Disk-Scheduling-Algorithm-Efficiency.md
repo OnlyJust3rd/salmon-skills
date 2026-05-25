@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[disk-scheduling-algorithm-efficiency|disk-scheduling-algorithm-efficiency]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/io-and-file-systems|io-and-file-systems]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Disk Scheduling Algorithm Efficiency

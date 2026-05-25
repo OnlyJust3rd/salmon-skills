@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[adc-reference-voltage-configuration|adc-reference-voltage-configuration]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-programming/avr-peripheral-programming/avr-peripheral-programming|avr-peripheral-programming]]"
 learning-time-in-minutes: 5
 ---
 # ADC Reference Voltage Configuration

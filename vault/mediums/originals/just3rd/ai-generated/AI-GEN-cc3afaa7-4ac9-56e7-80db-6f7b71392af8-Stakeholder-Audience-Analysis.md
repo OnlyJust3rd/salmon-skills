@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/entrepreneurship/startup-communication/microskills/stakeholder-audience-analysis|stakeholder-audience-analysis]]"
+related-skills:
+  - "[[skills/business/entrepreneurship/startup-communication/startup-communication|startup-communication]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Your Stakeholder Audience

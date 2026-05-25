@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/algorithms/algorithms/microskills/branch-and-bound-definitions|branch-and-bound-definitions]]"
+related-skills:
+  - "[[skills/computing/computer-science/algorithms/algorithms/algorithms|algorithms]]"
 learning-time-in-minutes: 4
 ---
 # Branch and Bound: Fundamental Concepts

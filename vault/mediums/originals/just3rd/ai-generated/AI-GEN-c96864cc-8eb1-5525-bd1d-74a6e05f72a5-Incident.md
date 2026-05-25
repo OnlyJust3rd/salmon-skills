@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management/microskills/incident|incident]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management/it-service-management|it-service-management]]"
 learning-time-in-minutes: 3
 ---
 # Understanding IT Incidents

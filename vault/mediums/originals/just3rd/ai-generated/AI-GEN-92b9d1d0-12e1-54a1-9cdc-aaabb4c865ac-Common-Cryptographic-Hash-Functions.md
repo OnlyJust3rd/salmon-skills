@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/common-cryptographic-hash-functions|common-cryptographic-hash-functions]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/cryptographic-fundamentals|cryptographic-fundamentals]]"
 learning-time-in-minutes: 3
 ---
 # Common Cryptographic Hash Functions

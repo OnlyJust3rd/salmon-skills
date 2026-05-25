@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-practices/software-version-control/microskills/git-branch-creation|git-branch-creation]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-practices/software-version-control/software-version-control|software-version-control]]"
 learning-time-in-minutes: 3
 ---
 # Git Branch Creation: Isolating Development

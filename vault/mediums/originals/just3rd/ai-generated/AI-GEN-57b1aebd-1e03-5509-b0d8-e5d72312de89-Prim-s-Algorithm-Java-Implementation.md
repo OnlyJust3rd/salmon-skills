@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[prim-s-algorithm-java-implementation|prim-s-algorithm-java-implementation]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/java-programming/java-programming|java-programming]]"
 learning-time-in-minutes: 4
 ---
 # Prim's Algorithm: Java Implementation for Minimum Spanning Tree

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ipsec-tunnel-mode-evaluation|ipsec-tunnel-mode-evaluation]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/applied-cryptography|applied-cryptography]]"
 learning-time-in-minutes: 3
 ---
 # Evaluating IPSec Tunnel Mode Effectiveness

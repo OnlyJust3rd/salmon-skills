@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[gradient-descent-implementation|gradient-descent-implementation]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/machine-learning/machine-learning/machine-learning|machine-learning]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Gradient Descent for Model Training

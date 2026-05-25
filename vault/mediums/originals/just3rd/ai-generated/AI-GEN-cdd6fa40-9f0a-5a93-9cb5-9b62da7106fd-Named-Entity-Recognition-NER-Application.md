@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[named-entity-recognition-ner-application|named-entity-recognition-ner-application]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/linguistic-text-processing/linguistic-text-processing|linguistic-text-processing]]"
 learning-time-in-minutes: 4
 ---
 # Named-Entity Recognition (NER) Application

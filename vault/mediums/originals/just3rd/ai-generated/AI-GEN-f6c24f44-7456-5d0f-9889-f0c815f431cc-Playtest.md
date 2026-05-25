@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-testing/microskills/playtest|playtest]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-testing/game-testing|game-testing]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Playtesting

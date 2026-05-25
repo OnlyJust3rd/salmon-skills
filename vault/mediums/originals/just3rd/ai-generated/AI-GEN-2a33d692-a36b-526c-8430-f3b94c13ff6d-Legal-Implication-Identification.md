@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/legal-finance-governance/contractual-agreements/microskills/legal-implication-identification|legal-implication-identification]]"
+related-skills:
+  - "[[skills/business/legal-finance-governance/contractual-agreements/contractual-agreements|contractual-agreements]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Legal Ramifications of Contractual Agreements

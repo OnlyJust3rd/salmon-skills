@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[udp-characteristics|udp-characteristics]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/transport-layer/transport-layer|transport-layer]]"
 learning-time-in-minutes: 5
 ---
 # UDP Characteristics: The Lightweight of the Transport Layer

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/subband-filtering-process|subband-filtering-process]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/multimedia-compression|multimedia-compression]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Subband Filtering in Audio Compression

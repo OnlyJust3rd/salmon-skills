@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[simulation-to-real-world-robot-transition|simulation-to-real-world-robot-transition]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/evolutional-robotics/evolutional-robotics|evolutional-robotics]]"
 learning-time-in-minutes: 5
 ---
 # Bridging the Gap: Simulation to Real-World Robot Transition

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[interface-review|interface-review]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/usability-evaluation/usability-evaluation|usability-evaluation]]"
 learning-time-in-minutes: 5
 ---
 # Interface Review: Applying Usability Principles

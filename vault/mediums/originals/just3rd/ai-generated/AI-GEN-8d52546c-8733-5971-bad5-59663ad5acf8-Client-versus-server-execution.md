@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/frontend-development/web-application-concept/microskills/client-versus-server-execution|client-versus-server-execution]]"
+related-skills:
+  - "[[skills/computing/software-engineering/frontend-development/web-application-concept/web-application-concept|web-application-concept]]"
 learning-time-in-minutes: 5
 ---
 # Where Does the Magic Happen? Client vs. Server Execution

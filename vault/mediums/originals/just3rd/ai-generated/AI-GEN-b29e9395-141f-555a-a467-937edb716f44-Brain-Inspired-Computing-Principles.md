@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/brain-inspired-computing-principles|brain-inspired-computing-principles]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/neuromorphic-and-brain-inspired-computing|neuromorphic-and-brain-inspired-computing]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Brain-Inspired Computing Principles

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/class-design-patterns|class-design-patterns]]"
+related-skills:
+  - "[[skills/computing/programming/programming-paradigms/object-oriented-programming/object-oriented-programming|object-oriented-programming]]"
 learning-time-in-minutes: 4
 ---
 # Crafting Classes: Essential Design Patterns

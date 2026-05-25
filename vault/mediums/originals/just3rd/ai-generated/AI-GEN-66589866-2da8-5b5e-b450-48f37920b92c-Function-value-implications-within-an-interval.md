@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/calculus-theorems-application/microskills/function-value-implications-within-an-interval|function-value-implications-within-an-interval]]"
+related-skills:
+  - "[[skills/mathematics/calculus/calculus-theorems-application/calculus-theorems-application|calculus-theorems-application]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Function Value Implications with the IVT

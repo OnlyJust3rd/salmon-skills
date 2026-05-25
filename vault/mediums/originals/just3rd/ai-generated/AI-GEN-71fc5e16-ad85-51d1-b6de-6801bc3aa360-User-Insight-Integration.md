@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/user-insight-integration|user-insight-integration]]"
+related-skills:
+  - "[[skills/business/entrepreneurship/mvp-design-and-prototyping/mvp-design-and-prototyping|mvp-design-and-prototyping]]"
 learning-time-in-minutes: 6
 ---
 # Integrating User Insights for Better MVP Iteration

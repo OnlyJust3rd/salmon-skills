@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/data-availability-across-containers|data-availability-across-containers]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/docker/docker|docker]]"
 learning-time-in-minutes: 4
 ---
 # Sharing Docker Volumes for Data Availability

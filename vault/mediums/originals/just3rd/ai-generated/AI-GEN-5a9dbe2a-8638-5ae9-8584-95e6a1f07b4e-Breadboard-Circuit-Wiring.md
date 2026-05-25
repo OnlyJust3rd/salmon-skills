@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/breadboard-circuit-wiring|breadboard-circuit-wiring]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/digital-circuit-construction|digital-circuit-construction]]"
 learning-time-in-minutes: 5
 ---
 # Breadboard Circuit Wiring for Logic Gates

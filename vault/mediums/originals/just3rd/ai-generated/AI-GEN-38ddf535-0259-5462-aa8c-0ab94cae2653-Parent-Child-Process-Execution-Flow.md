@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/parent-child-process-execution-flow|parent-child-process-execution-flow]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/process-management-and-system-calls|process-management-and-system-calls]]"
 learning-time-in-minutes: 4
 ---
 # Parent-Child Process Execution Flow: Analyzing Sequential Behavior

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/circuit-parameter-calculation|circuit-parameter-calculation]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-analysis/circuit-analysis|circuit-analysis]]"
 learning-time-in-minutes: 2
 ---
 # Calculating Circuit Parameters

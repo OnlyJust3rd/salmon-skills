@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/linear-algebra/vector-space/microskills/linear-combination-definition|linear-combination-definition]]"
+related-skills:
+  - "[[skills/mathematics/linear-algebra/vector-space/vector-space|vector-space]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Linear Combinations of Vectors

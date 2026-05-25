@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[historical-ui-evolution|historical-ui-evolution]]"
+related-skills:
+  - "[[skills/digital-media/human-computer-interaction/human-computer-interaction|human-computer-interaction]]"
 learning-time-in-minutes: 3
 ---
 # Historical UI Evolution

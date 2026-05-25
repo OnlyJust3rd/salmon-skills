@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/design-fabrication/cad-design/microskills/component-design-adherence-to-constraints|component-design-adherence-to-constraints]]"
+related-skills:
+  - "[[skills/digital-media/design-fabrication/cad-design/cad-design|cad-design]]"
 learning-time-in-minutes: 3
 ---
 # Designing Components with Constraints

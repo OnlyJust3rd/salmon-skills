@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/multimedia-compression-context|multimedia-compression-context]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/multimedia-compression|multimedia-compression]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Lossy Compression in Multimedia

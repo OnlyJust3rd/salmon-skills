@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/inter-process-communication-python|inter-process-communication-python]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/parallel-programming|parallel-programming]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Inter-Process Communication (IPC) in Python

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[visual-hierarchy-principles|visual-hierarchy-principles]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/visual-interface-design/visual-interface-design|visual-interface-design]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Visual Hierarchy Principles

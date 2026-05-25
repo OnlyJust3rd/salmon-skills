@@ -1,14 +1,14 @@
 ---
-type: "competency"
-icon: "LiGoal"
-title: "L3- Apply Batch Data Pipeline Processing"
+type: competency
+icon: LiGoal
+title: L3- Apply Batch Data Pipeline Processing
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-cleansing/competencies/L2-apply-data-cleansing-techniques|L2-apply-data-cleansing-techniques]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/data-engineering/competencies/L1-explain-data-pipeline-concepts|L1-explain-data-pipeline-concepts]]"
-  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/competencies/L1-define-and-list-rdbms-concepts|L1-define-and-list-rdbms-concepts]]"
+  - "[[L1-define-and-list-rdbms-concepts|L1-define-and-list-rdbms-concepts]]"
 miller-level: 2
 optional-prerequisites: []
 parent-skill: "[[skills/computing/data-ai/data-engineering-platforms/data-engineering/data-engineering|data-engineering]]"
@@ -32,7 +32,7 @@ Apply batch data pipeline processing.
 
 - [[skills/computing/data-ai/data-engineering-platforms/data-engineering/competencies/L1-explain-data-pipeline-concepts|L2- Explain Data Pipeline Concepts]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-cleansing/competencies/L2-apply-data-cleansing-techniques|L3- Apply Data Cleansing Techniques]]
-- [[skills/computing/data-ai/databases/database-foundations/database-systems/competencies/L1-define-and-list-rdbms-concepts|L1- Define and List RDBMS Concepts]]
+- [[L1-define-and-list-rdbms-concepts|L1- Define and List RDBMS Concepts]]
 
 ## Optional Prerequisites
 

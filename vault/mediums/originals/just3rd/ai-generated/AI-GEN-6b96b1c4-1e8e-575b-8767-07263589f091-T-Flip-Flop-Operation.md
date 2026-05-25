@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/t-flip-flop-operation|t-flip-flop-operation]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/sequential-logic-design|sequential-logic-design]]"
 learning-time-in-minutes: 4
 ---
 # T Flip-Flop Operation

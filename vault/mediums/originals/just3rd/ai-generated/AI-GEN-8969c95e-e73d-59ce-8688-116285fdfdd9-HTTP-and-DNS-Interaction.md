@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[http-and-dns-interaction|http-and-dns-interaction]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/application-layer|application-layer]]"
 learning-time-in-minutes: 3
 ---
 # HTTP and DNS: A Web Browsing Partnership

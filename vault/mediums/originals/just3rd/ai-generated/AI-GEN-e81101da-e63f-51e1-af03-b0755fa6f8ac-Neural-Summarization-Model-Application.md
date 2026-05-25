@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[neural-summarization-model-application|neural-summarization-model-application]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-summarization/text-summarization|text-summarization]]"
 learning-time-in-minutes: 4
 ---
 # Applying Neural Models for Text Summarization

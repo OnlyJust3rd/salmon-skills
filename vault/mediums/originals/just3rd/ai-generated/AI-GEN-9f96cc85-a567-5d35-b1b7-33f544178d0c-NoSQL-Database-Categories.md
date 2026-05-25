@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[nosql-database-categories|nosql-database-categories]]"
+related-skills:
+  - "[[nosql-database-system|nosql-database-system]]"
 learning-time-in-minutes: 4
 ---
 # Understanding NoSQL Database Categories

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/product-management/marketing-strategy/microskills/marketing-mix-4cs|marketing-mix-4cs]]"
+related-skills:
+  - "[[skills/business/product-management/marketing-strategy/marketing-strategy|marketing-strategy]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Marketing Mix: The 4Cs

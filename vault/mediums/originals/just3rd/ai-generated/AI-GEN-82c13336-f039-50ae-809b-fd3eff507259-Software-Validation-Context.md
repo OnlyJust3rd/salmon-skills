@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/software-validation-context|software-validation-context]]"
+related-skills:
+  - "[[skills/computing/software-engineering/testing-quality/software-testing/software-testing|software-testing]]"
 learning-time-in-minutes: 4
 ---
 # Software Validation: Are We Building the Right Product?

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[abstract-data-type-characteristics|abstract-data-type-characteristics]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/java-programming/java-programming|java-programming]]"
 learning-time-in-minutes: 4
 ---
 # Abstract Data Type Characteristics

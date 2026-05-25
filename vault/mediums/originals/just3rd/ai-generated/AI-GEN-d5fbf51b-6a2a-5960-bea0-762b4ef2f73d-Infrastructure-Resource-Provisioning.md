@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-resource-provisioning|infrastructure-resource-provisioning]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/infrastructure-as-code|infrastructure-as-code]]"
 learning-time-in-minutes: 4
 ---
 # Provisioning Infrastructure with Terraform

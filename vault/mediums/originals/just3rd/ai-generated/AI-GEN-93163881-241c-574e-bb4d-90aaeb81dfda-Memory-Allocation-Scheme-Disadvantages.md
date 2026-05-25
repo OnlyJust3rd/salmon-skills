@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/memory-allocation-scheme-disadvantages|memory-allocation-scheme-disadvantages]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/memory-virtualization|memory-virtualization]]"
 learning-time-in-minutes: 5
 ---
 # Identifying the Disadvantages of Memory Allocation Schemes

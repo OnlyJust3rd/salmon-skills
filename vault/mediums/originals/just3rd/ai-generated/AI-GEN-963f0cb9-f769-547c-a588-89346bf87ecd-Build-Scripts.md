@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/frontend-development/client-side-web-tooling/microskills/build-scripts|build-scripts]]"
+related-skills:
+  - "[[skills/computing/software-engineering/frontend-development/client-side-web-tooling/client-side-web-tooling|client-side-web-tooling]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Build Scripts

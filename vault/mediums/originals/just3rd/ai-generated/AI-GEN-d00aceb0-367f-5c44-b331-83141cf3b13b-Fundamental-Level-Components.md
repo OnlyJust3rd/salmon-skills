@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/level-design/microskills/fundamental-level-components|fundamental-level-components]]"
+related-skills:
+  - "[[skills/digital-media/game-development/level-design/level-design|level-design]]"
 learning-time-in-minutes: 4
 ---
 # Recognizing Fundamental Level Components in Level Design

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/basic-parallel-program-construction|basic-parallel-program-construction]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/parallel-programming|parallel-programming]]"
 learning-time-in-minutes: 4
 ---
 # Building a Simple MPI Point-to-Point Application

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/design-fabrication/digital-fabrication/microskills/3d-printing-file-configuration|3d-printing-file-configuration]]"
+related-skills:
+  - "[[skills/digital-media/design-fabrication/digital-fabrication/digital-fabrication|digital-fabrication]]"
 learning-time-in-minutes: 5
 ---
 # 3D Printing File Configuration

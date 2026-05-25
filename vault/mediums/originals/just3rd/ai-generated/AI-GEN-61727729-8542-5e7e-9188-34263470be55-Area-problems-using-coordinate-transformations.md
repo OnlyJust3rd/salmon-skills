@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/area-problems-using-coordinate-transformations|area-problems-using-coordinate-transformations]]"
+related-skills:
+  - "[[skills/mathematics/calculus/multiple-integral-evaluation/multiple-integral-evaluation|multiple-integral-evaluation]]"
 learning-time-in-minutes: 4
 ---
 # Area Problems with Polar Coordinates

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/ai-processor-architectural-components|ai-processor-architectural-components]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/multicore-processing|multicore-processing]]"
 learning-time-in-minutes: 4
 ---
 # AI Processor Architectural Components

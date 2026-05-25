@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/cybersecurity/microskills/sessions|sessions]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/cybersecurity/cybersecurity|cybersecurity]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Sessions for Secure Authentication

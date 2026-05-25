@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/hybrid-scheme-principles|hybrid-scheme-principles]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/memory-virtualization|memory-virtualization]]"
 learning-time-in-minutes: 4
 ---
 # Hybrid Memory Allocation: Combining the Best of Both Worlds

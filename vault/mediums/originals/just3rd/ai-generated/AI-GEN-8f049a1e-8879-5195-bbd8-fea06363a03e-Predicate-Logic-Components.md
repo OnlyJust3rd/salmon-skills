@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/discrete-math/logical-reasoning/microskills/predicate-logic-components|predicate-logic-components]]"
+related-skills:
+  - "[[skills/mathematics/discrete-math/logical-reasoning/logical-reasoning|logical-reasoning]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Predicate Logic Components

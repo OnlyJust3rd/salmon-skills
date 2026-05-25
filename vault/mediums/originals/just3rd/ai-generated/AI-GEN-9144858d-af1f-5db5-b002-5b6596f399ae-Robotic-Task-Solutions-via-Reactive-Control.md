@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[robotic-task-solutions-via-reactive-control|robotic-task-solutions-via-reactive-control]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/robotics/robotics|robotics]]"
 learning-time-in-minutes: 4
 ---
 # Robotic Task Solutions via Reactive Control

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/access-control/microskills/authentication-principles|authentication-principles]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/access-control/access-control|access-control]]"
 learning-time-in-minutes: 4
 ---
 # Authentication: Proving You Are Who You Say You Are

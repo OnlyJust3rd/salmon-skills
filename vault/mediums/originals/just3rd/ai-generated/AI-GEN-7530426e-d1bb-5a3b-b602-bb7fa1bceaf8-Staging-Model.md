@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/dbt/microskills/staging-model|staging-model]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/dbt/dbt|dbt]]"
 learning-time-in-minutes: 4
 ---
 # Staging Models: Your First Step in dbt

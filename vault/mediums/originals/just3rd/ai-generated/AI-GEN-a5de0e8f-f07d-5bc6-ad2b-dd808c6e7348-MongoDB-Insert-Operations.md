@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[mongodb-insert-operations|mongodb-insert-operations]]"
+related-skills:
+  - "[[mongodb|mongodb]]"
 learning-time-in-minutes: 3
 ---
 # MongoDB Insert Operations

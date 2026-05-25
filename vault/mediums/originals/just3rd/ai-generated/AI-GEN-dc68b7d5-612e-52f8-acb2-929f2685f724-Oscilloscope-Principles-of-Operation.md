@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/oscilloscope-principles-of-operation|oscilloscope-principles-of-operation]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/laboratory-equipment-operation|laboratory-equipment-operation]]"
 learning-time-in-minutes: 5
 ---
 # Oscilloscope Principles of Operation

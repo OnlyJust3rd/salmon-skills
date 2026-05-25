@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[timer-counter-operations|timer-counter-operations]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-programming/avr-peripheral-programming/avr-peripheral-programming|avr-peripheral-programming]]"
 learning-time-in-minutes: 4
 ---
 # Understanding AVR Timer/Counter Operations

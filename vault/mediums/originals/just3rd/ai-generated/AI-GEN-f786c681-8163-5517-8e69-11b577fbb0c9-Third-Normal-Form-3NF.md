@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Understanding Third Normal Form (3NF)"
+type: medium
+title: Understanding Third Normal Form (3NF)
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/third-normal-form-3nf|third-normal-form-3nf]]"
+  - "[[third-normal-form-3nf|third-normal-form-3nf]]"
+related-skills:
+  - "[[relational-database|relational-database]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Third Normal Form (3NF)
@@ -118,4 +120,4 @@ By understanding and applying 3NF, you significantly improve the structure, reli
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/third-normal-form-3nf|Third Normal Form (3NF)]]
+- [[third-normal-form-3nf|Third Normal Form (3NF)]]

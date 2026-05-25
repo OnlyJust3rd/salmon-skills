@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/system-solving-strategy|system-solving-strategy]]"
+related-skills:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/matrix-algebra|matrix-algebra]]"
 learning-time-in-minutes: 4
 ---
 # System Solving Strategy: Gaussian Elimination

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[i2c-master-read-write|i2c-master-read-write]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-programming/avr-communication-programming/avr-communication-programming|avr-communication-programming]]"
 learning-time-in-minutes: 5
 ---
 # Implementing I2C Master Read/Write Operations

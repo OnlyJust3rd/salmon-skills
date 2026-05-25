@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/function-analysis/microskills/multivariable-function-limit-definition|multivariable-function-limit-definition]]"
+related-skills:
+  - "[[skills/mathematics/calculus/function-analysis/function-analysis|function-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Formal Definition of Multivariable Function Limits

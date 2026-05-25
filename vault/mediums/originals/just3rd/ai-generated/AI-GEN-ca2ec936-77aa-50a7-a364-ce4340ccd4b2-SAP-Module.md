@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/corporate-operations/sap-erp/microskills/sap-module|sap-module]]"
+related-skills:
+  - "[[skills/business/corporate-operations/sap-erp/sap-erp|sap-erp]]"
 learning-time-in-minutes: 5
 ---
 # Understanding SAP Modules: The Building Blocks of SAP ERP

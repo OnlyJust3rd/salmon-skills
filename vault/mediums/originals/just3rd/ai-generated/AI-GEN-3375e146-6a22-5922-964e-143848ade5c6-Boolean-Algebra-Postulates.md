@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/boolean-algebra-postulates|boolean-algebra-postulates]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/logic-fundamentals|logic-fundamentals]]"
 learning-time-in-minutes: 6
 ---
 # Boolean Algebra Postulates: The Foundation of Digital Logic

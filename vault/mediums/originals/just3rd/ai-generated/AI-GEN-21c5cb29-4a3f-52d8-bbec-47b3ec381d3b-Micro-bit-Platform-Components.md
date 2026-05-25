@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/micro-bit-platform-components|micro-bit-platform-components]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/embedded-systems|embedded-systems]]"
 learning-time-in-minutes: 4
 ---
 # Micro:bit Platform Components: Remembering the Basics

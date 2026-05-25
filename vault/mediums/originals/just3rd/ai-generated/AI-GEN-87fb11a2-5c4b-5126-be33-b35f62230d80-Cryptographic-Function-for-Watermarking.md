@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/microskills/cryptographic-function-for-watermarking|cryptographic-function-for-watermarking]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/cryptography-for-digital-media-protection|cryptography-for-digital-media-protection]]"
 learning-time-in-minutes: 3
 ---
 # Cryptographic Functions for Watermarking

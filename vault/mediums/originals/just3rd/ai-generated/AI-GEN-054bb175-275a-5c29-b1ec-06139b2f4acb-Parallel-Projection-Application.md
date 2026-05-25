@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/perspective-projection/microskills/parallel-projection-application|parallel-projection-application]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/perspective-projection/perspective-projection|perspective-projection]]"
 learning-time-in-minutes: 7
 ---
 # Applying Parallel Projection: Representing 3D Objects in 2D

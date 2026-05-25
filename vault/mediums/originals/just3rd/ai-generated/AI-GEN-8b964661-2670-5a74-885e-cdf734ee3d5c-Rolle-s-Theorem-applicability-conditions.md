@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/calculus-theorems-application/microskills/rolle-s-theorem-applicability-conditions|rolle-s-theorem-applicability-conditions]]"
+related-skills:
+  - "[[skills/mathematics/calculus/calculus-theorems-application/calculus-theorems-application|calculus-theorems-application]]"
 learning-time-in-minutes: 3
 ---
 # Rolle's Theorem Applicability Conditions

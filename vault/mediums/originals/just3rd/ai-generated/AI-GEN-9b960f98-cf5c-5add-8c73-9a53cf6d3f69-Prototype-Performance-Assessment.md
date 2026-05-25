@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/prototype-performance-assessment|prototype-performance-assessment]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/iterative-prototyping-and-testing|iterative-prototyping-and-testing]]"
 learning-time-in-minutes: 5
 ---
 # Prototype Performance Assessment: Evaluating Effectiveness

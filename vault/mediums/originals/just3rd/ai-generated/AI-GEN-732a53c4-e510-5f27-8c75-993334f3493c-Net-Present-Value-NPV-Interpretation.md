@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/product-management/feasibility-analysis/microskills/net-present-value-npv-interpretation|net-present-value-npv-interpretation]]"
+related-skills:
+  - "[[skills/business/product-management/feasibility-analysis/feasibility-analysis|feasibility-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Net Present Value (NPV) Interpretation

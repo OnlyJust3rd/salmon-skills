@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/led-control-via-gpio|led-control-via-gpio]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/embedded-systems|embedded-systems]]"
 learning-time-in-minutes: 4
 ---
 # Controlling LEDs with GPIO

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/edge-computing-applications|edge-computing-applications]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/hpc-cluster-management|hpc-cluster-management]]"
 learning-time-in-minutes: 4
 ---
 # Edge Computing Applications

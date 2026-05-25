@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/rom-family-differences|rom-family-differences]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/sequential-logic-design|sequential-logic-design]]"
 learning-time-in-minutes: 4
 ---
 # ROM Family: From Permanent to Programmable

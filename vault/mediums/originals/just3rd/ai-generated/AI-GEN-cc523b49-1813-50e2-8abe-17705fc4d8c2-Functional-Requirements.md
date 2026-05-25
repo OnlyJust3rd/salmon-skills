@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[functional-requirements|functional-requirements]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/user-centered-design/user-centered-design|user-centered-design]]"
 learning-time-in-minutes: 4
 ---
 # Defining Functional Requirements for Computer-Based Devices

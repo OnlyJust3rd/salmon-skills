@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/design-fabrication/scene-and-environment-design/microskills/visual-composition-principles|visual-composition-principles]]"
+related-skills:
+  - "[[skills/digital-media/design-fabrication/scene-and-environment-design/scene-and-environment-design|scene-and-environment-design]]"
 learning-time-in-minutes: 5
 ---
 # Applying Visual Composition Principles in Game Scene Design

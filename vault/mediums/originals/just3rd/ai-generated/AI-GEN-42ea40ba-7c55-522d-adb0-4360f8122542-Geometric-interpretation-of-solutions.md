@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/geometric-interpretation-of-solutions|geometric-interpretation-of-solutions]]"
+related-skills:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/matrix-algebra|matrix-algebra]]"
 learning-time-in-minutes: 5
 ---
 # Geometric Interpretation of Homogeneous System Solutions

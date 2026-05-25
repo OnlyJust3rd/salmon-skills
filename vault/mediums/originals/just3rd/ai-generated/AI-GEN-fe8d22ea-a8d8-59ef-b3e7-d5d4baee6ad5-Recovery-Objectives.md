@@ -1,12 +1,14 @@
 ---
-type: "medium"
+type: medium
 title: "Understanding Recovery Objectives: RPO and RTO"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/database-operations/database-backup-and-recovery/microskills/recovery-objectives|recovery-objectives]]"
+  - "[[recovery-objectives|recovery-objectives]]"
+related-skills:
+  - "[[database-backup-and-recovery|database-backup-and-recovery]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Recovery Objectives: RPO and RTO
@@ -62,4 +64,4 @@ Think about a system you are familiar with (e.g., a personal file server, a proj
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/database-operations/database-backup-and-recovery/microskills/recovery-objectives|Recovery Objectives]]
+- [[recovery-objectives|Recovery Objectives]]

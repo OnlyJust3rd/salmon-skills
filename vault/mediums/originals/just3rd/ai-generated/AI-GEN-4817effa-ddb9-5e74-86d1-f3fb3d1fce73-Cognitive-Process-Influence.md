@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[cognitive-process-influence|cognitive-process-influence]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/human-cognitive-and-perception/human-cognitive-and-perception|human-cognitive-and-perception]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Cognitive Limitations in User Interaction

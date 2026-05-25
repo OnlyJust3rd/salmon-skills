@@ -1,7 +1,7 @@
 filters:
   and:
-    - 'type == "medium"'
-    - 'file.path.startsWith("mediums")'
+    - type == "medium"
+    - file.path.startsWith("mediums")
 properties:
   file.name:
     displayName: Medium
@@ -20,18 +20,19 @@ views:
     name: Related Mediums
     filters:
       or:
-        - 'learning-outcomes.contains(this)'
-        - 'related-skills.contains(this)'
+        - note["learning-outcomes"].contains(this)
+        - note["related-skills"].contains(this)
     order:
       - title
       - tags
       - learning-time-in-minutes
+      - source
     sort:
       - property: learning-time-in-minutes
         direction: ASC
     indentProperties: true
     markers: bullet
-    cardSize: 240
+    cardSize: 250
     imageAspectRatio: 0.8
   - type: table
     name: Global Mediums

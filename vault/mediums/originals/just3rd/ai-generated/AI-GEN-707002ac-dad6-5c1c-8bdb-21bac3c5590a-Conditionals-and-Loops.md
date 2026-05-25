@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[conditionals-and-loops|conditionals-and-loops]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/shell-scripting/shell-scripting|shell-scripting]]"
 learning-time-in-minutes: 3
 ---
 # Conditionals and Loops in Shell Scripting

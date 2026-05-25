@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-cleansing/microskills/format-standardization|format-standardization]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-cleansing/data-cleansing|data-cleansing]]"
 learning-time-in-minutes: 3
 ---
 # Format Standardization in Data Cleansing

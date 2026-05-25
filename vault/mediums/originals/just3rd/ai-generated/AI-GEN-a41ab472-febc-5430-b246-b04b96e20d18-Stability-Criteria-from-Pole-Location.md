@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/system-property-analysis/microskills/stability-criteria-from-pole-location|stability-criteria-from-pole-location]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/system-property-analysis/system-property-analysis|system-property-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Stability Criteria from Pole Location

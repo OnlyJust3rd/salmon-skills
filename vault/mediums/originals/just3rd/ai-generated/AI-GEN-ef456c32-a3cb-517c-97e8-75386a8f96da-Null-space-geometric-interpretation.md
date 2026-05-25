@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/null-space-geometric-interpretation|null-space-geometric-interpretation]]"
+related-skills:
+  - "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/subspaces-and-orthogonality|subspaces-and-orthogonality]]"
 learning-time-in-minutes: 5
 ---
 # The Geometric Heart of the Null Space

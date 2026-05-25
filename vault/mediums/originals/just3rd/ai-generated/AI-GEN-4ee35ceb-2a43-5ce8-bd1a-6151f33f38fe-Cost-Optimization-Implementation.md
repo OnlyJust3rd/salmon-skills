@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cost-optimization-implementation|cost-optimization-implementation]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/finops/finops|finops]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Cloud Cost Optimization: Rightsizing and Shutting Down Idle Resources

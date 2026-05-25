@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/communication-interface-categorization|communication-interface-categorization]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/input-output-interfacing|input-output-interfacing]]"
 learning-time-in-minutes: 5
 ---
 # Communication Interface Categorization: Serial vs. Parallel

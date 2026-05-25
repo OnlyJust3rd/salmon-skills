@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[emerging-iot-trends|emerging-iot-trends]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/internet-of-things/internet-of-things|internet-of-things]]"
 learning-time-in-minutes: 5
 ---
 # Emerging IoT Trends

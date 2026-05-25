@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[activation-function-identification|activation-function-identification]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/machine-learning/deep-learning/deep-learning/deep-learning|deep-learning]]"
 learning-time-in-minutes: 4
 ---
 # Activation Functions in Neural Networks

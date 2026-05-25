@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/calculus-theorems-application/microskills/mean-value-theorem-applicability-conditions|mean-value-theorem-applicability-conditions]]"
+related-skills:
+  - "[[skills/mathematics/calculus/calculus-theorems-application/calculus-theorems-application|calculus-theorems-application]]"
 learning-time-in-minutes: 3
 ---
 # Mean Value Theorem Applicability Conditions

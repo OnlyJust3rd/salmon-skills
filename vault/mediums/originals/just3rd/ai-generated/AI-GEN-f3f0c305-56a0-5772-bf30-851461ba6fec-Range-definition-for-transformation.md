@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/linear-algebra/linear-transformations/microskills/range-definition-for-transformation|range-definition-for-transformation]]"
+related-skills:
+  - "[[skills/mathematics/linear-algebra/linear-transformations/linear-transformations|linear-transformations]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Range of a Linear Transformation

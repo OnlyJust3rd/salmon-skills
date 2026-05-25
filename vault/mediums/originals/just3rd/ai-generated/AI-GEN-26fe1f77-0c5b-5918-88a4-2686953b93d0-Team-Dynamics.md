@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/team-dynamics|team-dynamics]]"
+related-skills:
+  - "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/legal-and-organizational-foundations|legal-and-organizational-foundations]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Team Dynamics: How Groups Work Together

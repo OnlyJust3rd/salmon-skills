@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/viewing-and-clipping/microskills/world-coordinates|world-coordinates]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/viewing-and-clipping/viewing-and-clipping|viewing-and-clipping]]"
 learning-time-in-minutes: 3
 ---
 # World Coordinates: The Foundation of Your Digital Canvas

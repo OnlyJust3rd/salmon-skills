@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/geometric-representation/microskills/mathematical-modeling-of-primitives|mathematical-modeling-of-primitives]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/geometric-representation/geometric-representation|geometric-representation]]"
 learning-time-in-minutes: 5
 ---
 # Mathematical Modeling of Primitives

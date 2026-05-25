@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[python-data-visualization-libraries|python-data-visualization-libraries]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/python/python|python]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Python Data Visualization Libraries

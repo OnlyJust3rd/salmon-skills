@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/infrastructure-as-code-integration|infrastructure-as-code-integration]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/serverless-ci-cd|serverless-ci-cd]]"
 learning-time-in-minutes: 4
 ---
 # Integrating Infrastructure as Code into Serverless CI/CD Pipelines

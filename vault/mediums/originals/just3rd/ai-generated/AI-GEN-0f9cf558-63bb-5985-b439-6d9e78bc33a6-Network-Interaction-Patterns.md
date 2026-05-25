@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[network-interaction-patterns|network-interaction-patterns]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/application-layers/socket-programming/socket-programming|socket-programming]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Network Interaction Patterns: The Socket Model

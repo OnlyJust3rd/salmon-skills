@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[glove-representation-definition|glove-representation-definition]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-feature-engineering/text-feature-engineering|text-feature-engineering]]"
 learning-time-in-minutes: 4
 ---
 # Understanding GloVe Representation

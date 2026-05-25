@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/mvp-improvement-cycle|mvp-improvement-cycle]]"
+related-skills:
+  - "[[skills/business/entrepreneurship/mvp-design-and-prototyping/mvp-design-and-prototyping|mvp-design-and-prototyping]]"
 learning-time-in-minutes: 5
 ---
 # The MVP Improvement Cycle: Turning Feedback into Action

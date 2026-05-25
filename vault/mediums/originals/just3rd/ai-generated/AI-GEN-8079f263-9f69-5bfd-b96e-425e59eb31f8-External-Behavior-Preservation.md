@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/programming/code-quality/refactoring/microskills/external-behavior-preservation|external-behavior-preservation]]"
+related-skills:
+  - "[[skills/computing/programming/code-quality/refactoring/refactoring|refactoring]]"
 learning-time-in-minutes: 5
 ---
 # Preserving External Behavior During Refactoring

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/linear-algebra/vector/microskills/scalar-triple-product-calculation|scalar-triple-product-calculation]]"
+related-skills:
+  - "[[skills/mathematics/linear-algebra/vector/vector|vector]]"
 learning-time-in-minutes: 5
 ---
 # Calculating the Scalar Triple Product

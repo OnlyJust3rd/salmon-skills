@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-delivery/microskills/automated-promotion|automated-promotion]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-delivery/continuous-delivery|continuous-delivery]]"
 learning-time-in-minutes: 3
 ---
 # Automated Promotion in Continuous Delivery

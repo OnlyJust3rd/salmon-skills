@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/breadboard-implementation-proficiency|breadboard-implementation-proficiency]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/digital-circuit-construction|digital-circuit-construction]]"
 learning-time-in-minutes: 7
 ---
 # Breadboard Implementation Proficiency

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[impact-on-signal-quality|impact-on-signal-quality]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/physical-layer/physical-layer|physical-layer]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Impact of Transmission Impairments on Signal Quality

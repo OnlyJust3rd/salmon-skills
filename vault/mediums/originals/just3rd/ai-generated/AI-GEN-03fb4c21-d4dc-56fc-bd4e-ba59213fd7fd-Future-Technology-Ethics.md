@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[future-technology-ethics|future-technology-ethics]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/advanced-interaction-paradigms/advanced-interaction-paradigms|advanced-interaction-paradigms]]"
 learning-time-in-minutes: 4
 ---
 # Future Technology Ethics in Human-Computer Interaction

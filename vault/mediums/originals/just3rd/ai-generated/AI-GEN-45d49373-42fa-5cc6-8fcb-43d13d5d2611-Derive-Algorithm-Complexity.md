@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/microskills/derive-algorithm-complexity|derive-algorithm-complexity]]"
+related-skills:
+  - "[[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/algorithm-efficiency-analysis|algorithm-efficiency-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Deriving Algorithm Complexity

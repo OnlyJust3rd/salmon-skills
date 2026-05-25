@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/discrete-math/proof-techniques/microskills/proof-by-induction-structure|proof-by-induction-structure]]"
+related-skills:
+  - "[[skills/mathematics/discrete-math/proof-techniques/proof-techniques|proof-techniques]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Structure of a Proof by Induction

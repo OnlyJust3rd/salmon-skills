@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[user-performance-metrics|user-performance-metrics]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/human-cognitive-and-perception/human-cognitive-and-perception|human-cognitive-and-perception]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Cognitive Load's Impact on User Performance Metrics

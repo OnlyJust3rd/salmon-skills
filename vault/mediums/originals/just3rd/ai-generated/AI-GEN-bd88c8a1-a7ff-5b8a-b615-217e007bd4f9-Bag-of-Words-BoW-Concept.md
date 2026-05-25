@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[bag-of-words-bow-concept|bag-of-words-bow-concept]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-feature-engineering/text-feature-engineering|text-feature-engineering]]"
 learning-time-in-minutes: 3
 ---
 # Bag-of-Words (BoW) Concept

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[cloud-network-isolation|cloud-network-isolation]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/network-layer|network-layer]]"
 learning-time-in-minutes: 5
 ---
 # Cloud Network Isolation with VPCs

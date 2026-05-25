@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/sequence-and-series-convergence/microskills/monotonically-decreasing-sequence-identification|monotonically-decreasing-sequence-identification]]"
+related-skills:
+  - "[[skills/mathematics/calculus/sequence-and-series-convergence/sequence-and-series-convergence|sequence-and-series-convergence]]"
 learning-time-in-minutes: 4
 ---
 # Identifying Monotonically Decreasing Sequences

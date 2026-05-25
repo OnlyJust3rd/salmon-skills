@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[depth-first-search-dfs-java-implementation|depth-first-search-dfs-java-implementation]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/java-programming/java-programming|java-programming]]"
 learning-time-in-minutes: 4
 ---
 # Depth-First Search (DFS) Java Implementation

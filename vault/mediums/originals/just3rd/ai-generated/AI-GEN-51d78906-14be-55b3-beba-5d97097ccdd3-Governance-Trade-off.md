@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/microskills/governance-trade-off|governance-trade-off]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/lakehouse-architecture|lakehouse-architecture]]"
 learning-time-in-minutes: 5
 ---
 # Governance: Data Access and Quality Trade-offs in Lakehouses vs. Warehouses

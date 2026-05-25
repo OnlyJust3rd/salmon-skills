@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/google-bigquery/microskills/data-scan-cost|data-scan-cost]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/google-bigquery/google-bigquery|google-bigquery]]"
 learning-time-in-minutes: 4
 ---
 # Understanding BigQuery Data Scan Costs

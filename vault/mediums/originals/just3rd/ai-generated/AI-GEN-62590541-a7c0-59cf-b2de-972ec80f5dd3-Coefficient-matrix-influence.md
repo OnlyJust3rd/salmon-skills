@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/coefficient-matrix-influence|coefficient-matrix-influence]]"
+related-skills:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/matrix-algebra|matrix-algebra]]"
 learning-time-in-minutes: 5
 ---
 # Coefficient Matrix Influence in Homogeneous Systems

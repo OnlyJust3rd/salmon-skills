@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/algorithms/algorithms/microskills/problem-specific-algorithm-application|problem-specific-algorithm-application]]"
+related-skills:
+  - "[[skills/computing/computer-science/algorithms/algorithms/algorithms|algorithms]]"
 learning-time-in-minutes: 3
 ---
 # Problem-Specific Algorithm Application

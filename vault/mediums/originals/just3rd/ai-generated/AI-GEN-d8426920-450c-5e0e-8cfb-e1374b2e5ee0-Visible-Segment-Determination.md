@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/viewing-and-clipping/microskills/visible-segment-determination|visible-segment-determination]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/viewing-and-clipping/viewing-and-clipping|viewing-and-clipping]]"
 learning-time-in-minutes: 5
 ---
 # Determining Visible Segments After Clipping

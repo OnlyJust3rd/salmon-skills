@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/distinctions-between-copyright-solutions|distinctions-between-copyright-solutions]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/copyright-protection|copyright-protection]]"
 learning-time-in-minutes: 3
 ---
 # Distinguishing Copyright Protection Solutions

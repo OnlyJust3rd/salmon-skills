@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[java-objects-functionality|java-objects-functionality]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/java-programming/java-programming|java-programming]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Java Objects: The Building Blocks of Programs

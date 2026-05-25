@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/common-malfunction-causes|common-malfunction-causes]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/hardware-troubleshooting|hardware-troubleshooting]]"
 learning-time-in-minutes: 4
 ---
 # Common Causes of Hardware Malfunctions

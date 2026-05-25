@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/power-series-and-taylor-expansions/microskills/binomial-expansion-interval-of-convergence|binomial-expansion-interval-of-convergence]]"
+related-skills:
+  - "[[skills/mathematics/calculus/power-series-and-taylor-expansions/power-series-and-taylor-expansions|power-series-and-taylor-expansions]]"
 learning-time-in-minutes: 3
 ---
 # Finding the Interval of Convergence for Binomial Expansions

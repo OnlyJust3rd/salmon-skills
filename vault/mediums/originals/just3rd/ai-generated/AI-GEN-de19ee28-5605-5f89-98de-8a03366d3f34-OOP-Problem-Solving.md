@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/oop-problem-solving|oop-problem-solving]]"
+related-skills:
+  - "[[skills/computing/programming/programming-paradigms/object-oriented-programming/object-oriented-programming|object-oriented-programming]]"
 learning-time-in-minutes: 3
 ---
 # OOP Problem Solving: Modeling a Library System

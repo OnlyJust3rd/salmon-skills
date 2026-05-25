@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/engineering-practices/system-design/microskills/conceptual-architecture-development|conceptual-architecture-development]]"
+related-skills:
+  - "[[skills/professional-practice/engineering-practices/system-design/system-design|system-design]]"
 learning-time-in-minutes: 5
 ---
 # Developing a Conceptual Architecture

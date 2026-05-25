@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/digital-logic/bus-drivers-registers-and-tri-state/microskills/shift-register-types|shift-register-types]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/digital-logic/bus-drivers-registers-and-tri-state/bus-drivers-registers-and-tri-state|bus-drivers-registers-and-tri-state]]"
 learning-time-in-minutes: 3
 ---
 # Shift Register Types: SISO, SIPO, PISO, PIPO

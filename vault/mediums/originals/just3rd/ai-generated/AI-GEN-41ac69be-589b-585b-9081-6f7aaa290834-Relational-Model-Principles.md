@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/relational-model-principles|relational-model-principles]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/data-modeling|data-modeling]]"
 learning-time-in-minutes: 4
 ---
 # Relational Model Principles

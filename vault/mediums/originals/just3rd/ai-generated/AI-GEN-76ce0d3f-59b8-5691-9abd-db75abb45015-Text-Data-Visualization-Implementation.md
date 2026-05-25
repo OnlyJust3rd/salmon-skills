@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[text-data-visualization-implementation|text-data-visualization-implementation]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-visualization-and-exploratory-analysis/text-visualization-and-exploratory-analysis|text-visualization-and-exploratory-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Implementing Text Data Visualizations

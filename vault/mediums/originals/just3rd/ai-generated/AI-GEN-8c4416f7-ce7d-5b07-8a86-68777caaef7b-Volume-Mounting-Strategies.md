@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-mounting-strategies|volume-mounting-strategies]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/docker/docker|docker]]"
 learning-time-in-minutes: 5
 ---
 # Volume Mounting Strategies in Docker

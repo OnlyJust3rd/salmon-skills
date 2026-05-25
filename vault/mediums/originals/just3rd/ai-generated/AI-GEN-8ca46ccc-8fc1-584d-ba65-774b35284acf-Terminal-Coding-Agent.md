@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/ai-assisted-development/claude-code/microskills/terminal-coding-agent|terminal-coding-agent]]"
+related-skills:
+  - "[[skills/computing/software-engineering/ai-assisted-development/claude-code/claude-code|claude-code]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Terminal Coding Agent

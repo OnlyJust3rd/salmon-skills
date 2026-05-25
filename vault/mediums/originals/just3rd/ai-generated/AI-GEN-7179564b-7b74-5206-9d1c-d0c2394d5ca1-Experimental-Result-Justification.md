@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/experimental-result-justification|experimental-result-justification]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/experimental-data-evaluation|experimental-data-evaluation]]"
 learning-time-in-minutes: 5
 ---
 # Justifying Diode Circuit Experimental Results

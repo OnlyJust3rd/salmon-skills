@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/code-readability-enhancement|code-readability-enhancement]]"
+related-skills:
+  - "[[skills/computing/software-engineering/testing-quality/quality-assurance/quality-assurance|quality-assurance]]"
 learning-time-in-minutes: 3
 ---
 # Enhancing Code Readability Through Refactoring

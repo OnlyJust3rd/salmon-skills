@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[iot-data-transmission-suitability|iot-data-transmission-suitability]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/iot-network/iot-network|iot-network]]"
 learning-time-in-minutes: 5
 ---
 # IoT Data Transmission Suitability: Choosing the Right Path

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/digital-image-processing/microskills/matlab-image-visualization|matlab-image-visualization]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/digital-image-processing/digital-image-processing|digital-image-processing]]"
 learning-time-in-minutes: 4
 ---
 # Visualizing Images in MATLAB

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/datapath-control|datapath-control]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/machine-instruction|machine-instruction]]"
 learning-time-in-minutes: 5
 ---
 # Implementing Datapath Control

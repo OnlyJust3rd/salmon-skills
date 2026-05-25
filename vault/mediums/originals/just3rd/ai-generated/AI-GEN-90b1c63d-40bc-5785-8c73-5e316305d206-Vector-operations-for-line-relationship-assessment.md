@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/linear-algebra/vector/microskills/vector-operations-for-line-relationship-assessment|vector-operations-for-line-relationship-assessment]]"
+related-skills:
+  - "[[skills/mathematics/linear-algebra/vector/vector|vector]]"
 learning-time-in-minutes: 4
 ---
 # Using Vector Operations to Determine Line Relationships

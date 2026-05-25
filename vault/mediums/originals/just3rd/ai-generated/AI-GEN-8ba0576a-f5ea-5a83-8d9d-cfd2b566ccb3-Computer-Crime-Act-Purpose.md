@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/digital-law/thai-digital-law/microskills/computer-crime-act-purpose|computer-crime-act-purpose]]"
+related-skills:
+  - "[[skills/professional-practice/digital-law/thai-digital-law/thai-digital-law|thai-digital-law]]"
 learning-time-in-minutes: 2
 ---
 # Understanding the Purpose of Thailand's Computer Crime Act

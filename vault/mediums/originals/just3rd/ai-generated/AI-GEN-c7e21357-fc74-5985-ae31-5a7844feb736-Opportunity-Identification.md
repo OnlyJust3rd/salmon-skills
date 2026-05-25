@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/product-management/competitor-analysis/microskills/opportunity-identification|opportunity-identification]]"
+related-skills:
+  - "[[skills/business/product-management/competitor-analysis/competitor-analysis|competitor-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Identifying Market Opportunities Through Competitive Analysis

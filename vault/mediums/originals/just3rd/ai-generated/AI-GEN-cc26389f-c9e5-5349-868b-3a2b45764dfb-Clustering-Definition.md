@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/clustering-definition|clustering-definition]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/iot-data-analytics|iot-data-analytics]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Clustering in IoT Data

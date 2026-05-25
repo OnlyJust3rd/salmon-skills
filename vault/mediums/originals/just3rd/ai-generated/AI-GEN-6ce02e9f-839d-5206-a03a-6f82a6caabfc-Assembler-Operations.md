@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/assembler-operations|assembler-operations]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/operating-system|operating-system]]"
 learning-time-in-minutes: 3
 ---
 # Assembler Operations: Translating Human Code into Machine Language

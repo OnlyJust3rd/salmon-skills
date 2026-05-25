@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/perspective-projection/microskills/foreshortening-concept|foreshortening-concept]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/perspective-projection/perspective-projection|perspective-projection]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Foreshortening in Perspective Projection

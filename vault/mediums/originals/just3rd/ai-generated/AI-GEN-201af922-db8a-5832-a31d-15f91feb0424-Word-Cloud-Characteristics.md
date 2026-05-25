@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[word-cloud-characteristics|word-cloud-characteristics]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-visualization-and-exploratory-analysis/text-visualization-and-exploratory-analysis|text-visualization-and-exploratory-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Word Clouds: Visualizing Text Frequency

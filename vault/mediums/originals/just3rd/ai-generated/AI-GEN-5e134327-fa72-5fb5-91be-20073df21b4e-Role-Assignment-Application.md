@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/engineering-practices/team-collaboration/microskills/role-assignment-application|role-assignment-application]]"
+related-skills:
+  - "[[skills/professional-practice/engineering-practices/team-collaboration/team-collaboration|team-collaboration]]"
 learning-time-in-minutes: 5
 ---
 # Assigning Roles for Effective Teamwork

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[bellman-ford-algorithm-java-implementation|bellman-ford-algorithm-java-implementation]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/java-programming/java-programming|java-programming]]"
 learning-time-in-minutes: 4
 ---
 # Implementing the Bellman-Ford Algorithm in Java

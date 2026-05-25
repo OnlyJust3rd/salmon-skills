@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/decision-alternatives-documentation|decision-alternatives-documentation]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-practices/software-engineering/software-engineering|software-engineering]]"
 learning-time-in-minutes: 4
 ---
 # Documenting Decision Alternatives

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[usability-issue-identification|usability-issue-identification]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/usability-evaluation/usability-evaluation|usability-evaluation]]"
 learning-time-in-minutes: 6
 ---
 # Identifying Usability Issues with Heuristics

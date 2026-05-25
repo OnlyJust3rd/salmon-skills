@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/fourier-series-analysis/microskills/discrete-time-fourier-series-dtfs-definition|discrete-time-fourier-series-dtfs-definition]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/fourier-series-analysis/fourier-series-analysis|fourier-series-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Discrete-Time Fourier Series (DTFS) Definition

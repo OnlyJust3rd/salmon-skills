@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[resource-consumption-analysis|resource-consumption-analysis]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/linux-system|linux-system]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Process Resource Utilization in Linux

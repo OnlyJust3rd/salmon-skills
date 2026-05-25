@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/signal-inversion-requirement-implementation|signal-inversion-requirement-implementation]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/electronics/amplifier-design/amplifier-design|amplifier-design]]"
 learning-time-in-minutes: 3
 ---
 # Implementing Signal Inversion with Operational Amplifiers

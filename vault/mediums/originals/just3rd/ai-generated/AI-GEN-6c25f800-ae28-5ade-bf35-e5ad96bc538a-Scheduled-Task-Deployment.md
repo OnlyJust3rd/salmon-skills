@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/scheduled-task-deployment|scheduled-task-deployment]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/kubernetes|kubernetes]]"
 learning-time-in-minutes: 4
 ---
 # Deploying Scheduled Tasks with Kubernetes CronJobs

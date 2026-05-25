@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/linear-algebra/quadratic-forms-and-definiteness/microskills/positive-definite-classification|positive-definite-classification]]"
+related-skills:
+  - "[[skills/mathematics/linear-algebra/quadratic-forms-and-definiteness/quadratic-forms-and-definiteness|quadratic-forms-and-definiteness]]"
 learning-time-in-minutes: 4
 ---
 # Positive Definite Classification Using Eigenvalues

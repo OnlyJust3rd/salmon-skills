@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Creating Tables in MySQL with `CREATE TABLE`"
+type: medium
+title: Creating Tables in MySQL with `CREATE TABLE`
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/relational-databases/mysql/microskills/table-creation-statements|table-creation-statements]]"
+  - "[[table-creation-statements|table-creation-statements]]"
+related-skills:
+  - "[[mysql|mysql]]"
 learning-time-in-minutes: 4
 ---
 # Creating Tables in MySQL with `CREATE TABLE`
@@ -104,4 +106,4 @@ By mastering the `CREATE TABLE` statement, you are effectively applying the foun
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/relational-databases/mysql/microskills/table-creation-statements|Table Creation Statements]]
+- [[table-creation-statements|Table Creation Statements]]

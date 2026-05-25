@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[problem-solving-with-reactive-control|problem-solving-with-reactive-control]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/robotics/robotics|robotics]]"
 learning-time-in-minutes: 4
 ---
 # Problem Solving with Reactive Control

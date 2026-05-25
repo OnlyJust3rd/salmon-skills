@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[volatile-qualifier-purpose|volatile-qualifier-purpose]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-programming/bare-metal-c-programming/bare-metal-c-programming|bare-metal-c-programming]]"
 learning-time-in-minutes: 3
 ---
 # The `volatile` Qualifier: Keeping the Compiler Honest

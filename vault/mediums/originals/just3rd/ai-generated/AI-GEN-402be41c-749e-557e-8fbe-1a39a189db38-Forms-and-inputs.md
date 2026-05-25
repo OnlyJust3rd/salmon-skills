@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/frontend-development/html/microskills/forms-and-inputs|forms-and-inputs]]"
+related-skills:
+  - "[[skills/computing/software-engineering/frontend-development/html/html|html]]"
 learning-time-in-minutes: 4
 ---
 # Understanding HTML Forms and Inputs

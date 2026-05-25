@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[iot-data-processing-at-the-edge|iot-data-processing-at-the-edge]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/edge-computing/edge-computing|edge-computing]]"
 learning-time-in-minutes: 5
 ---
 # IoT Data Processing at the Edge

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/digital-image-processing/microskills/digital-image-components|digital-image-components]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/digital-image-processing/digital-image-processing|digital-image-processing]]"
 learning-time-in-minutes: 5
 ---
 # Digital Image Components: The Building Blocks of Visual Information

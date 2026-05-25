@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-audio/microskills/audio-trigger|audio-trigger]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-audio/game-audio|game-audio]]"
 learning-time-in-minutes: 5
 ---
 # Audio Triggers: Bringing Games to Life with Sound

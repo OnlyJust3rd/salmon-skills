@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[requirement-discovery-techniques|requirement-discovery-techniques]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/user-centered-design/user-centered-design|user-centered-design]]"
 learning-time-in-minutes: 4
 ---
 # Requirement Discovery Techniques

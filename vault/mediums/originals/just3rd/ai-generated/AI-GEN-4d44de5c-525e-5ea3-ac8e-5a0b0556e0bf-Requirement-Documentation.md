@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[requirement-documentation|requirement-documentation]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/user-centered-design/user-centered-design|user-centered-design]]"
 learning-time-in-minutes: 4
 ---
 # Documenting User Requirements

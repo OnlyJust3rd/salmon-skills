@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[forward-pass-mechanism|forward-pass-mechanism]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/machine-learning/deep-learning/deep-learning/deep-learning|deep-learning]]"
 learning-time-in-minutes: 4
 ---
 # The Forward Pass: How Neural Networks "See" Data

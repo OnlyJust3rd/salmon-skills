@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[read-modify-write-pattern|read-modify-write-pattern]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-programming/bare-metal-c-programming/bare-metal-c-programming|bare-metal-c-programming]]"
 learning-time-in-minutes: 3
 ---
 # The Read-Modify-Write Pattern for Register Manipulation

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-visualization/microskills/visualization-implementation|visualization-implementation]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-visualization/data-visualization|data-visualization]]"
 learning-time-in-minutes: 3
 ---
 # Visualization Implementation with Matplotlib

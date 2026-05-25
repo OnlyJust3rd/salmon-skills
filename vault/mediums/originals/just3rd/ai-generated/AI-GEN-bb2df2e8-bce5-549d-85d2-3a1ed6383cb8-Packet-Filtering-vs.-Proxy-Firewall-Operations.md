@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/network-security-access-control/microskills/packet-filtering-vs-proxy-firewall-operations|packet-filtering-vs-proxy-firewall-operations]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/network-security-access-control/network-security-access-control|network-security-access-control]]"
 learning-time-in-minutes: 5
 ---
 # Packet Filtering vs. Proxy Firewall Operations

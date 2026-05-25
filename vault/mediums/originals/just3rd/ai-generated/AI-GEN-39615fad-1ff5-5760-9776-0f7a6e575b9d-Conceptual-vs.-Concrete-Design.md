@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[conceptual-vs-concrete-design|conceptual-vs-concrete-design]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/interactive-system-development/interactive-system-development|interactive-system-development]]"
 learning-time-in-minutes: 5
 ---
 # Conceptual vs. Concrete Design in Prototyping

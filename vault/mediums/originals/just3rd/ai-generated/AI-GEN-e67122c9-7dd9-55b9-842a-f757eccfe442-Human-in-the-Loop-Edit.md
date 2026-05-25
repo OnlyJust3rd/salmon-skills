@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/ai-assisted-development/ai-assisted-software-development/microskills/human-in-the-loop-edit|human-in-the-loop-edit]]"
+related-skills:
+  - "[[skills/computing/software-engineering/ai-assisted-development/ai-assisted-software-development/ai-assisted-software-development|ai-assisted-software-development]]"
 learning-time-in-minutes: 5
 ---
 # Human-in-the-Loop Editing for AI-Generated Code

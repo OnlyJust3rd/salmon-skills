@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/risc-vs-cisc-architectures|risc-vs-cisc-architectures]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/machine-instruction|machine-instruction]]"
 learning-time-in-minutes: 4
 ---
 # RISC vs. CISC Architectures

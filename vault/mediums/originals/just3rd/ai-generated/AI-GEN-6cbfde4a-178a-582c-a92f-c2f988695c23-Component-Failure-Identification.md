@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/component-failure-identification|component-failure-identification]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/hardware-troubleshooting|hardware-troubleshooting]]"
 learning-time-in-minutes: 3
 ---
 # Component Failure Identification in Digital Circuits

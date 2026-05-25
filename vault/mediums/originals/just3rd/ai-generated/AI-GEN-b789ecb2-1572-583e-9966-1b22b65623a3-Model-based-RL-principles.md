@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[model-based-rl-principles|model-based-rl-principles]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/machine-learning/reinforcement-learning/reinforcement-learning|reinforcement-learning]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Model-Based Reinforcement Learning

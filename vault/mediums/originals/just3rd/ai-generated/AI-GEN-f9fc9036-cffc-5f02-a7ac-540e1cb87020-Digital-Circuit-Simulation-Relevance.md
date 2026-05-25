@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/digital-circuit-simulation-relevance|digital-circuit-simulation-relevance]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/proteus-8-simulation|proteus-8-simulation]]"
 learning-time-in-minutes: 5
 ---
 # Digital Circuit Simulation Relevance in Proteus 8

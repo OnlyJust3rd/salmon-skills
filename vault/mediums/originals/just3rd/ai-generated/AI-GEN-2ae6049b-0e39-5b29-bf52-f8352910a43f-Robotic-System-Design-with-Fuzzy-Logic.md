@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/robotic-system-design-with-fuzzy-logic|robotic-system-design-with-fuzzy-logic]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/soft-computing/soft-computing|soft-computing]]"
 learning-time-in-minutes: 5
 ---
 # Designing Robotic Systems with Fuzzy Logic

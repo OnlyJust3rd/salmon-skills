@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-practices/software-version-control/microskills/software-configuration-management-definition|software-configuration-management-definition]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-practices/software-version-control/software-version-control|software-version-control]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Software Configuration Management (SCM)

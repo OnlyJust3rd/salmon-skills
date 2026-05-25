@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/digital-logic/bus-drivers-registers-and-tri-state/microskills/shift-register-operation|shift-register-operation]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/digital-logic/bus-drivers-registers-and-tri-state/bus-drivers-registers-and-tri-state|bus-drivers-registers-and-tri-state]]"
 learning-time-in-minutes: 3
 ---
 # Shift Register Operation: Moving Data In and Out

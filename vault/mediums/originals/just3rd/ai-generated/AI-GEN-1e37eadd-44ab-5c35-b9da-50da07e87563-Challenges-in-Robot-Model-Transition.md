@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[challenges-in-robot-model-transition|challenges-in-robot-model-transition]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/evolutional-robotics/evolutional-robotics|evolutional-robotics]]"
 learning-time-in-minutes: 4
 ---
 # Challenges in Robot Model Transition

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/entrepreneurship/lean-startup/microskills/poc-development-guidance|poc-development-guidance]]"
+related-skills:
+  - "[[skills/business/entrepreneurship/lean-startup/lean-startup|lean-startup]]"
 learning-time-in-minutes: 4
 ---
 # Guidance for Proof of Concept (PoC) Development using Build-Measure-Learn

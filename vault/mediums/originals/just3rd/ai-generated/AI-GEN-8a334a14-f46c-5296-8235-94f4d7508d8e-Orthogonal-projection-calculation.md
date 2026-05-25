@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/linear-algebra/vector/microskills/orthogonal-projection-calculation|orthogonal-projection-calculation]]"
+related-skills:
+  - "[[skills/mathematics/linear-algebra/vector/vector|vector]]"
 learning-time-in-minutes: 4
 ---
 # Calculating Orthogonal Projections of Vectors

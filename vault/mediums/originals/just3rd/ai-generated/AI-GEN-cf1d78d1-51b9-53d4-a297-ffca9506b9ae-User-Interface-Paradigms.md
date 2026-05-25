@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[user-interface-paradigms|user-interface-paradigms]]"
+related-skills:
+  - "[[skills/digital-media/human-computer-interaction/human-computer-interaction|human-computer-interaction]]"
 learning-time-in-minutes: 4
 ---
 # User Interface Paradigms: A Historical Overview

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/career-development/it-career-path/microskills/contribution-to-growth|contribution-to-growth]]"
+related-skills:
+  - "[[skills/professional-practice/career-development/it-career-path/it-career-path|it-career-path]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Contribution of Support Roles to Your IT Career

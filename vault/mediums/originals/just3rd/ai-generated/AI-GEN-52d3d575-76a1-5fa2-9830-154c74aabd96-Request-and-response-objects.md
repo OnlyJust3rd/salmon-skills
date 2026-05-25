@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/backend-development/express-js/microskills/request-and-response-objects|request-and-response-objects]]"
+related-skills:
+  - "[[skills/computing/software-engineering/backend-development/express-js/express-js|express-js]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Request and Response Objects in Express.js

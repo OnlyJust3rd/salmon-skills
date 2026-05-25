@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/corporate-operations/organizational-structures/microskills/structure-advantages|structure-advantages]]"
+related-skills:
+  - "[[skills/business/corporate-operations/organizational-structures/organizational-structures|organizational-structures]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Advantages of Organizational Structures

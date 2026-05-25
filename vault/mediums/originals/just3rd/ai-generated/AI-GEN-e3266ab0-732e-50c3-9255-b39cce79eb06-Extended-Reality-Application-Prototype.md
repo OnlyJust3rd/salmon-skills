@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[extended-reality-application-prototype|extended-reality-application-prototype]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/advanced-interaction-paradigms/advanced-interaction-paradigms|advanced-interaction-paradigms]]"
 learning-time-in-minutes: 3
 ---
 # Building Your First XR Application Prototype

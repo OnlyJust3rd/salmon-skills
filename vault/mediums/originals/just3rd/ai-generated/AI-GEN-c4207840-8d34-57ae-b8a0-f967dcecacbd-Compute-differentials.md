@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/derivative-computation-and-analysis/microskills/compute-differentials|compute-differentials]]"
+related-skills:
+  - "[[skills/mathematics/calculus/derivative-computation-and-analysis/derivative-computation-and-analysis|derivative-computation-and-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Computing Differentials

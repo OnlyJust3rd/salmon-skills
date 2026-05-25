@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[state-definition|state-definition]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/machine-learning/reinforcement-learning/reinforcement-learning|reinforcement-learning]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the "State" in Reinforcement Learning

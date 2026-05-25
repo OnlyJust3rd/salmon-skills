@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/i2c-sensor-interfacing|i2c-sensor-interfacing]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/embedded-system-interfacing|embedded-system-interfacing]]"
 learning-time-in-minutes: 4
 ---
 # I2C Sensor Interfacing with AVR Microcontrollers

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[external-interrupt-configuration|external-interrupt-configuration]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-programming/avr-peripheral-programming/avr-peripheral-programming|avr-peripheral-programming]]"
 learning-time-in-minutes: 5
 ---
 # External Interrupt Configuration for AVR Microcontrollers

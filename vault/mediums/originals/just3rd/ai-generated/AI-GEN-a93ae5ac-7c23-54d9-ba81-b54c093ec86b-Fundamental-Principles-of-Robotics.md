@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[fundamental-principles-of-robotics|fundamental-principles-of-robotics]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/robotics/robotics|robotics]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Building Blocks of Robotics

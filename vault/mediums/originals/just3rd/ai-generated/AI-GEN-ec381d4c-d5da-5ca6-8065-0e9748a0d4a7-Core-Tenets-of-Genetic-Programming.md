@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/core-tenets-of-genetic-programming|core-tenets-of-genetic-programming]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/computational-evolution-theory|computational-evolution-theory]]"
 learning-time-in-minutes: 4
 ---
 # Core Tenets of Genetic Programming

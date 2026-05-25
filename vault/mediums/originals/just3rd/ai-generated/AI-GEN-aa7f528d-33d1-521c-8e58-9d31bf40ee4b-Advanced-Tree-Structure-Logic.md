@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/algorithms/algorithms/microskills/advanced-tree-structure-logic|advanced-tree-structure-logic]]"
+related-skills:
+  - "[[skills/computing/computer-science/algorithms/algorithms/algorithms|algorithms]]"
 learning-time-in-minutes: 3
 ---
 # Advanced Tree Structure Logic

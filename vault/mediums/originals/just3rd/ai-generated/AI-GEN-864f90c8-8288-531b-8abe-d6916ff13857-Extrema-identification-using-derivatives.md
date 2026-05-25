@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/derivative-computation-and-analysis/microskills/extrema-identification-using-derivatives|extrema-identification-using-derivatives]]"
+related-skills:
+  - "[[skills/mathematics/calculus/derivative-computation-and-analysis/derivative-computation-and-analysis|derivative-computation-and-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Finding Local Extrema with Derivatives

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/cluster-computing-identification|cluster-computing-identification]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/processor-architecture|processor-architecture]]"
 learning-time-in-minutes: 4
 ---
 # Cluster Computing Identification

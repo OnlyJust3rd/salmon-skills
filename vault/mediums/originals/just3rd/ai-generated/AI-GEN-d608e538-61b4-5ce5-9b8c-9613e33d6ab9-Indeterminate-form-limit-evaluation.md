@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/calculus-theorems-application/microskills/indeterminate-form-limit-evaluation|indeterminate-form-limit-evaluation]]"
+related-skills:
+  - "[[skills/mathematics/calculus/calculus-theorems-application/calculus-theorems-application|calculus-theorems-application]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Indeterminate Forms and L'Hôpital's Rule

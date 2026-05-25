@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/sequence-and-series-convergence/microskills/sequence-convergence-determination|sequence-convergence-determination]]"
+related-skills:
+  - "[[skills/mathematics/calculus/sequence-and-series-convergence/sequence-and-series-convergence|sequence-and-series-convergence]]"
 learning-time-in-minutes: 4
 ---
 # Determining Sequence Convergence: Applying Properties

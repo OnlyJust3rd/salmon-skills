@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/fourier-transform-analysis/microskills/magnitude-and-phase-spectra-computation|magnitude-and-phase-spectra-computation]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/fourier-transform-analysis/fourier-transform-analysis|fourier-transform-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Magnitude and Phase Spectra Computation

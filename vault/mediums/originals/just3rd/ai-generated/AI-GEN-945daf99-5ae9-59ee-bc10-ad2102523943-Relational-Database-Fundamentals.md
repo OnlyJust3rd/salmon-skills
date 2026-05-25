@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Relational Database Fundamentals"
+type: medium
+title: Relational Database Fundamentals
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/relational-database-fundamentals|relational-database-fundamentals]]"
+  - "[[relational-database-fundamentals|relational-database-fundamentals]]"
+related-skills:
+  - "[[database-systems|database-systems]]"
 learning-time-in-minutes: 4
 ---
 # Relational Database Fundamentals
@@ -92,4 +94,4 @@ Imagine you are managing data for a simple library. You need to store informatio
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/relational-database-fundamentals|Relational Database Fundamentals]]
+- [[relational-database-fundamentals|Relational Database Fundamentals]]

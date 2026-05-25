@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/apache-spark/microskills/lazy-evaluation|lazy-evaluation]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/apache-spark/apache-spark|apache-spark]]"
 learning-time-in-minutes: 2
 ---
 # Lazy Evaluation in Apache Spark

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-development-lifecycle/microskills/game-development-process-interpretation|game-development-process-interpretation]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-development-lifecycle/game-development-lifecycle|game-development-lifecycle]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Game Development Process: Interpreting the Flow

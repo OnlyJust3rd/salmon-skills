@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Understanding How Indexes Support Query Predicates"
+type: medium
+title: Understanding How Indexes Support Query Predicates
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/database-performance/database-indexing/microskills/query-predicate-support|query-predicate-support]]"
+  - "[[query-predicate-support|query-predicate-support]]"
+related-skills:
+  - "[[skills/computing/data-ai/database-system/database-performance/database-indexing/database-indexing|database-indexing]]"
 learning-time-in-minutes: 3
 ---
 # Understanding How Indexes Support Query Predicates
@@ -77,4 +79,4 @@ Write an SQL query to find all customers whose email address starts with 'a' and
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/database-performance/database-indexing/microskills/query-predicate-support|Query Predicate Support]]
+- [[query-predicate-support|Query Predicate Support]]

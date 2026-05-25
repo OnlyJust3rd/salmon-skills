@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/digital-image-processing/microskills/image-scaling|image-scaling]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/digital-image-processing/digital-image-processing|digital-image-processing]]"
 learning-time-in-minutes: 4
 ---
 # Image Scaling: Resizing Your Digital Images

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[situational-applicability-of-nosql|situational-applicability-of-nosql]]"
+related-skills:
+  - "[[nosql-database-system|nosql-database-system]]"
 learning-time-in-minutes: 5
 ---
 # When NoSQL Shines: Situational Applicability

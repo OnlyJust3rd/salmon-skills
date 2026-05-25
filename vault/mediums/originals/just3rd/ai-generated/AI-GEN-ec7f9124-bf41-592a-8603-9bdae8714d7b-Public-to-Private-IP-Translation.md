@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[public-to-private-ip-translation|public-to-private-ip-translation]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/network-layer|network-layer]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Public to Private IP Translation in NAT

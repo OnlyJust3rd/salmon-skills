@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/gram-schmidt-algorithm-steps|gram-schmidt-algorithm-steps]]"
+related-skills:
+  - "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/subspaces-and-orthogonality|subspaces-and-orthogonality]]"
 learning-time-in-minutes: 5
 ---
 # Gram-Schmidt Algorithm Steps

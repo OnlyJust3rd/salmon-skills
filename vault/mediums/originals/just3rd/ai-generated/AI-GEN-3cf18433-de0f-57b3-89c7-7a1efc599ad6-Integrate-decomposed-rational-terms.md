@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/integral-evaluation/microskills/integrate-decomposed-rational-terms|integrate-decomposed-rational-terms]]"
+related-skills:
+  - "[[skills/mathematics/calculus/integral-evaluation/integral-evaluation|integral-evaluation]]"
 learning-time-in-minutes: 4
 ---
 # Integrating Decomposed Rational Terms

@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Retrieving Data with SELECT Statements"
+type: medium
+title: Retrieving Data with SELECT Statements
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/relational-databases/sql/microskills/data-retrieval-operations|data-retrieval-operations]]"
+  - "[[data-retrieval-operations|data-retrieval-operations]]"
+related-skills:
+  - "[[sql|sql]]"
 learning-time-in-minutes: 4
 ---
 # Retrieving Data with SELECT Statements
@@ -163,4 +165,4 @@ Experiment with these queries. The ability to precisely retrieve the data you ne
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/relational-databases/sql/microskills/data-retrieval-operations|Data Retrieval Operations]]
+- [[data-retrieval-operations|Data Retrieval Operations]]

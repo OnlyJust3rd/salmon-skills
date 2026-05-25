@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-ui/microskills/hud-layout|hud-layout]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-ui/game-ui|game-ui]]"
 learning-time-in-minutes: 5
 ---
 # HUD Layout: Arranging Gameplay Information

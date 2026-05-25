@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/product-management/feasibility-analysis/microskills/irr-calculation-and-analysis|irr-calculation-and-analysis]]"
+related-skills:
+  - "[[skills/business/product-management/feasibility-analysis/feasibility-analysis|feasibility-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Understanding and Calculating Internal Rate of Return (IRR)

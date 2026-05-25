@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/ai-assisted-development/prompt-engineering/microskills/iterative-refinement|iterative-refinement]]"
+related-skills:
+  - "[[skills/computing/software-engineering/ai-assisted-development/prompt-engineering/prompt-engineering|prompt-engineering]]"
 learning-time-in-minutes: 4
 ---
 # Iterative Refinement: Honing Your Prompts

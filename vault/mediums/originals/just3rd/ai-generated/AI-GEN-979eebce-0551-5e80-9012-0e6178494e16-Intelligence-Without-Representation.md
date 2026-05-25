@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[intelligence-without-representation|intelligence-without-representation]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/robotics/robotics|robotics]]"
 learning-time-in-minutes: 4
 ---
 # Intelligence Without Representation

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[sensitive-data-masking-implementation|sensitive-data-masking-implementation]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-cleaning-and-normalization/text-cleaning-and-normalization|text-cleaning-and-normalization]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Sensitive Data Masking

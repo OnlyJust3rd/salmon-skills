@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[reusable-component-integration|reusable-component-integration]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/c-programming/c-programming|c-programming]]"
 learning-time-in-minutes: 3
 ---
 # Integrating Reusable Components in C

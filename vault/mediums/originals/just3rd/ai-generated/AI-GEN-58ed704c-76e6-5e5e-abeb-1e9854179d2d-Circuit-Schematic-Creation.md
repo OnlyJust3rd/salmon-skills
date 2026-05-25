@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/circuit-schematic-creation|circuit-schematic-creation]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/proteus-8-simulation|proteus-8-simulation]]"
 learning-time-in-minutes: 4
 ---
 # Creating Circuit Schematics in Proteus 8

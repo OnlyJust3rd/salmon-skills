@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/engineering-practices/engineering-principle-application/microskills/engineering-analysis-problem-solving|engineering-analysis-problem-solving]]"
+related-skills:
+  - "[[skills/professional-practice/engineering-practices/engineering-principle-application/engineering-principle-application|engineering-principle-application]]"
 learning-time-in-minutes: 7
 ---
 # Engineering Analysis Problem Solving

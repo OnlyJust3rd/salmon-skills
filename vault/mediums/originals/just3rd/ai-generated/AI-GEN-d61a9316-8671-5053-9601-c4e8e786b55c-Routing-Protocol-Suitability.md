@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[routing-protocol-suitability|routing-protocol-suitability]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/routing-algorithms|routing-algorithms]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Routing Protocol Suitability for Network Scale

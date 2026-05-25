@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/product-management/competitor-analysis/microskills/strategic-planning|strategic-planning]]"
+related-skills:
+  - "[[skills/business/product-management/competitor-analysis/competitor-analysis|competitor-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Informing Strategy with Competitive Insights

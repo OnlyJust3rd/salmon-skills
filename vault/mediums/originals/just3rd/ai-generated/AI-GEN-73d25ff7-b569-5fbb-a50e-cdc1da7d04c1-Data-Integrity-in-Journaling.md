@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[data-integrity-in-journaling|data-integrity-in-journaling]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/io-and-file-systems|io-and-file-systems]]"
 learning-time-in-minutes: 6
 ---
 # Data Integrity in Journaling File Systems

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[rationale-for-text-cleaning|rationale-for-text-cleaning]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-cleaning-and-normalization/text-cleaning-and-normalization|text-cleaning-and-normalization]]"
 learning-time-in-minutes: 4
 ---
 # Why Clean Your Text Data?

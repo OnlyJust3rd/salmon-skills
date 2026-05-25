@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/polar-coordinate-systems/microskills/polar-curve-symmetry-application|polar-curve-symmetry-application]]"
+related-skills:
+  - "[[skills/mathematics/calculus/polar-coordinate-systems/polar-coordinate-systems|polar-coordinate-systems]]"
 learning-time-in-minutes: 5
 ---
 # Applying Polar Curve Symmetry for Sketching

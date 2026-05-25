@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[layer-types|layer-types]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/machine-learning/deep-learning/deep-learning/deep-learning|deep-learning]]"
 learning-time-in-minutes: 3
 ---
 # Neural Network Layer Types

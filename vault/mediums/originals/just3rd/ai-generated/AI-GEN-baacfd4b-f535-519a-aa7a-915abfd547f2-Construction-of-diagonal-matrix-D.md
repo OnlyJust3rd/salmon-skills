@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/construction-of-diagonal-matrix-d|construction-of-diagonal-matrix-d]]"
+related-skills:
+  - "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/spectral-analysis-and-matrix-decomposition|spectral-analysis-and-matrix-decomposition]]"
 learning-time-in-minutes: 3
 ---
 # Constructing the Diagonal Matrix D

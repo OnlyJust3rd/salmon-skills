@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/algorithms/computational-model-understanding/microskills/acceptance-condition|acceptance-condition]]"
+related-skills:
+  - "[[skills/computing/computer-science/algorithms/computational-model-understanding/computational-model-understanding|computational-model-understanding]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Acceptance Condition of a Finite Automaton

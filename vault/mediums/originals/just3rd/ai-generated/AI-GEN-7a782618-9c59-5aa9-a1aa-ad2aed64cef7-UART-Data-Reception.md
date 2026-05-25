@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[uart-data-reception|uart-data-reception]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-programming/avr-communication-programming/avr-communication-programming|avr-communication-programming]]"
 learning-time-in-minutes: 4
 ---
 # UART Data Reception

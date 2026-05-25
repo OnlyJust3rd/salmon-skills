@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/storage-provisioning-types|storage-provisioning-types]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/cloud-infrastructure|cloud-infrastructure]]"
 learning-time-in-minutes: 4
 ---
 # Storage Provisioning Types: Block, File, and Object Storage

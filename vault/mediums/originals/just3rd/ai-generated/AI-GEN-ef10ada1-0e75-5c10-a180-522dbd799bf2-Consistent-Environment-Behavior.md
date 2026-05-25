@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/consistent-environment-behavior|consistent-environment-behavior]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/system-virtualization|system-virtualization]]"
 learning-time-in-minutes: 4
 ---
 # Containers: The Secret to Consistent Application Behavior

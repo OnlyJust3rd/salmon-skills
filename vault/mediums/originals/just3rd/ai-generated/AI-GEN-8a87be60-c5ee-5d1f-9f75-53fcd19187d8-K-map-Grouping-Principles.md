@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/k-map-grouping-principles|k-map-grouping-principles]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/combinational-logic-design|combinational-logic-design]]"
 learning-time-in-minutes: 4
 ---
 # K-map Grouping Principles

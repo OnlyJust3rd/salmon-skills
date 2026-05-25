@@ -8,6 +8,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/engineering-practices/system-design/competencies/L2-inform-system-design|L2-inform-system-design]]"
+related-skills:
+  - "[[skills/professional-practice/engineering-practices/system-design/system-design|system-design]]"
 learning-time-in-minutes: 90
 source: GitHub
 ---

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/linear-algebra/vector/microskills/angle-between-vectors-interpretation|angle-between-vectors-interpretation]]"
+related-skills:
+  - "[[skills/mathematics/linear-algebra/vector/vector|vector]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Angle Between Vectors

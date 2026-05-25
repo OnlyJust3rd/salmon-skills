@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[redundant-path-management|redundant-path-management]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/data-link-layer/data-link-layer|data-link-layer]]"
 learning-time-in-minutes: 4
 ---
 # Managing Redundant Paths with Spanning Tree Protocol (STP)

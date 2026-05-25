@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/determinant-computation|determinant-computation]]"
+related-skills:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/matrix-algebra|matrix-algebra]]"
 learning-time-in-minutes: 3
 ---
 # Determinant Computation for 2x2 and 3x3 Matrices

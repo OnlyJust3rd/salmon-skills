@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/mathematical-analysis-of-test-data|mathematical-analysis-of-test-data]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/iterative-prototyping-and-testing|iterative-prototyping-and-testing]]"
 learning-time-in-minutes: 5
 ---
 # Mathematical Analysis of Test Data

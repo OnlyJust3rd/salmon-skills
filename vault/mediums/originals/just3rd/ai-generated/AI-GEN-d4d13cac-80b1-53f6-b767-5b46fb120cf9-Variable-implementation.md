@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[variable-implementation|variable-implementation]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/c-programming/c-programming|c-programming]]"
 learning-time-in-minutes: 2
 ---
 # Variable Implementation in C

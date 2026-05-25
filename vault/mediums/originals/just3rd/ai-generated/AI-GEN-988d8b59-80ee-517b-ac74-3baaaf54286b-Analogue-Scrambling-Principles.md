@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/analogue-scrambling-principles|analogue-scrambling-principles]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/speech-security-assessment/speech-security-assessment|speech-security-assessment]]"
 learning-time-in-minutes: 5
 ---
 # Analogue Scrambling Principles

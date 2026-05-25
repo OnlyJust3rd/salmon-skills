@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/ac-circuit-analysis|ac-circuit-analysis]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-analysis/circuit-analysis|circuit-analysis]]"
 learning-time-in-minutes: 3
 ---
 # AC Circuit Analysis with Mesh and Nodal Methods

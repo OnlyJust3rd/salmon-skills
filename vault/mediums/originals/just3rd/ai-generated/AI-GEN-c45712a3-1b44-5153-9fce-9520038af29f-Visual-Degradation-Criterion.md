@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/visual-degradation-criterion|visual-degradation-criterion]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/selective-encryption/selective-encryption|selective-encryption]]"
 learning-time-in-minutes: 6
 ---
 # Analyzing the Visual Degradation Criterion for Selective Encryption

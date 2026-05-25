@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/viewing-and-clipping/microskills/viewport-definition|viewport-definition]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/viewing-and-clipping/viewing-and-clipping|viewing-and-clipping]]"
 learning-time-in-minutes: 4
 ---
 # Defining the Viewport

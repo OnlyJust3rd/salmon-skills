@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/abstraction-definition|abstraction-definition]]"
+related-skills:
+  - "[[skills/computing/programming/programming-paradigms/object-oriented-programming/object-oriented-programming|object-oriented-programming]]"
 learning-time-in-minutes: 2
 ---
 # Understanding Abstraction in Object-Oriented Programming

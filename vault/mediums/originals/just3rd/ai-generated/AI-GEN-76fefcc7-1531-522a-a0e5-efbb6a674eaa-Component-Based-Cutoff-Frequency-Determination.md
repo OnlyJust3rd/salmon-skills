@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/component-based-cutoff-frequency-determination|component-based-cutoff-frequency-determination]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/electronics/filter-design/filter-design|filter-design]]"
 learning-time-in-minutes: 3
 ---
 # Calculating Cutoff Frequency with Component Values

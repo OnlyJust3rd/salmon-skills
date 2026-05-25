@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[autonomous-maze-traversal-simulation|autonomous-maze-traversal-simulation]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/robotics/robotics|robotics]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Autonomous Maze Traversal with Fuzzy Logic Simulation

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[fog-computing-ai-tasks|fog-computing-ai-tasks]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/edge-computing/edge-computing|edge-computing]]"
 learning-time-in-minutes: 4
 ---
 # Executing AI Tasks on Fog Nodes

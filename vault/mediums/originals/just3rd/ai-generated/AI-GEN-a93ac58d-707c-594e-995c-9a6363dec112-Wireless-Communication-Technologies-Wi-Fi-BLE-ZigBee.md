@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[wireless-communication-technologies-wi-fi-ble-zigbee|wireless-communication-technologies-wi-fi-ble-zigbee]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/iot-network/iot-network|iot-network]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Wireless Communication Technologies for IoT

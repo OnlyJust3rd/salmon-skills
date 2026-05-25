@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/volume-calculation-using-triple-integrals|volume-calculation-using-triple-integrals]]"
+related-skills:
+  - "[[skills/mathematics/calculus/multiple-integral-evaluation/multiple-integral-evaluation|multiple-integral-evaluation]]"
 learning-time-in-minutes: 4
 ---
 # Calculating Volume with Triple Integrals

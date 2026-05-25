@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/noise-interference-recognition|noise-interference-recognition]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/hardware-troubleshooting|hardware-troubleshooting]]"
 learning-time-in-minutes: 4
 ---
 # Recognizing Noise Interference in Digital Circuits

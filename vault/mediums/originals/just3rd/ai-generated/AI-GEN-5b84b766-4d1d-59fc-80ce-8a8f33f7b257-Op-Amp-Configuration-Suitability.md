@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/op-amp-configuration-suitability|op-amp-configuration-suitability]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/electronics/amplifier-design/amplifier-design|amplifier-design]]"
 learning-time-in-minutes: 5
 ---
 # Evaluating Op-Amp Configuration Suitability

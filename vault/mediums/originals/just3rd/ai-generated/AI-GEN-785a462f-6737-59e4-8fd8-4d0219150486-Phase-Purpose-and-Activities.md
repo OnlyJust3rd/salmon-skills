@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-development-lifecycle/microskills/phase-purpose-and-activities|phase-purpose-and-activities]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-development-lifecycle/game-development-lifecycle|game-development-lifecycle]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Game Development Phases: Purpose and Activities

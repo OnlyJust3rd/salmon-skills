@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[packet-forwarding|packet-forwarding]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/network-layers/routing-and-switching/routing-and-switching|routing-and-switching]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Packet Forwarding: How Routers Use IP Destinations

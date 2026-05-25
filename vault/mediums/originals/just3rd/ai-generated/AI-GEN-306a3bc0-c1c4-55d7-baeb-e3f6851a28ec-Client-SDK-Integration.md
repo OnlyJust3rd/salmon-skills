@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/client-sdk-integration|client-sdk-integration]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/firebase|firebase]]"
 learning-time-in-minutes: 4
 ---
 # Client SDK Integration with Firebase

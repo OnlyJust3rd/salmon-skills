@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[automated-task-implementation|automated-task-implementation]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/linux-system|linux-system]]"
 learning-time-in-minutes: 4
 ---
 # Automating Tasks with Cron

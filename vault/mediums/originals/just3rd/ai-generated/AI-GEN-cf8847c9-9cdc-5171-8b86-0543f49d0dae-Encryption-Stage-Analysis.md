@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/encryption-stage-analysis|encryption-stage-analysis]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/selective-encryption/selective-encryption|selective-encryption]]"
 learning-time-in-minutes: 5
 ---
 # Encryption Stage Analysis: Where Does Encryption Fit?

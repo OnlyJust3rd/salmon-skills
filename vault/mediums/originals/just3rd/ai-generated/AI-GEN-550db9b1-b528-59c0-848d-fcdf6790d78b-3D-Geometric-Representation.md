@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/geometric-representation/microskills/3d-geometric-representation|3d-geometric-representation]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/geometric-representation/geometric-representation|geometric-representation]]"
 learning-time-in-minutes: 4
 ---
 # 3D Geometric Representation: Understanding Mathematical Models

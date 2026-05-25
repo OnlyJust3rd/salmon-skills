@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/kerberos-cryptography-role|kerberos-cryptography-role]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/applied-cryptography|applied-cryptography]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Kerberos Cryptography's Role

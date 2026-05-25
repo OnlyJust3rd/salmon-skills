@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/system-property-analysis/microskills/static-system-definition|static-system-definition]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/system-property-analysis/system-property-analysis|system-property-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Static Systems

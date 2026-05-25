@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/relevant-communication-protocols|relevant-communication-protocols]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/embedded-systems|embedded-systems]]"
 learning-time-in-minutes: 5
 ---
 # Relevant Communication Protocols in IoT Devices

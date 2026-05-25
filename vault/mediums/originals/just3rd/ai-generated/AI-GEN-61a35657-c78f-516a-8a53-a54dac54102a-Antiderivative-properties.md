@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/fundamental-theorem-of-calculus/microskills/antiderivative-properties|antiderivative-properties]]"
+related-skills:
+  - "[[skills/mathematics/calculus/fundamental-theorem-of-calculus/fundamental-theorem-of-calculus|fundamental-theorem-of-calculus]]"
 learning-time-in-minutes: 3
 ---
 # Antiderivative Properties

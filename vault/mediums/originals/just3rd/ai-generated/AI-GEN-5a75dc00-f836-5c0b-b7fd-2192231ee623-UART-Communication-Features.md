@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/uart-communication-features|uart-communication-features]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/avr-microcontroller-architecture|avr-microcontroller-architecture]]"
 learning-time-in-minutes: 6
 ---
 # UART Communication: Optimizing Settings for Serial Data Transmission

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[purpose-of-path-planning|purpose-of-path-planning]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/mobile-robot-navigation/mobile-robot-navigation|mobile-robot-navigation]]"
 learning-time-in-minutes: 2
 ---
 # The Crucial Role of Path Planning in Mobile Robotics

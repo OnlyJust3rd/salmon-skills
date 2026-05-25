@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[basic-instruction-functions|basic-instruction-functions]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/assembly-programming/assembly-programming|assembly-programming]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Basic Assembly Instructions

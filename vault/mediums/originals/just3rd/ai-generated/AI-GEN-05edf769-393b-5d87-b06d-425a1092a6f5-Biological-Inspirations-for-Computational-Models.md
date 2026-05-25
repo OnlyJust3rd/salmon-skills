@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/biological-inspirations-for-computational-models|biological-inspirations-for-computational-models]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/computational-evolution-theory|computational-evolution-theory]]"
 learning-time-in-minutes: 3
 ---
 # Biological Inspirations for Computational Models

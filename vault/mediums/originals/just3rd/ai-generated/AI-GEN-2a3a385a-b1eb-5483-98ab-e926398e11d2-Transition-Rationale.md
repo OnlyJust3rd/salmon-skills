@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/transition-rationale|transition-rationale]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/docker/docker|docker]]"
 learning-time-in-minutes: 4
 ---
 # Why Move from Monoliths to Microservices? Understanding the Rationale

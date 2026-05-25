@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[software-algorithm-role-in-path-planning|software-algorithm-role-in-path-planning]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/mobile-robot-navigation/mobile-robot-navigation|mobile-robot-navigation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Software Algorithm's Role in Path Planning

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/access-control-definition|access-control-definition]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/copyright-protection|copyright-protection]]"
 learning-time-in-minutes: 3
 ---
 # Access Control Definition in Copyright Protection

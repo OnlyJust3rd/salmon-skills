@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/computational-strategy-selection|computational-strategy-selection]]"
+related-skills:
+  - "[[skills/computing/computer-science/algorithms/computational-problem-solving/computational-problem-solving|computational-problem-solving]]"
 learning-time-in-minutes: 4
 ---
 # Choosing the Right Computational Strategy

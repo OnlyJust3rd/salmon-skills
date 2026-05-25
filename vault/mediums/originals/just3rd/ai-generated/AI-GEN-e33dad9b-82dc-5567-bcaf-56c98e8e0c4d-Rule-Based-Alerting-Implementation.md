@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/rule-based-alerting-implementation|rule-based-alerting-implementation]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/infrastructure-alert|infrastructure-alert]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Rule-Based Alerting

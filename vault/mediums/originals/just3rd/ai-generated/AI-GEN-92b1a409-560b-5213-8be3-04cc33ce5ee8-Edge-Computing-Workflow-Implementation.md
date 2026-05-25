@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[edge-computing-workflow-implementation|edge-computing-workflow-implementation]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/internet-of-things/internet-of-things|internet-of-things]]"
 learning-time-in-minutes: 5
 ---
 # Implementing Edge Computing Workflows with Low-Code Tools

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/system-property-analysis/microskills/causal-system-definition|causal-system-definition]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/system-property-analysis/system-property-analysis|system-property-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Causal Systems

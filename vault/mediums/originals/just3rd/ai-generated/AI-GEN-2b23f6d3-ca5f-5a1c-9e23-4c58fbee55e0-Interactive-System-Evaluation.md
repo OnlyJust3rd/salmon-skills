@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[interactive-system-evaluation|interactive-system-evaluation]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/usability-evaluation/usability-evaluation|usability-evaluation]]"
 learning-time-in-minutes: 5
 ---
 # Conducting Interactive System Evaluations

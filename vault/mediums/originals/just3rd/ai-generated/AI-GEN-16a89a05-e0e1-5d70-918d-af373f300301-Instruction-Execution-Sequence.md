@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/instruction-execution-sequence|instruction-execution-sequence]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/machine-instruction|machine-instruction]]"
 learning-time-in-minutes: 4
 ---
 # The Instruction Execution Sequence: A Computer's Step-by-Step Guide

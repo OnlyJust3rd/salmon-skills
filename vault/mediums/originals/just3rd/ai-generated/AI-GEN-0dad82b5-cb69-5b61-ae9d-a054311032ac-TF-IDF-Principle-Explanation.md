@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[tf-idf-principle-explanation|tf-idf-principle-explanation]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-feature-engineering/text-feature-engineering|text-feature-engineering]]"
 learning-time-in-minutes: 5
 ---
 # Understanding TF-IDF: A Measure of Word Importance

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/ai-assisted-development/github-copilot/microskills/pull-request-review|pull-request-review]]"
+related-skills:
+  - "[[skills/computing/software-engineering/ai-assisted-development/github-copilot/github-copilot|github-copilot]]"
 learning-time-in-minutes: 5
 ---
 # Pull Request Review: Ensuring Quality with GitHub Copilot

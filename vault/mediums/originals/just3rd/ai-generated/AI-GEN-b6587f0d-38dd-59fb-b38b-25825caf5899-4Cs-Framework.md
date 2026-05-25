@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/product-management/marketing-strategy/microskills/4cs-framework|4cs-framework]]"
+related-skills:
+  - "[[skills/business/product-management/marketing-strategy/marketing-strategy|marketing-strategy]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the 4Cs Framework: A Customer-Centric Marketing Mix

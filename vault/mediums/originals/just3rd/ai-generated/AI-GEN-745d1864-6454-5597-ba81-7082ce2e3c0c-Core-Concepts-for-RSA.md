@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/microskills/core-concepts-for-rsa|core-concepts-for-rsa]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/asymmetric-algorithm-mechanics|asymmetric-algorithm-mechanics]]"
 learning-time-in-minutes: 3
 ---
 # Core Concepts for RSA

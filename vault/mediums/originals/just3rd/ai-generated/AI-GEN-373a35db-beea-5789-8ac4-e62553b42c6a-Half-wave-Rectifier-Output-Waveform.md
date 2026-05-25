@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/half-wave-rectifier-output-waveform|half-wave-rectifier-output-waveform]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/semiconductor-device-operation|semiconductor-device-operation]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing the Half-Wave Rectifier Output Waveform

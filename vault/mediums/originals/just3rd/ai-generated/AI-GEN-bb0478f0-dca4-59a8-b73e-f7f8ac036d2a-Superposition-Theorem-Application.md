@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/superposition-theorem-application|superposition-theorem-application]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-analysis/circuit-analysis|circuit-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Applying the Superposition Theorem

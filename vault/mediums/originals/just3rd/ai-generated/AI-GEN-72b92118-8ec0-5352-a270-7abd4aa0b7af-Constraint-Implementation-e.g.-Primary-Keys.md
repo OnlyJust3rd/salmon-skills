@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Implementing Primary Keys in MySQL"
+type: medium
+title: Implementing Primary Keys in MySQL
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/relational-databases/mysql/microskills/constraint-implementation-e-g-primary-keys|constraint-implementation-e-g-primary-keys]]"
+  - "[[constraint-implementation-e-g-primary-keys|constraint-implementation-e-g-primary-keys]]"
+related-skills:
+  - "[[mysql|mysql]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Primary Keys in MySQL
@@ -163,4 +165,4 @@ By correctly implementing primary keys, you lay a solid foundation for a well-st
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/relational-databases/mysql/microskills/constraint-implementation-e-g-primary-keys|Constraint Implementation (e.g., Primary Keys)]]
+- [[constraint-implementation-e-g-primary-keys|Constraint Implementation (e.g., Primary Keys)]]

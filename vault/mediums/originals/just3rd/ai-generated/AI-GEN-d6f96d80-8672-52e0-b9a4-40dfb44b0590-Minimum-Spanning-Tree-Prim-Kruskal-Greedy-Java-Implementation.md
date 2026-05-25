@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[minimum-spanning-tree-prim-kruskal-greedy-java-implementation|minimum-spanning-tree-prim-kruskal-greedy-java-implementation]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/java-programming/java-programming|java-programming]]"
 learning-time-in-minutes: 5
 ---
 # Implementing Minimum Spanning Trees (MST) in Java: Prim's and Kruskal's Algorithms

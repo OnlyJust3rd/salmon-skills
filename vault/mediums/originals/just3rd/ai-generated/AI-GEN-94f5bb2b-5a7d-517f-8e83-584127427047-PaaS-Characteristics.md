@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/paas-characteristics|paas-characteristics]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/cloud-computing|cloud-computing]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Platform as a Service (PaaS)

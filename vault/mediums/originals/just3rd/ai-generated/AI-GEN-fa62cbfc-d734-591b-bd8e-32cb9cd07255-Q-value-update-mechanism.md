@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[q-value-update-mechanism|q-value-update-mechanism]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/machine-learning/reinforcement-learning/reinforcement-learning|reinforcement-learning]]"
 learning-time-in-minutes: 4
 ---
 # Implementing the Q-value Update Mechanism

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[congestion-control-mechanisms|congestion-control-mechanisms]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/network-layers/network-performance/network-performance|network-performance]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Congestion Control Mechanisms: AIMD

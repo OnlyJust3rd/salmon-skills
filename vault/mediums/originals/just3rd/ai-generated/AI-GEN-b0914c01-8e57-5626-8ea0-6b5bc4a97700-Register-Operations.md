@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/register-operations|register-operations]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/avr-microcontroller-architecture|avr-microcontroller-architecture]]"
 learning-time-in-minutes: 4
 ---
 # Register Operations in AVR Microcontrollers

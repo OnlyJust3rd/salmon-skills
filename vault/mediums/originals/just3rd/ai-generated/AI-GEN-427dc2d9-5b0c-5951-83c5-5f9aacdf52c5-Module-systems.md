@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/backend-development/node-js/microskills/module-systems|module-systems]]"
+related-skills:
+  - "[[skills/computing/software-engineering/backend-development/node-js/node-js|node-js]]"
 learning-time-in-minutes: 4
 ---
 # Module Systems in Node.js: `require` vs. `import`

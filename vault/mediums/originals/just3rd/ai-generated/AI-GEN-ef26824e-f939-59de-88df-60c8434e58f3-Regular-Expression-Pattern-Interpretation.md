@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/regular-expression-pattern-interpretation|regular-expression-pattern-interpretation]]"
+related-skills:
+  - "[[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/pattern-matching-and-text-filtering|pattern-matching-and-text-filtering]]"
 learning-time-in-minutes: 6
 ---
 # Regular Expression Pattern Interpretation

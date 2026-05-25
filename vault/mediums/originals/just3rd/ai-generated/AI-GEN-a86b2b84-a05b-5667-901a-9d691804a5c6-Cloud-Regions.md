@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/cloud-regions|cloud-regions]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/cloud-infrastructure|cloud-infrastructure]]"
 learning-time-in-minutes: 4
 ---
 # Cloud Regions: Your Global Data Center Footprint

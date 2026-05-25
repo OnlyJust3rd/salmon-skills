@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[fuzzy-logic-controller-design|fuzzy-logic-controller-design]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/robotics/robotics|robotics]]"
 learning-time-in-minutes: 2
 ---
 # Designing a Fuzzy Logic Controller for Robot Navigation

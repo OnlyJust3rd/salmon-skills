@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[adaptation-of-simulated-models|adaptation-of-simulated-models]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/evolutional-robotics/evolutional-robotics|evolutional-robotics]]"
 learning-time-in-minutes: 5
 ---
 # Adapting Simulated Models for Real-World Robots

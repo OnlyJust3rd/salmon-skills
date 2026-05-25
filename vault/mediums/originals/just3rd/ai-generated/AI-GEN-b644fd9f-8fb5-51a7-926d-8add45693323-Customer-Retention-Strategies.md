@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/product-management/marketing-strategy/microskills/customer-retention-strategies|customer-retention-strategies]]"
+related-skills:
+  - "[[skills/business/product-management/marketing-strategy/marketing-strategy|marketing-strategy]]"
 learning-time-in-minutes: 4
 ---
 # Customer Retention Strategies: Keeping Your Best Customers

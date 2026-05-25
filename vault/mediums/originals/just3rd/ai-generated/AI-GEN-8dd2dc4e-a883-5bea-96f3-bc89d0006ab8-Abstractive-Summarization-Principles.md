@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[abstractive-summarization-principles|abstractive-summarization-principles]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-summarization/text-summarization|text-summarization]]"
 learning-time-in-minutes: 4
 ---
 # Abstractive Summarization: Understanding the Core Concepts

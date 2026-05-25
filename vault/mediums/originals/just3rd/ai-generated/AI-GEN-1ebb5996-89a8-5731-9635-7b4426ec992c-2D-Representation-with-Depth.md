@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/perspective-projection/microskills/2d-representation-with-depth|2d-representation-with-depth]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/perspective-projection/perspective-projection|perspective-projection]]"
 learning-time-in-minutes: 5
 ---
 # Creating Depth: Your First Steps in 2D Representation with Depth

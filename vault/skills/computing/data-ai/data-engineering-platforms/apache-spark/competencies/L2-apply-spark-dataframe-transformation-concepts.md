@@ -1,14 +1,14 @@
 ---
-type: "competency"
-icon: "LiGoal"
-title: "L3- Apply Spark DataFrame Transformation Concepts"
+type: competency
+icon: LiGoal
+title: L3- Apply Spark DataFrame Transformation Concepts
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
   - "[[skills/computing/data-ai/data-engineering-platforms/apache-spark/competencies/L1-explain-spark-distributed-data-processing-concepts|L1-explain-spark-distributed-data-processing-concepts]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/data-cleansing/competencies/L2-apply-data-cleansing-techniques|L2-apply-data-cleansing-techniques]]"
-  - "[[skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-execute-sql-queries|L2-execute-sql-queries]]"
+  - "[[L2-execute-sql-queries|L2-execute-sql-queries]]"
 miller-level: 2
 optional-prerequisites: []
 parent-skill: "[[skills/computing/data-ai/data-engineering-platforms/apache-spark/apache-spark|apache-spark]]"
@@ -31,7 +31,7 @@ Apply Spark DataFrame transformation concepts.
 ## Strict Prerequisites
 
 - [[skills/computing/data-ai/data-engineering-platforms/apache-spark/competencies/L1-explain-spark-distributed-data-processing-concepts|L2- Explain Spark Distributed Data Processing Concepts]]
-- [[skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-execute-sql-queries|L3- Execute SQL Queries]]
+- [[L2-execute-sql-queries|L3- Execute SQL Queries]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-cleansing/competencies/L2-apply-data-cleansing-techniques|L3- Apply Data Cleansing Techniques]]
 
 ## Optional Prerequisites

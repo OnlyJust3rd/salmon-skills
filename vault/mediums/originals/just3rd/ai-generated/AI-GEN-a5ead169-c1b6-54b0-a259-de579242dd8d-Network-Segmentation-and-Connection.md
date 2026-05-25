@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[network-segmentation-and-connection|network-segmentation-and-connection]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/data-link-layer/data-link-layer|data-link-layer]]"
 learning-time-in-minutes: 4
 ---
 # Joining Small Networks: Principles of Network Segmentation and Connection

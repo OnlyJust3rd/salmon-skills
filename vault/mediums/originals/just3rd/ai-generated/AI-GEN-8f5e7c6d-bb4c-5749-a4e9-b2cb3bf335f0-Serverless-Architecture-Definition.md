@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/serverless-architecture-definition|serverless-architecture-definition]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/hpc-system|hpc-system]]"
 learning-time-in-minutes: 4
 ---
 # Serverless Architecture: What It Is

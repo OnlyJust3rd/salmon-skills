@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[pointer|pointer]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/cpp-programming/cpp-programming|cpp-programming]]"
 learning-time-in-minutes: 2
 ---
 # Understanding C++ Pointers

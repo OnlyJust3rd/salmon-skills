@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/access-control/microskills/authorization-principles|authorization-principles]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/access-control/access-control|access-control]]"
 learning-time-in-minutes: 4
 ---
 # Authorization Principles: Who Gets to Do What?

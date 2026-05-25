@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[common-error-control-techniques|common-error-control-techniques]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/data-link-layer/data-link-layer|data-link-layer]]"
 learning-time-in-minutes: 4
 ---
 # Common Error Control Techniques

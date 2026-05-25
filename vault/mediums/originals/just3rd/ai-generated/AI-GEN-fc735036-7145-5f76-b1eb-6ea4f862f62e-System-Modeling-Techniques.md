@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/system-modeling-techniques|system-modeling-techniques]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-practices/software-engineering/software-engineering|software-engineering]]"
 learning-time-in-minutes: 5
 ---
 # System Modeling Techniques for High Abstraction

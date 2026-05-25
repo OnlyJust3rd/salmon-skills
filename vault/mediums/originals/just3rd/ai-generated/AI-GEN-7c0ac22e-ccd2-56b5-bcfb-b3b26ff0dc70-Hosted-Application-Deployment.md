@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/hosted-application-deployment|hosted-application-deployment]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/firebase|firebase]]"
 learning-time-in-minutes: 5
 ---
 # Deploying Your Firebase Application with Firebase Hosting

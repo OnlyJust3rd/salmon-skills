@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/entrepreneurship/startup-communication/microskills/problem-statement|problem-statement]]"
+related-skills:
+  - "[[skills/business/entrepreneurship/startup-communication/startup-communication|startup-communication]]"
 learning-time-in-minutes: 5
 ---
 # The Problem Statement: Uncovering the Customer's Need

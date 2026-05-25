@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/engineering-practices/team-collaboration/microskills/task-decomposition-implementation|task-decomposition-implementation]]"
+related-skills:
+  - "[[skills/professional-practice/engineering-practices/team-collaboration/team-collaboration|team-collaboration]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Task Decomposition in Team Projects

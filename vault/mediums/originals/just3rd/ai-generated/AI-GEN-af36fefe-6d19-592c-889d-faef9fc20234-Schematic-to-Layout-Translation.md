@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/electronics/pcb-design/microskills/schematic-to-layout-translation|schematic-to-layout-translation]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/electronics/pcb-design/pcb-design|pcb-design]]"
 learning-time-in-minutes: 6
 ---
 # Schematic-to-Layout Translation in PCB Design

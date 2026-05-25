@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[client-server-architecture|client-server-architecture]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/application-layers/socket-programming/socket-programming|socket-programming]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Client-Server Architecture in Socket Programming

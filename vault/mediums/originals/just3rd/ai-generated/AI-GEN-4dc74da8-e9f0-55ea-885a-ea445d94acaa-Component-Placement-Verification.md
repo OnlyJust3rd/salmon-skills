@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/component-placement-verification|component-placement-verification]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/hardware-troubleshooting|hardware-troubleshooting]]"
 learning-time-in-minutes: 5
 ---
 # Component Placement Verification: The Foundation of Reliable Hardware

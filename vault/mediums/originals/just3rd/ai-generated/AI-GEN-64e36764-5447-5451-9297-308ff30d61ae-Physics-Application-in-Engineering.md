@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/engineering-practices/engineering-principle-application/microskills/physics-application-in-engineering|physics-application-in-engineering]]"
+related-skills:
+  - "[[skills/professional-practice/engineering-practices/engineering-principle-application/engineering-principle-application|engineering-principle-application]]"
 learning-time-in-minutes: 5
 ---
 # Applying Physics Principles to Engineering Problems

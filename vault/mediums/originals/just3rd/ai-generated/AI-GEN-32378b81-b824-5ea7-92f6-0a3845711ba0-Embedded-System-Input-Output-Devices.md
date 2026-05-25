@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/embedded-system-input-output-devices|embedded-system-input-output-devices]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/embedded-systems|embedded-systems]]"
 learning-time-in-minutes: 5
 ---
 # Embedded System Input/Output Devices: Sensors and Actuators

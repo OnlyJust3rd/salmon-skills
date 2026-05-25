@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/data-structures/graph-and-tree-modeling/microskills/graph-traversal-application|graph-traversal-application]]"
+related-skills:
+  - "[[skills/computing/computer-science/data-structures/graph-and-tree-modeling/graph-and-tree-modeling|graph-and-tree-modeling]]"
 learning-time-in-minutes: 5
 ---
 # Applying Graph Traversal: Finding Your Way Through Data

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/communication-security-principles|communication-security-principles]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/cryptographic-fundamentals|cryptographic-fundamentals]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Communication Security Principles

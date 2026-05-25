@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-creation/microskills/hardware-software-integration|hardware-software-integration]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-creation/embedded-system-creation|embedded-system-creation]]"
 learning-time-in-minutes: 5
 ---
 # Hardware-Software Integration: The Heartbeat of Embedded Systems

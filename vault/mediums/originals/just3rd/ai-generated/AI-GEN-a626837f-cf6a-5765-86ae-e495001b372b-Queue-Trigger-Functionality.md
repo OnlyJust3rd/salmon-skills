@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/queue-trigger-functionality|queue-trigger-functionality]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/serverless-computing|serverless-computing]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Queue Trigger Functionality in Serverless Computing

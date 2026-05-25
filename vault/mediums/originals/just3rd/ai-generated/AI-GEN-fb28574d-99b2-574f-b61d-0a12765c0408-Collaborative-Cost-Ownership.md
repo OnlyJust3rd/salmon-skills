@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/collaborative-cost-ownership|collaborative-cost-ownership]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/finops/finops|finops]]"
 learning-time-in-minutes: 4
 ---
 # Collaborative Cost Ownership in Cloud FinOps

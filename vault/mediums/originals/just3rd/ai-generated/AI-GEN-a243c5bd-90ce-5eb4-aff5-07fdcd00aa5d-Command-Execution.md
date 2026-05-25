@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/ai-assisted-development/claude-code/microskills/command-execution|command-execution]]"
+related-skills:
+  - "[[skills/computing/software-engineering/ai-assisted-development/claude-code/claude-code|claude-code]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Command Execution with the Claude Code Terminal Agent

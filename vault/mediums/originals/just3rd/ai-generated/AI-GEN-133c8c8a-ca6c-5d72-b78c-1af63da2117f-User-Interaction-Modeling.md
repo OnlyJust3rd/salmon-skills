@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[user-interaction-modeling|user-interaction-modeling]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/user-centered-design/user-centered-design|user-centered-design]]"
 learning-time-in-minutes: 6
 ---
 # User Interaction Modeling: Bringing Designs to Life

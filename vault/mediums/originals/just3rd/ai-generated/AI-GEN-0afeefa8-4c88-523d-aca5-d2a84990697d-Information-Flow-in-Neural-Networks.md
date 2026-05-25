@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[information-flow-in-neural-networks|information-flow-in-neural-networks]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/machine-learning/deep-learning/artificial-neural-network/artificial-neural-network|artificial-neural-network]]"
 learning-time-in-minutes: 3
 ---
 # Information Flow in Neural Networks

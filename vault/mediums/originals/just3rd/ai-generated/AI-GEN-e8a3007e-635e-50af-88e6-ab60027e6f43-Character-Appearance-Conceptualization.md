@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/character-design/microskills/character-appearance-conceptualization|character-appearance-conceptualization]]"
+related-skills:
+  - "[[skills/digital-media/game-development/character-design/character-design|character-design]]"
 learning-time-in-minutes: 3
 ---
 # Character Appearance Conceptualization

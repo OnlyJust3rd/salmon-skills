@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/lti-system-analysis/microskills/impulse-response-calculation-differential-equations|impulse-response-calculation-differential-equations]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/lti-system-analysis/lti-system-analysis|lti-system-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Impulse Response Calculation from Differential Equations

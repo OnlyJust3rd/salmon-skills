@@ -1,12 +1,14 @@
 ---
-type: "medium"
+type: medium
 title: "The Presentation Layer: Your Web Application's Face"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/presentation-layer-functionality|presentation-layer-functionality]]"
+  - "[[presentation-layer-functionality|presentation-layer-functionality]]"
+related-skills:
+  - "[[database-systems|database-systems]]"
 learning-time-in-minutes: 3
 ---
 # The Presentation Layer: Your Web Application's Face
@@ -62,4 +64,4 @@ Think about a website or application you use regularly (e.g., a social media pla
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/presentation-layer-functionality|Presentation Layer Functionality]]
+- [[presentation-layer-functionality|Presentation Layer Functionality]]

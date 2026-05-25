@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-practices/project-management/microskills/timeline-establishment|timeline-establishment]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-practices/project-management/project-management|project-management]]"
 learning-time-in-minutes: 6
 ---
 # Establishing Task Timelines in Project Management

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[interaction-style-consideration|interaction-style-consideration]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/visual-interface-design/visual-interface-design|visual-interface-design]]"
 learning-time-in-minutes: 5
 ---
 # Understanding and Applying Interaction Styles in Interface Design

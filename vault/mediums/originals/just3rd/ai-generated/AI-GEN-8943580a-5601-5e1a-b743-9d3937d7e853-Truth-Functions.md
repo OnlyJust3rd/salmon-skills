@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/truth-functions|truth-functions]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/logic-fundamentals|logic-fundamentals]]"
 learning-time-in-minutes: 5
 ---
 # Truth Functions: The Heart of Logic Gates

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[user-and-group-management|user-and-group-management]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/linux-system|linux-system]]"
 learning-time-in-minutes: 4
 ---
 # Managing Users and Groups in Linux for System Availability

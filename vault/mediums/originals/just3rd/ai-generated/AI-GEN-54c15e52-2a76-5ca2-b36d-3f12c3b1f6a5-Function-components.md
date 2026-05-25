@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/frontend-development/react/microskills/function-components|function-components]]"
+related-skills:
+  - "[[skills/computing/software-engineering/frontend-development/react/react|react]]"
 learning-time-in-minutes: 3
 ---
 # Function Components in React

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/responsibility-assignment-principles|responsibility-assignment-principles]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-design/object-oriented-design/object-oriented-design|object-oriented-design]]"
 learning-time-in-minutes: 5
 ---
 # Responsibility Assignment Principles in Object-Oriented Design

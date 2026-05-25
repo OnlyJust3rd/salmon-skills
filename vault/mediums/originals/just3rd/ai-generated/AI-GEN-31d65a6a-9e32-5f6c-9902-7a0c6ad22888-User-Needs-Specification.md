@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[user-needs-specification|user-needs-specification]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/user-centered-design/user-centered-design|user-centered-design]]"
 learning-time-in-minutes: 5
 ---
 # Documenting User Needs: A Practical Guide

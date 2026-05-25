@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/single-stage-op-amp-gain-determination|single-stage-op-amp-gain-determination]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/electronics/amplifier-design/amplifier-design|amplifier-design]]"
 learning-time-in-minutes: 3
 ---
 # Calculating Op-Amp Voltage Gain

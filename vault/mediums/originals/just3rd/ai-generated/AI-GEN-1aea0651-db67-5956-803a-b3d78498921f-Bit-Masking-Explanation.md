@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[bit-masking-explanation|bit-masking-explanation]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-programming/bare-metal-c-programming/bare-metal-c-programming|bare-metal-c-programming]]"
 learning-time-in-minutes: 2
 ---
 # Bit Masking: Controlling Individual Bits

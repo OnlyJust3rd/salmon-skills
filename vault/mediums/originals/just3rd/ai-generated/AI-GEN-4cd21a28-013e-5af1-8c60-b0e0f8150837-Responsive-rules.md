@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/frontend-development/css/microskills/responsive-rules|responsive-rules]]"
+related-skills:
+  - "[[skills/computing/software-engineering/frontend-development/css/css|css]]"
 learning-time-in-minutes: 2
 ---
 # Responsive Rules with Media Queries

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[euclidean-distance-definition|euclidean-distance-definition]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-clustering/text-clustering|text-clustering]]"
 learning-time-in-minutes: 4
 ---
 # Euclidean Distance: Measuring Similarity

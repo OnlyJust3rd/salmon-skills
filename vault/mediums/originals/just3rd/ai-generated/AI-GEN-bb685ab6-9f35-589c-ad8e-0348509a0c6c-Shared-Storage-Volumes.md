@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/shared-storage-volumes|shared-storage-volumes]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/docker/docker|docker]]"
 learning-time-in-minutes: 5
 ---
 # Shared Storage Volumes in Kubernetes Pods

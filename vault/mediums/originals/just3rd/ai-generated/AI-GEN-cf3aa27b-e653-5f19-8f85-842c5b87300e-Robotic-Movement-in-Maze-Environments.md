@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[robotic-movement-in-maze-environments|robotic-movement-in-maze-environments]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/mobile-robot-navigation/mobile-robot-navigation|mobile-robot-navigation]]"
 learning-time-in-minutes: 4
 ---
 # Robotic Movement in Maze Environments

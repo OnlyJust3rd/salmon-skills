@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/automated-software-delivery|automated-software-delivery]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/serverless-ci-cd|serverless-ci-cd]]"
 learning-time-in-minutes: 5
 ---
 # Automated Software Delivery: The Heart of CI/CD

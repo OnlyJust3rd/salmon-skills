@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[iot-return-on-investment-roi|iot-return-on-investment-roi]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/internet-of-things/internet-of-things|internet-of-things]]"
 learning-time-in-minutes: 4
 ---
 # Understanding IoT Return on Investment (ROI)

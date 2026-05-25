@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[compilation-unit|compilation-unit]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/cpp-programming/cpp-programming|cpp-programming]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Compilation Units in C++

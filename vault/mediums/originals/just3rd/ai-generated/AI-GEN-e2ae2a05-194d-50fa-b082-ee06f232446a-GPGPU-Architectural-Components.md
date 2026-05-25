@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/gpgpu-architectural-components|gpgpu-architectural-components]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/multicore-processing|multicore-processing]]"
 learning-time-in-minutes: 5
 ---
 # Understanding GPGPU Architectural Components

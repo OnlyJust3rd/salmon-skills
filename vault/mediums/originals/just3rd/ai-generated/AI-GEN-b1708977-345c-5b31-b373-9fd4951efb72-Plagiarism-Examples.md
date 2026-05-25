@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/legal-finance-governance/business-ethics-principles/microskills/plagiarism-examples|plagiarism-examples]]"
+related-skills:
+  - "[[skills/business/legal-finance-governance/business-ethics-principles/business-ethics-principles|business-ethics-principles]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Plagiarism in Business

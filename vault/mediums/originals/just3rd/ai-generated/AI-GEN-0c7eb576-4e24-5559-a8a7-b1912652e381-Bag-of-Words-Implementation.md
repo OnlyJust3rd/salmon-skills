@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[bag-of-words-implementation|bag-of-words-implementation]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-feature-engineering/text-feature-engineering|text-feature-engineering]]"
 learning-time-in-minutes: 3
 ---
 # Bag-of-Words Implementation

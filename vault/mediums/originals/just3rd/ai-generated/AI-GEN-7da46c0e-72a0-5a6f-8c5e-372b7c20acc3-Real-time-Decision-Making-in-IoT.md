@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[real-time-decision-making-in-iot|real-time-decision-making-in-iot]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/edge-computing/edge-computing|edge-computing]]"
 learning-time-in-minutes: 4
 ---
 # Real-time Decision-Making at the Edge

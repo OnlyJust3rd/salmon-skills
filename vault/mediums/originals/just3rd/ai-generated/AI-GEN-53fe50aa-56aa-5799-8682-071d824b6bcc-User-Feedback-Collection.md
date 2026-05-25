@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[user-feedback-collection|user-feedback-collection]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/user-experience/user-experience|user-experience]]"
 learning-time-in-minutes: 6
 ---
 # Gathering User Feedback: The Heart of Iterative Design

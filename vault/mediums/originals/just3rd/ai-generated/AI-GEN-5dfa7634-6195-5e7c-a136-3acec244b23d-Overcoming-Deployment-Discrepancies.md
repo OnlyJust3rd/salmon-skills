@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[overcoming-deployment-discrepancies|overcoming-deployment-discrepancies]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/evolutional-robotics/evolutional-robotics|evolutional-robotics]]"
 learning-time-in-minutes: 5
 ---
 # Overcoming Deployment Discrepancies

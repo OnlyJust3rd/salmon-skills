@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[wireless-network-components|wireless-network-components]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/wireless-networks/wireless-networks|wireless-networks]]"
 learning-time-in-minutes: 4
 ---
 # Wireless Network Components: The Building Blocks

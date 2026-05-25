@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/tagging-for-cost-allocation|tagging-for-cost-allocation]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/finops/finops|finops]]"
 learning-time-in-minutes: 3
 ---
 # Tagging for Cost Allocation

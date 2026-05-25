@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[latent-dirichlet-allocation-lda-application|latent-dirichlet-allocation-lda-application]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/topic-modeling/topic-modeling|topic-modeling]]"
 learning-time-in-minutes: 4
 ---
 # Latent Dirichlet Allocation (LDA) Application for Theme Discovery

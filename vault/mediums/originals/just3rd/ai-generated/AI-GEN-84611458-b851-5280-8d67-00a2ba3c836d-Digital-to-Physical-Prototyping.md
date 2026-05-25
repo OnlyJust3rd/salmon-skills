@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/design-fabrication/digital-fabrication/microskills/digital-to-physical-prototyping|digital-to-physical-prototyping]]"
+related-skills:
+  - "[[skills/digital-media/design-fabrication/digital-fabrication/digital-fabrication|digital-fabrication]]"
 learning-time-in-minutes: 6
 ---
 # Digital-to-Physical Prototyping: Bringing Your Designs to Life

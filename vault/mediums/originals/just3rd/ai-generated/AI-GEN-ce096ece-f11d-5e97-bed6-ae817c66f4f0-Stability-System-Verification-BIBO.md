@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/system-property-analysis/microskills/stability-system-verification-bibo|stability-system-verification-bibo]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/system-property-analysis/system-property-analysis|system-property-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Stability System Verification (BIBO)

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/iac-benefits|iac-benefits]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/infrastructure-as-code|infrastructure-as-code]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Benefits of Infrastructure as Code (IaC)

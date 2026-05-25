@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/geometry/geometric-formulation/microskills/normal-vector-interpretation-for-planes|normal-vector-interpretation-for-planes]]"
+related-skills:
+  - "[[skills/mathematics/geometry/geometric-formulation/geometric-formulation|geometric-formulation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Normal Vector of a Plane

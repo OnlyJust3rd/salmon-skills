@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/signal-type-comparison|signal-type-comparison]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/signal-representation-and-classification/signal-representation-and-classification|signal-representation-and-classification]]"
 learning-time-in-minutes: 4
 ---
 # Signal Type Comparison

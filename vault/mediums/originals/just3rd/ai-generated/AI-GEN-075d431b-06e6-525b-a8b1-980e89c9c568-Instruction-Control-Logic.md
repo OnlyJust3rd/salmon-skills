@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/instruction-control-logic|instruction-control-logic]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/machine-instruction|machine-instruction]]"
 learning-time-in-minutes: 5
 ---
 # Instruction Control Logic Implementation

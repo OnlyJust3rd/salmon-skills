@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[memory-and-attention|memory-and-attention]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/human-cognitive-and-perception/human-cognitive-and-perception|human-cognitive-and-perception]]"
 learning-time-in-minutes: 4
 ---
 # Memory and Attention: The Building Blocks of HCI

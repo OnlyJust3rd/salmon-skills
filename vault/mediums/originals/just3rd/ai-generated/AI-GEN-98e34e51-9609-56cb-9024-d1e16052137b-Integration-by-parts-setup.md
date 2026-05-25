@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/integral-evaluation/microskills/integration-by-parts-setup|integration-by-parts-setup]]"
+related-skills:
+  - "[[skills/mathematics/calculus/integral-evaluation/integral-evaluation|integral-evaluation]]"
 learning-time-in-minutes: 4
 ---
 # Choosing u and dv for Integration by Parts

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[python-data-analysis-libraries|python-data-analysis-libraries]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/python/python|python]]"
 learning-time-in-minutes: 3
 ---
 # Python Data Analysis Libraries: The Essential Toolkit

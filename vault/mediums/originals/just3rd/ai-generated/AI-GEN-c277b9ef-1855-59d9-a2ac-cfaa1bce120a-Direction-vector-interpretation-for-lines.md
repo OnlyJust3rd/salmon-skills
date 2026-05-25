@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/geometry/geometric-formulation/microskills/direction-vector-interpretation-for-lines|direction-vector-interpretation-for-lines]]"
+related-skills:
+  - "[[skills/mathematics/geometry/geometric-formulation/geometric-formulation|geometric-formulation]]"
 learning-time-in-minutes: 5
 ---
 # The Direction Vector: Guiding Lines in 3D Space

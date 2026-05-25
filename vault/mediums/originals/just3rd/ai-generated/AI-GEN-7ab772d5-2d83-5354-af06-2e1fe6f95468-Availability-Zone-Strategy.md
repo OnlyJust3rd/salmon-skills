@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/availability-zone-strategy|availability-zone-strategy]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/cloud-infrastructure|cloud-infrastructure]]"
 learning-time-in-minutes: 3
 ---
 # Designing for High Availability with Availability Zones

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[disk-scheduling-operational-mechanisms|disk-scheduling-operational-mechanisms]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/io-and-file-systems|io-and-file-systems]]"
 learning-time-in-minutes: 8
 ---
 # Understanding Disk Scheduling Operational Mechanisms

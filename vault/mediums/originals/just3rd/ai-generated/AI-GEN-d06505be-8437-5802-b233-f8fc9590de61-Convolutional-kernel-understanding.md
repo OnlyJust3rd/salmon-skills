@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[convolutional-kernel-understanding|convolutional-kernel-understanding]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/machine-learning/deep-learning/deep-learning/deep-learning|deep-learning]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Convolutional Kernels

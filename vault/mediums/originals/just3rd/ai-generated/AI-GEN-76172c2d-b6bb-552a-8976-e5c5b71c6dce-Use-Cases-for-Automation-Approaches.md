@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/use-cases-for-automation-approaches|use-cases-for-automation-approaches]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/infrastructure-as-code|infrastructure-as-code]]"
 learning-time-in-minutes: 5
 ---
 # Identifying the Best Automation Approach for Your Use Case

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/function-as-a-service-faas|function-as-a-service-faas]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/cloud-computing|cloud-computing]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Function as a Service (FaaS)

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/fundamental-processor-components|fundamental-processor-components]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-design/processor-design|processor-design]]"
 learning-time-in-minutes: 4
 ---
 # Fundamental Processor Components

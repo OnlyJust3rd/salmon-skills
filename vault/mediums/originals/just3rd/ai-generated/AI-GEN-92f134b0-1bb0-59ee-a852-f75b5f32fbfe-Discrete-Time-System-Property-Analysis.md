@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/microskills/discrete-time-system-property-analysis|discrete-time-system-property-analysis]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/complex-frequency-domain-analysis|complex-frequency-domain-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Discrete-Time System Properties: Causality and Stability

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-science/data-science/microskills/contribution-to-process|contribution-to-process]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/data-science/data-science|data-science]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Contributions to the Data Science Process

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/memory-access-mechanisms|memory-access-mechanisms]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/avr-microcontroller-architecture|avr-microcontroller-architecture]]"
 learning-time-in-minutes: 4
 ---
 # Memory Access Mechanisms in AVR Microcontrollers

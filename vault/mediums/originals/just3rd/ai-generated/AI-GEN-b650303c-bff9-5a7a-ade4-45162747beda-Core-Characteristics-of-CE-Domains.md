@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/engineering-practices/engineering-process/microskills/core-characteristics-of-ce-domains|core-characteristics-of-ce-domains]]"
+related-skills:
+  - "[[skills/professional-practice/engineering-practices/engineering-process/engineering-process|engineering-process]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Core Characteristics of Computer Engineering Domains

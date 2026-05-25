@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/geometric-transformations/microskills/geometric-manipulation|geometric-manipulation]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/geometric-transformations/geometric-transformations|geometric-transformations]]"
 learning-time-in-minutes: 5
 ---
 # Geometric Manipulation: Transforming Shapes

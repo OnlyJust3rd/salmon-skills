@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[interrupt-service-routine-implementation|interrupt-service-routine-implementation]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-programming/avr-peripheral-programming/avr-peripheral-programming|avr-peripheral-programming]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Interrupt Service Routines (ISRs)

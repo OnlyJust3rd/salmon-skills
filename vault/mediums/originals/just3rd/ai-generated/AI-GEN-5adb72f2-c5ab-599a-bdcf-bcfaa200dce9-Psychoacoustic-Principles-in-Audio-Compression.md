@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/psychoacoustic-principles-in-audio-compression|psychoacoustic-principles-in-audio-compression]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/multimedia-compression|multimedia-compression]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Psychoacoustic Principles in Audio Compression

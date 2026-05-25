@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[latent-semantic-analysis-lsa-application|latent-semantic-analysis-lsa-application]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/topic-modeling/topic-modeling|topic-modeling]]"
 learning-time-in-minutes: 5
 ---
 # Applying Latent Semantic Analysis (LSA) for Theme Discovery

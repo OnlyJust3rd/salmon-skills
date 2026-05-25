@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/attack-impact-on-robustness|attack-impact-on-robustness]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/watermarking-performance-and-attacks|watermarking-performance-and-attacks]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Attack Impact on Watermarking Robustness

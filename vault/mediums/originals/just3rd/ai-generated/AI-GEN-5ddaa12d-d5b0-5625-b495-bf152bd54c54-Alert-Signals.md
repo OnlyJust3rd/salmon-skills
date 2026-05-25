@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/operations-reliability/security-monitoring/microskills/alert-signals|alert-signals]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/security-monitoring/security-monitoring|security-monitoring]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Alert Signals in Security Event Monitoring

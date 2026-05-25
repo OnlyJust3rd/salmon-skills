@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-design/microskills/action-to-mechanic-translation|action-to-mechanic-translation]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-design/game-design|game-design]]"
 learning-time-in-minutes: 4
 ---
 # Translating Actions into Game Mechanics

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/component-tolerance-analysis|component-tolerance-analysis]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/circuit-prototyping|circuit-prototyping]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Component Tolerance in Circuit Prototyping

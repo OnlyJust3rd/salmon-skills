@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/vulnerability-assessment/microskills/remediation-priority|remediation-priority]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/vulnerability-assessment/vulnerability-assessment|vulnerability-assessment]]"
 learning-time-in-minutes: 4
 ---
 # Prioritizing Your Fixes: Understanding Remediation Priority

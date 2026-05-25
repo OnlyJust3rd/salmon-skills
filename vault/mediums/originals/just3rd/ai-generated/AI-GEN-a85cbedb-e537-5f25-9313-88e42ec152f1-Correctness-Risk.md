@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/ai-assisted-development/ai-coding-tool-evaluation/microskills/correctness-risk|correctness-risk]]"
+related-skills:
+  - "[[skills/computing/software-engineering/ai-assisted-development/ai-coding-tool-evaluation/ai-coding-tool-evaluation|ai-coding-tool-evaluation]]"
 learning-time-in-minutes: 4
 ---
 # Correctness Risk in AI Coding Tool Output

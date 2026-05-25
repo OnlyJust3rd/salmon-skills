@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/design-fabrication/cad-design/microskills/2d-3d-model-creation-for-fabrication|2d-3d-model-creation-for-fabrication]]"
+related-skills:
+  - "[[skills/digital-media/design-fabrication/cad-design/cad-design|cad-design]]"
 learning-time-in-minutes: 3
 ---
 # Creating 2D/3D Models for Fabrication

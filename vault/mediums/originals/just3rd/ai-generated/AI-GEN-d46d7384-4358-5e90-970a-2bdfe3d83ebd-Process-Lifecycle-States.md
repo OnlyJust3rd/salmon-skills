@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/process-lifecycle-states|process-lifecycle-states]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/process-management-and-system-calls|process-management-and-system-calls]]"
 learning-time-in-minutes: 4
 ---
 # The Journey of a Program: Understanding Process States

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/databricks/microskills/scheduled-job|scheduled-job]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/databricks/databricks|databricks]]"
 learning-time-in-minutes: 4
 ---
 # Automating Databricks Workflows with Scheduled Jobs

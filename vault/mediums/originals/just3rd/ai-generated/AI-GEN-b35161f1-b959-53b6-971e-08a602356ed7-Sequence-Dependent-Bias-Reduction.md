@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[sequence-dependent-bias-reduction|sequence-dependent-bias-reduction]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/usability-evaluation/usability-evaluation|usability-evaluation]]"
 learning-time-in-minutes: 6
 ---
 # Reducing Sequence-Dependent Bias in Usability Studies

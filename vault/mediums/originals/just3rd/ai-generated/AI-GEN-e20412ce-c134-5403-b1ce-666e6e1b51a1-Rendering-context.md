@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/frontend-development/web-application-concept/microskills/rendering-context|rendering-context]]"
+related-skills:
+  - "[[skills/computing/software-engineering/frontend-development/web-application-concept/web-application-concept|web-application-concept]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Browser's Rendering Context

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/peripheral-bus-interface-survey|peripheral-bus-interface-survey]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/input-output-interfacing|input-output-interfacing]]"
 learning-time-in-minutes: 5
 ---
 # Peripheral Bus Interfaces: PCI and USB

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/discrete-math/proof-techniques/microskills/recursive-algorithm-analysis|recursive-algorithm-analysis]]"
+related-skills:
+  - "[[skills/mathematics/discrete-math/proof-techniques/proof-techniques|proof-techniques]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Recursive Algorithms

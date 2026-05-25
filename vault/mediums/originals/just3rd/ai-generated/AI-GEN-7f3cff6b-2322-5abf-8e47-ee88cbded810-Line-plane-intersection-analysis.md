@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/geometry/geometric-formulation/microskills/line-plane-intersection-analysis|line-plane-intersection-analysis]]"
+related-skills:
+  - "[[skills/mathematics/geometry/geometric-formulation/geometric-formulation|geometric-formulation]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Line-Plane Intersection

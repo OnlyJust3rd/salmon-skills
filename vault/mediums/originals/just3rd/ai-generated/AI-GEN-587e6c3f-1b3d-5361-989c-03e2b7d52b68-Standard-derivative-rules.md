@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/derivative-computation-and-analysis/microskills/standard-derivative-rules|standard-derivative-rules]]"
+related-skills:
+  - "[[skills/mathematics/calculus/derivative-computation-and-analysis/derivative-computation-and-analysis|derivative-computation-and-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Remembering Standard Derivative Rules

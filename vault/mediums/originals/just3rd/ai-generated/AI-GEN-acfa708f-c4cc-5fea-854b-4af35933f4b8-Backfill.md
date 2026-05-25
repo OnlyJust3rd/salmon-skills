@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/apache-airflow/microskills/backfill|backfill]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/apache-airflow/apache-airflow|apache-airflow]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Backfills in Apache Airflow

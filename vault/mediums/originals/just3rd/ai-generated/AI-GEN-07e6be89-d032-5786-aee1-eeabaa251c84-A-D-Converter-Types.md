@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/signal-conversion-a-d-and-d-a/microskills/a-d-converter-types|a-d-converter-types]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/signal-conversion-a-d-and-d-a/signal-conversion-a-d-and-d-a|signal-conversion-a-d-and-d-a]]"
 learning-time-in-minutes: 5
 ---
 # A/D Converter Types: Flash, SAR, and Sigma-Delta

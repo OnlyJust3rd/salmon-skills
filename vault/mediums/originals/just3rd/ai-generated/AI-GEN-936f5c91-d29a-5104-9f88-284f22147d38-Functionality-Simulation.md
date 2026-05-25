@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[functionality-simulation|functionality-simulation]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/interactive-system-development/interactive-system-development|interactive-system-development]]"
 learning-time-in-minutes: 4
 ---
 # Simulating Core Functionality in Interactive Prototypes

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/3d-asset-pipeline/microskills/texture-compression|texture-compression]]"
+related-skills:
+  - "[[skills/digital-media/game-development/3d-asset-pipeline/3d-asset-pipeline|3d-asset-pipeline]]"
 learning-time-in-minutes: 7
 ---
 # Texture Compression for Real-Time Assets

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[program-logic-construction|program-logic-construction]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/c-programming/c-programming|c-programming]]"
 learning-time-in-minutes: 2
 ---
 # Program Logic Construction in C

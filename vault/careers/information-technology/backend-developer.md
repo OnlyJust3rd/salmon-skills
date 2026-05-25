@@ -1,10 +1,10 @@
 ---
-type: "career"
-title: "Backend Developer"
-level: "entry-level"
+type: career
+title: Backend Developer
+level: entry-level
 tags:
-  - "career"
-  - "information-technology"
+  - career
+  - information-technology
 contributor: "[[contributors/just3rd|just3rd]]"
 required-competencies:
   - "[[skills/computing/software-engineering/backend-development/restful-api/competencies/L2-apply-rest-modeling-to-a-problem-domain|L2-apply-rest-modeling-to-a-problem-domain]]"
@@ -12,8 +12,8 @@ required-competencies:
   - "[[skills/computing/software-engineering/backend-development/node-js/competencies/L1-explain-node-js-runtime-and-modules-for-servers|L1-explain-node-js-runtime-and-modules-for-servers]]"
   - "[[skills/computing/software-engineering/backend-development/express-js/competencies/L2-implement-rest-json-api-with-express|L2-implement-rest-json-api-with-express]]"
   - "[[skills/computing/software-engineering/backend-development/application-database-integration/competencies/L2-integrate-app-with-database-in-3-tier-architecture|L2-integrate-app-with-database-in-3-tier-architecture]]"
-  - "[[skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-execute-sql-queries|L2-execute-sql-queries]]"
-  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/competencies/L1-explain-database-transactions|L1-explain-database-transactions]]"
+  - "[[L2-execute-sql-queries|L2-execute-sql-queries]]"
+  - "[[L1-explain-database-transactions|L1-explain-database-transactions]]"
   - "[[skills/computing/security-privacy/cybersecurity/cybersecurity/competencies/L1-explain-authentication-mechanisms|L1-explain-authentication-mechanisms]]"
   - "[[skills/computing/security-privacy/cybersecurity/cybersecurity/competencies/L1-explain-authorization-models|L1-explain-authorization-models]]"
   - "[[skills/computing/security-privacy/cybersecurity/cybersecurity/competencies/L1-explain-password-hashing-and-salting|L1-explain-password-hashing-and-salting]]"
@@ -34,7 +34,7 @@ A Backend Developer is an entry-level information technology role focused on app
 - Apply [[skills/computing/software-engineering/backend-development/node-js/competencies/L1-explain-node-js-runtime-and-modules-for-servers|L2- Explain Node.js Runtime and Modules for Servers]] in day-to-day role work.
 - Apply [[skills/computing/software-engineering/backend-development/express-js/competencies/L2-implement-rest-json-api-with-express|L3- Implement REST JSON API with Express]] in day-to-day role work.
 - Apply [[skills/computing/software-engineering/backend-development/application-database-integration/competencies/L2-integrate-app-with-database-in-3-tier-architecture|L3- Integrate App with Database in 3-Tier Architecture]] in day-to-day role work.
-- Apply [[skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-execute-sql-queries|L3- Execute SQL Queries]] in day-to-day role work.
+- Apply [[L2-execute-sql-queries|L3- Execute SQL Queries]] in day-to-day role work.
 
 ## Requirements
 
@@ -43,8 +43,8 @@ A Backend Developer is an entry-level information technology role focused on app
 - [[skills/computing/software-engineering/backend-development/node-js/competencies/L1-explain-node-js-runtime-and-modules-for-servers|L2- Explain Node.js Runtime and Modules for Servers]]
 - [[skills/computing/software-engineering/backend-development/express-js/competencies/L2-implement-rest-json-api-with-express|L3- Implement REST JSON API with Express]]
 - [[skills/computing/software-engineering/backend-development/application-database-integration/competencies/L2-integrate-app-with-database-in-3-tier-architecture|L3- Integrate App with Database in 3-Tier Architecture]]
-- [[skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-execute-sql-queries|L3- Execute SQL Queries]]
-- [[skills/computing/data-ai/databases/database-foundations/database-systems/competencies/L1-explain-database-transactions|L2- Explain Database Transactions]]
+- [[L2-execute-sql-queries|L3- Execute SQL Queries]]
+- [[L1-explain-database-transactions|L2- Explain Database Transactions]]
 - [[skills/computing/security-privacy/cybersecurity/cybersecurity/competencies/L1-explain-authentication-mechanisms|L2- Explain Authentication Mechanisms]]
 - [[skills/computing/security-privacy/cybersecurity/cybersecurity/competencies/L1-explain-authorization-models|L2- Explain Authorization Models]]
 - [[skills/computing/security-privacy/cybersecurity/cybersecurity/competencies/L1-explain-password-hashing-and-salting|L2- Explain Password Hashing and Salting]]

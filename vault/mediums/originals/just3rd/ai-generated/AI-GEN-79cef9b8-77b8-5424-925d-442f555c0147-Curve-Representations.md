@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/curve-modeling/microskills/curve-representations|curve-representations]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/curve-modeling/curve-modeling|curve-modeling]]"
 learning-time-in-minutes: 3
 ---
 # Remembering Curve Representations

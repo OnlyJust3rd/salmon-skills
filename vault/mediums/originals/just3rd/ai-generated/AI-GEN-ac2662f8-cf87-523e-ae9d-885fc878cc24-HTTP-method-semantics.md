@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/backend-development/restful-api/microskills/http-method-semantics|http-method-semantics]]"
+related-skills:
+  - "[[skills/computing/software-engineering/backend-development/restful-api/restful-api|restful-api]]"
 learning-time-in-minutes: 3
 ---
 # Understanding HTTP Methods and CRUD

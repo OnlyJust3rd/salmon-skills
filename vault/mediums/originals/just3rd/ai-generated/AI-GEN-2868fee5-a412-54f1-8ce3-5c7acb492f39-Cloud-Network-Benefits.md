@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[cloud-network-benefits|cloud-network-benefits]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/network-layer|network-layer]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Benefits of Cloud Networks (VPCs)

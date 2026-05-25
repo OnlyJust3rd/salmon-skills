@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/backend-development/application-database-integration/microskills/3-tier-integration-patterns|3-tier-integration-patterns]]"
+related-skills:
+  - "[[skills/computing/software-engineering/backend-development/application-database-integration/application-database-integration|application-database-integration]]"
 learning-time-in-minutes: 3
 ---
 # 3-Tier Integration Patterns for Database Connectivity

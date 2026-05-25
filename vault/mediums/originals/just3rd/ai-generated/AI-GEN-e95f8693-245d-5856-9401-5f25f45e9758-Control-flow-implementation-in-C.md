@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[control-flow-implementation-in-c|control-flow-implementation-in-c]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/c-programming/c-programming|c-programming]]"
 learning-time-in-minutes: 2
 ---
 # Control Flow Implementation in C

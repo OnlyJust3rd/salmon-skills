@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/linear-algebra/vector-space/microskills/coordinate-vector-transformation|coordinate-vector-transformation]]"
+related-skills:
+  - "[[skills/mathematics/linear-algebra/vector-space/vector-space|vector-space]]"
 learning-time-in-minutes: 6
 ---
 # Finding New Coordinates: Coordinate Vector Transformation

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[augmented-reality-concepts|augmented-reality-concepts]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/advanced-interaction-paradigms/advanced-interaction-paradigms|advanced-interaction-paradigms]]"
 learning-time-in-minutes: 2
 ---
 # Augmented Reality Concepts

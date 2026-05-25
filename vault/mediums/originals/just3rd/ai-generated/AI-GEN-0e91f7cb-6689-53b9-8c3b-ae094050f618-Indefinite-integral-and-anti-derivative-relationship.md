@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/integral-evaluation/microskills/indefinite-integral-and-anti-derivative-relationship|indefinite-integral-and-anti-derivative-relationship]]"
+related-skills:
+  - "[[skills/mathematics/calculus/integral-evaluation/integral-evaluation|integral-evaluation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Indefinite Integral and its Anti-derivative Relationship

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[considerations-for-real-world-deployment|considerations-for-real-world-deployment]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/evolutional-robotics/evolutional-robotics|evolutional-robotics]]"
 learning-time-in-minutes: 4
 ---
 # Considerations for Real-World Deployment in Evolutionary Robotics

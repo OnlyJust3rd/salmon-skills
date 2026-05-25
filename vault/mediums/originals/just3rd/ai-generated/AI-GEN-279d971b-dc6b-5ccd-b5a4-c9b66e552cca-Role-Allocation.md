@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-practices/project-management/microskills/role-allocation|role-allocation]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-practices/project-management/project-management|project-management]]"
 learning-time-in-minutes: 5
 ---
 # Assigning Roles: Your Project's Backbone

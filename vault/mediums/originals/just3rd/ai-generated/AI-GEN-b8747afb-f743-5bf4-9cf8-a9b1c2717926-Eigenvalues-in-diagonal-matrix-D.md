@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/eigenvalues-in-diagonal-matrix-d|eigenvalues-in-diagonal-matrix-d]]"
+related-skills:
+  - "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/spectral-analysis-and-matrix-decomposition|spectral-analysis-and-matrix-decomposition]]"
 learning-time-in-minutes: 3
 ---
 # Eigenvalues as Diagonal Entries in Diagonalization

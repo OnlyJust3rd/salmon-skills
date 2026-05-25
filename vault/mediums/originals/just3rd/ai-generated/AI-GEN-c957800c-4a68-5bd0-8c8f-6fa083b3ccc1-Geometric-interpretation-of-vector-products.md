@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/linear-algebra/vector/microskills/geometric-interpretation-of-vector-products|geometric-interpretation-of-vector-products]]"
+related-skills:
+  - "[[skills/mathematics/linear-algebra/vector/vector|vector]]"
 learning-time-in-minutes: 5
 ---
 # Geometric Interpretation of Vector Products

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[iot-evolution-and-history|iot-evolution-and-history]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/internet-of-things/internet-of-things|internet-of-things]]"
 learning-time-in-minutes: 4
 ---
 # IoT Evolution and History

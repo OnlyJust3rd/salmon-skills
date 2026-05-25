@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/algorithms/algorithms/microskills/algorithm-definition|algorithm-definition]]"
+related-skills:
+  - "[[skills/computing/computer-science/algorithms/algorithms/algorithms|algorithms]]"
 learning-time-in-minutes: 2
 ---
 # What is an Algorithm?

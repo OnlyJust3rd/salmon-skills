@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[new-information-in-ann-development-chapter-4|new-information-in-ann-development-chapter-4]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/machine-learning/deep-learning/artificial-neural-network/artificial-neural-network|artificial-neural-network]]"
 learning-time-in-minutes: 3
 ---
 # Understanding New Information in ANN Development (Chapter 4)

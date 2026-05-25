@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[prototype-link|prototype-link]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/figma/figma|figma]]"
 learning-time-in-minutes: 5
 ---
 # Prototype Linking in Figma: Creating Interactive Navigation

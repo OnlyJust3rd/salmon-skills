@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/algorithms/computational-complexity-analysis/microskills/performance-comparison|performance-comparison]]"
+related-skills:
+  - "[[skills/computing/computer-science/algorithms/computational-complexity-analysis/computational-complexity-analysis|computational-complexity-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Performance Comparison

@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Understanding NoSQL Database Characteristics"
+type: medium
+title: Understanding NoSQL Database Characteristics
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/nosql-database-characteristics|nosql-database-characteristics]]"
+  - "[[nosql-database-characteristics|nosql-database-characteristics]]"
+related-skills:
+  - "[[database-systems|database-systems]]"
 learning-time-in-minutes: 4
 ---
 # Understanding NoSQL Database Characteristics
@@ -80,4 +82,4 @@ Consider a scenario where you are developing an e-commerce platform.
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/nosql-database-characteristics|NoSQL Database Characteristics]]
+- [[nosql-database-characteristics|NoSQL Database Characteristics]]

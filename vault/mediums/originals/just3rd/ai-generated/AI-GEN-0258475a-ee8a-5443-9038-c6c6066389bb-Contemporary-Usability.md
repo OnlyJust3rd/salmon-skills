@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[contemporary-usability|contemporary-usability]]"
+related-skills:
+  - "[[skills/digital-media/human-computer-interaction/human-computer-interaction|human-computer-interaction]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Ripple Effect: How Interface History Shapes Today's UX

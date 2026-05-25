@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Understanding SQL Data Definition Language (DDL)"
+type: medium
+title: Understanding SQL Data Definition Language (DDL)
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/relational-databases/mysql/microskills/sql-data-definition-language-ddl|sql-data-definition-language-ddl]]"
+  - "[[sql-data-definition-language-ddl|sql-data-definition-language-ddl]]"
+related-skills:
+  - "[[mysql|mysql]]"
 learning-time-in-minutes: 3
 ---
 # Understanding SQL Data Definition Language (DDL)
@@ -141,4 +143,4 @@ By mastering these DDL commands, you gain the power to build and manage the foun
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/relational-databases/mysql/microskills/sql-data-definition-language-ddl|SQL Data Definition Language (DDL)]]
+- [[sql-data-definition-language-ddl|SQL Data Definition Language (DDL)]]

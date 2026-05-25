@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/access-control-application|access-control-application]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/copyright-protection|copyright-protection]]"
 learning-time-in-minutes: 4
 ---
 # Access Control Application in Copyright Protection

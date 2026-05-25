@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/player-psychology/microskills/real-time-difficulty-modification|real-time-difficulty-modification]]"
+related-skills:
+  - "[[skills/digital-media/game-development/player-psychology/player-psychology|player-psychology]]"
 learning-time-in-minutes: 4
 ---
 # Real-time Difficulty Modification

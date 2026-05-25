@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/integral-evaluation/microskills/integration-by-substitution-definite-integrals|integration-by-substitution-definite-integrals]]"
+related-skills:
+  - "[[skills/mathematics/calculus/integral-evaluation/integral-evaluation|integral-evaluation]]"
 learning-time-in-minutes: 4
 ---
 # Integration by Substitution for Definite Integrals

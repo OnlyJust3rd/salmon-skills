@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/unreal-engine/microskills/level-interaction|level-interaction]]"
+related-skills:
+  - "[[skills/digital-media/game-development/unreal-engine/unreal-engine|unreal-engine]]"
 learning-time-in-minutes: 6
 ---
 # Level Interaction: Connecting Actors with Gameplay Events in Unreal Engine

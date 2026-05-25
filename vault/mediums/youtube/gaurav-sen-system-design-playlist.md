@@ -8,6 +8,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[L2-explain-system-design-choice|L2-explain-system-design-choice]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/system-design/system-design|system-design]]"
 learning-time-in-minutes: 900
 source: Gaurav Sen
 ---

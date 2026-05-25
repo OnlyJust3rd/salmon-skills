@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/imperceptibility-concept|imperceptibility-concept]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/watermarking-performance-and-attacks|watermarking-performance-and-attacks]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Imperceptibility in Digital Watermarking

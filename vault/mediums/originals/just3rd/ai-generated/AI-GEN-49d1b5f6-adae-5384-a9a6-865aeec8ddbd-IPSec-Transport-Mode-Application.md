@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ipsec-transport-mode-application|ipsec-transport-mode-application]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/applied-cryptography|applied-cryptography]]"
 learning-time-in-minutes: 2
 ---
 # Applying IPSec in Transport Mode

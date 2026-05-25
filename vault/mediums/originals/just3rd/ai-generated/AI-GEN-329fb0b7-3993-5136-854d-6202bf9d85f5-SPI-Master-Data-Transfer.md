@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[spi-master-data-transfer|spi-master-data-transfer]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-programming/avr-communication-programming/avr-communication-programming|avr-communication-programming]]"
 learning-time-in-minutes: 5
 ---
 # SPI Master Data Transfer: Implementing C Code

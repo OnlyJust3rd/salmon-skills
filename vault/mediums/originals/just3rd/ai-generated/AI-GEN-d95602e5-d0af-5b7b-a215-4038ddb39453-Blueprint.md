@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/unreal-engine/microskills/blueprint|blueprint]]"
+related-skills:
+  - "[[skills/digital-media/game-development/unreal-engine/unreal-engine|unreal-engine]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Unreal Engine Blueprints: Visual Scripting for Game Logic

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/oscilloscope-functions|oscilloscope-functions]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/electronics/electronic-measurement/electronic-measurement|electronic-measurement]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Oscilloscope: Your Window into Electrical Signals

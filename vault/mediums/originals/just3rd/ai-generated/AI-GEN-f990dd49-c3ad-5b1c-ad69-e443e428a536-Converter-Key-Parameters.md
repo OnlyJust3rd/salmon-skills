@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/signal-conversion-a-d-and-d-a/microskills/converter-key-parameters|converter-key-parameters]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/signal-conversion-a-d-and-d-a/signal-conversion-a-d-and-d-a|signal-conversion-a-d-and-d-a]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Converter Key Parameters

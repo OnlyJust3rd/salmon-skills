@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[mobile-robot-navigation-hardware-implementations|mobile-robot-navigation-hardware-implementations]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/mobile-robot-navigation/mobile-robot-navigation|mobile-robot-navigation]]"
 learning-time-in-minutes: 5
 ---
 # Mobile Robot Navigation: Essential Hardware Implementations

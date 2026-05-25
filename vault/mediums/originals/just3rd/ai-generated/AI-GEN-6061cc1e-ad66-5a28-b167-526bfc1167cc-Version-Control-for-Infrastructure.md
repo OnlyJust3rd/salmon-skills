@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/version-control-for-infrastructure|version-control-for-infrastructure]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/infrastructure-as-code|infrastructure-as-code]]"
 learning-time-in-minutes: 4
 ---
 # Version Control for Infrastructure: Tracking Your Code's Evolution

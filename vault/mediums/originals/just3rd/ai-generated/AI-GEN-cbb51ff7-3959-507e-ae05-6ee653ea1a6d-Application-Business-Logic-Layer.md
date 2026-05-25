@@ -1,12 +1,14 @@
 ---
-type: "medium"
+type: medium
 title: "The Application/Business Logic Layer: The Brains of the Operation"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/application-business-logic-layer|application-business-logic-layer]]"
+  - "[[application-business-logic-layer|application-business-logic-layer]]"
+related-skills:
+  - "[[database-systems|database-systems]]"
 learning-time-in-minutes: 4
 ---
 # The Application/Business Logic Layer: The Brains of the Operation
@@ -65,4 +67,4 @@ Imagine you are building a simple online user registration system. Describe the 
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/application-business-logic-layer|Application/Business Logic Layer]]
+- [[application-business-logic-layer|Application/Business Logic Layer]]

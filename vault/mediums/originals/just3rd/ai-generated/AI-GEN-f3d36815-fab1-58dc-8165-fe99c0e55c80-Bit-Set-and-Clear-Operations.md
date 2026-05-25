@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[bit-set-and-clear-operations|bit-set-and-clear-operations]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-programming/bare-metal-c-programming/bare-metal-c-programming|bare-metal-c-programming]]"
 learning-time-in-minutes: 3
 ---
 # Setting and Clearing Bits with Bitwise Operations

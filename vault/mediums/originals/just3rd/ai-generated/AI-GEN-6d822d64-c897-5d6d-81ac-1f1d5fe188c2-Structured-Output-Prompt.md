@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/ai-assisted-development/prompt-engineering/microskills/structured-output-prompt|structured-output-prompt]]"
+related-skills:
+  - "[[skills/computing/software-engineering/ai-assisted-development/prompt-engineering/prompt-engineering|prompt-engineering]]"
 learning-time-in-minutes: 4
 ---
 # Structured Output Prompts

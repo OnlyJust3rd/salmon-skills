@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/linear-algebra/vector/microskills/direction-vectors-and-line-orthogonality|direction-vectors-and-line-orthogonality]]"
+related-skills:
+  - "[[skills/mathematics/linear-algebra/vector/vector|vector]]"
 learning-time-in-minutes: 3
 ---
 # Analyzing Line Orthogonality with Direction Vectors

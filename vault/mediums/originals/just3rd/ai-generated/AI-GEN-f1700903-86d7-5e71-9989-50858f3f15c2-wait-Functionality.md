@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/wait-functionality|wait-functionality]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/process-management-and-system-calls|process-management-and-system-calls]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the `wait()` System Call

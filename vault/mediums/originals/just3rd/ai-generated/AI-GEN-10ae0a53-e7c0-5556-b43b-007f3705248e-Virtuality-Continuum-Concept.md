@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[virtuality-continuum-concept|virtuality-continuum-concept]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/advanced-interaction-paradigms/advanced-interaction-paradigms|advanced-interaction-paradigms]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Virtuality Continuum

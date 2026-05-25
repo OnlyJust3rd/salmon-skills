@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/engineering-practices/team-collaboration/microskills/project-timeline-establishment|project-timeline-establishment]]"
+related-skills:
+  - "[[skills/professional-practice/engineering-practices/team-collaboration/team-collaboration|team-collaboration]]"
 learning-time-in-minutes: 4
 ---
 # Establishing a Project Timeline

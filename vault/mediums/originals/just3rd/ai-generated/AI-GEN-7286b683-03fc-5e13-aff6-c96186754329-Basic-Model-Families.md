@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[basic-model-families|basic-model-families]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/machine-learning/machine-learning/machine-learning|machine-learning]]"
 learning-time-in-minutes: 6
 ---
 # Understanding Basic Model Families in Machine Learning

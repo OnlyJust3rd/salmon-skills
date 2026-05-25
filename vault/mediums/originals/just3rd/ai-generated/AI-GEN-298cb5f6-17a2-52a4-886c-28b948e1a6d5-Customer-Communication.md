@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/entrepreneurship/startup-communication/microskills/customer-communication|customer-communication]]"
+related-skills:
+  - "[[skills/business/entrepreneurship/startup-communication/startup-communication|startup-communication]]"
 learning-time-in-minutes: 4
 ---
 # Adapting Messages for End-Users (Customer Communication)

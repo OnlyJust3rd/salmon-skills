@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[reliability-in-networking|reliability-in-networking]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/transport-layer/transport-layer|transport-layer]]"
 learning-time-in-minutes: 6
 ---
 # Reliability in Networking: Ensuring Your Data Arrives Safely

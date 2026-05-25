@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-creation/microskills/system-level-debugging|system-level-debugging]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-creation/embedded-system-creation|embedded-system-creation]]"
 learning-time-in-minutes: 5
 ---
 # System-Level Debugging for Embedded Systems

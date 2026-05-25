@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/engineering-practices/engineering-process/microskills/purpose-of-problem-solving-steps|purpose-of-problem-solving-steps]]"
+related-skills:
+  - "[[skills/professional-practice/engineering-practices/engineering-process/engineering-process|engineering-process]]"
 learning-time-in-minutes: 5
 ---
 # The "Why" Behind Engineering Problem-Solving Steps

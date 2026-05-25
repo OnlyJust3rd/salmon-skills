@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[robotic-system-simulation-with-fuzzy-logic|robotic-system-simulation-with-fuzzy-logic]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/robotics/robotics|robotics]]"
 learning-time-in-minutes: 4
 ---
 # Simulating a Fuzzy Logic Robot for Maze Traversal

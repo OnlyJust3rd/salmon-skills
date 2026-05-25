@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[distance-function-utilization-in-clustering|distance-function-utilization-in-clustering]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-clustering/text-clustering|text-clustering]]"
 learning-time-in-minutes: 4
 ---
 # Distance Functions in K-Means Clustering

@@ -21,7 +21,7 @@ icon: LiWaypoints
 	- **competencies**
 		- [[L1-explain-layered-server-and-http-api-responsibilities]]
 	- **microskills**
-		- [[data-access-layer]]
+		- [[skills/computing/software-engineering/backend-development/backend-web-api-concept/microskills/data-access-layer]]
 		- [[domain-and-service-layer]]
 		- [[request-handling-layer]]
 - **[[express-js]]**

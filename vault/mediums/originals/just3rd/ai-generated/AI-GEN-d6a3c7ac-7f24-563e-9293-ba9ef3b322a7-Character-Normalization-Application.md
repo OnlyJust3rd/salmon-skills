@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[character-normalization-application|character-normalization-application]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-cleaning-and-normalization/text-cleaning-and-normalization|text-cleaning-and-normalization]]"
 learning-time-in-minutes: 3
 ---
 # Applying Character Normalization

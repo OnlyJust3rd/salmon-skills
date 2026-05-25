@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[file-reading-commands|file-reading-commands]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/io-and-file-systems|io-and-file-systems]]"
 learning-time-in-minutes: 4
 ---
 # Reading Files with Command-Line Tools

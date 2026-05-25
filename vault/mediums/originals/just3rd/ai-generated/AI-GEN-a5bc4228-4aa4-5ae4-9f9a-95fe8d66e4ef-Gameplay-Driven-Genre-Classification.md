@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-design/microskills/gameplay-driven-genre-classification|gameplay-driven-genre-classification]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-design/game-design|game-design]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Game Genres Through Gameplay Mechanics

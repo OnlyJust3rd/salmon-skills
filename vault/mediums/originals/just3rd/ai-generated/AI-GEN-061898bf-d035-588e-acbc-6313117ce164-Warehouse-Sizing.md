@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/snowflake/microskills/warehouse-sizing|warehouse-sizing]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/snowflake/snowflake|snowflake]]"
 learning-time-in-minutes: 5
 ---
 # Warehouse Sizing in Snowflake

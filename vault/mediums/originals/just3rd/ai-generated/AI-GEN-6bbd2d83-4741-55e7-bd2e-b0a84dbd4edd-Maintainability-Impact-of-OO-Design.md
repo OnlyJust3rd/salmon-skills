@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/maintainability-impact-of-oo-design|maintainability-impact-of-oo-design]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-design/object-oriented-design/object-oriented-design|object-oriented-design]]"
 learning-time-in-minutes: 5
 ---
 # How OO Design Principles Make Software Easier to Maintain

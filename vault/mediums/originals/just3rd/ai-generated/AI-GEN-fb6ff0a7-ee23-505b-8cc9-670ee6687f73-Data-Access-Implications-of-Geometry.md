@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[data-access-implications-of-geometry|data-access-implications-of-geometry]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/io-and-file-systems|io-and-file-systems]]"
 learning-time-in-minutes: 4
 ---
 # Data Access Implications of Disk Geometry

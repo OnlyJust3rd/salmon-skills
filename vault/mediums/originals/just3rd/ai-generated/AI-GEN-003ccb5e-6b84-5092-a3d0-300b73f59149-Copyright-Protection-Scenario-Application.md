@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/copyright-protection-scenario-application|copyright-protection-scenario-application]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/copyright-protection|copyright-protection]]"
 learning-time-in-minutes: 4
 ---
 # Applying Copyright Protection Techniques in Scenarios

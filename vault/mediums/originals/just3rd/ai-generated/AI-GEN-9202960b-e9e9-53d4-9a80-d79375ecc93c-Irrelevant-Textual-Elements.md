@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/irrelevant-textual-elements|irrelevant-textual-elements]]"
+related-skills:
+  - "[[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/pattern-matching-and-text-filtering|pattern-matching-and-text-filtering]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Irrelevant Textual Elements (Noise)

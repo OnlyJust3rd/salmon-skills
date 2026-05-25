@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[c-data-type-understanding|c-data-type-understanding]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/c-programming/c-programming|c-programming]]"
 learning-time-in-minutes: 2
 ---
 # Understanding C Data Types

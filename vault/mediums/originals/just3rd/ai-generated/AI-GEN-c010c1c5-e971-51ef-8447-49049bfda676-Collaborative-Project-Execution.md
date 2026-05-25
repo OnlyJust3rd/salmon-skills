@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/engineering-practices/team-collaboration/microskills/collaborative-project-execution|collaborative-project-execution]]"
+related-skills:
+  - "[[skills/professional-practice/engineering-practices/team-collaboration/team-collaboration|team-collaboration]]"
 learning-time-in-minutes: 5
 ---
 # Collaborative Project Execution

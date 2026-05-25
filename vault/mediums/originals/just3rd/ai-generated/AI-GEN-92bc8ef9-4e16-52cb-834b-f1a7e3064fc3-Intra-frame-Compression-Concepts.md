@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/image-compression/microskills/intra-frame-compression-concepts|intra-frame-compression-concepts]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/image-compression/image-compression|image-compression]]"
 learning-time-in-minutes: 5
 ---
 # Intra-frame Compression Concepts

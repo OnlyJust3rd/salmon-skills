@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/proteus-8-implementation|proteus-8-implementation]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/combinational-logic-design|combinational-logic-design]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Combinational Circuits in Proteus 8

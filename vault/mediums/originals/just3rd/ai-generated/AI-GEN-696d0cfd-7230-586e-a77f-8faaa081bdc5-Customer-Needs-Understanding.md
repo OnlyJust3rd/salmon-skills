@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/entrepreneurship/lean-startup/microskills/customer-needs-understanding|customer-needs-understanding]]"
+related-skills:
+  - "[[skills/business/entrepreneurship/lean-startup/lean-startup|lean-startup]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Customer Needs Through Discovery Interviews

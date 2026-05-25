@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/data-structures/data-types/microskills/semi-structured-data-recognition|semi-structured-data-recognition]]"
+related-skills:
+  - "[[skills/computing/computer-science/data-structures/data-types/data-types|data-types]]"
 learning-time-in-minutes: 2
 ---
 # Recognizing Semi-Structured Data

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/electronics/pcb-design/microskills/solder-mask-layer|solder-mask-layer]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/electronics/pcb-design/pcb-design|pcb-design]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Solder Mask Layer in PCB Design

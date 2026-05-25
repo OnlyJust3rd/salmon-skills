@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[chapter-4-ann-topics|chapter-4-ann-topics]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/machine-learning/deep-learning/artificial-neural-network/artificial-neural-network|artificial-neural-network]]"
 learning-time-in-minutes: 2
 ---
 # Chapter 4 ANN Topics: Key Concepts

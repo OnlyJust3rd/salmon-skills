@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/cpu-vs-gpu-workload-fit|cpu-vs-gpu-workload-fit]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/processor-architecture|processor-architecture]]"
 learning-time-in-minutes: 4
 ---
 # CPU vs GPU Workload Fit: Throughput vs. Latency

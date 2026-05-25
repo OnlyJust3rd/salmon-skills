@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/data-rate-requirement-analysis|data-rate-requirement-analysis]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/embedded-system-interfacing|embedded-system-interfacing]]"
 learning-time-in-minutes: 6
 ---
 # Analyzing Data Rate Requirements for Embedded System Communication

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/logic-gate-ic-pin-configurations|logic-gate-ic-pin-configurations]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/digital-circuit-construction|digital-circuit-construction]]"
 learning-time-in-minutes: 6
 ---
 # Understanding Logic Gate IC Pin Configurations

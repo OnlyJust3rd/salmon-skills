@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/technical-troubleshooting/microskills/symptom-collection|symptom-collection]]"
+related-skills:
+  - "[[skills/professional-practice/technical-troubleshooting/technical-troubleshooting|technical-troubleshooting]]"
 learning-time-in-minutes: 5
 ---
 # Symptom Collection: The First Step in Troubleshooting

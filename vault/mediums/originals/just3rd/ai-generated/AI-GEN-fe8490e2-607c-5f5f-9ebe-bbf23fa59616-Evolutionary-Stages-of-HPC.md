@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/evolutionary-stages-of-hpc|evolutionary-stages-of-hpc]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/hpc-system|hpc-system]]"
 learning-time-in-minutes: 3
 ---
 # Evolutionary Stages of HPC

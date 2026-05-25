@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/entrepreneurship/lean-startup/microskills/hypothesis-testing-application|hypothesis-testing-application]]"
+related-skills:
+  - "[[skills/business/entrepreneurship/lean-startup/lean-startup|lean-startup]]"
 learning-time-in-minutes: 5
 ---
 # Hypothesis Testing with the Build-Measure-Learn Cycle

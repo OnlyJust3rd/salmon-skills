@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[initial-interface-concepts|initial-interface-concepts]]"
+related-skills:
+  - "[[skills/digital-media/human-computer-interaction/human-computer-interaction|human-computer-interaction]]"
 learning-time-in-minutes: 6
 ---
 # Initial Interface Concepts

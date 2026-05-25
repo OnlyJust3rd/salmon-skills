@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-mining/microskills/crisp-dm-framework|crisp-dm-framework]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-mining/data-mining|data-mining]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the CRISP-DM Framework

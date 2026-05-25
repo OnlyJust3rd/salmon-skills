@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/backend-development/node-js/microskills/node-js-process-model|node-js-process-model]]"
+related-skills:
+  - "[[skills/computing/software-engineering/backend-development/node-js/node-js|node-js]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Node.js Process Model: Runtime and Event Loop

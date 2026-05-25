@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/design-approach-comparison|design-approach-comparison]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-design/object-oriented-design/object-oriented-design|object-oriented-design]]"
 learning-time-in-minutes: 7
 ---
 # Comparing Object-Oriented Design Approaches

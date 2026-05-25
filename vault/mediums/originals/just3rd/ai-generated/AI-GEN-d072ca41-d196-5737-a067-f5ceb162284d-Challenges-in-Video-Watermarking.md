@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/challenges-in-video-watermarking|challenges-in-video-watermarking]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/digital-watermarking/digital-watermarking|digital-watermarking]]"
 learning-time-in-minutes: 4
 ---
 # Challenges in Video Watermarking

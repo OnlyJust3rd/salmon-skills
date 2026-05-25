@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/capital-expenditure-capex|capital-expenditure-capex]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/cloud-computing|cloud-computing]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Capital Expenditure (CAPEX) in IT

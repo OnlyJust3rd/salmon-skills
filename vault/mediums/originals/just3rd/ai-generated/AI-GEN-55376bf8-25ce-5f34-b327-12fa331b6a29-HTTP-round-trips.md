@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/frontend-development/web-application-concept/microskills/http-round-trips|http-round-trips]]"
+related-skills:
+  - "[[skills/computing/software-engineering/frontend-development/web-application-concept/web-application-concept|web-application-concept]]"
 learning-time-in-minutes: 4
 ---
 # Understanding HTTP Round Trips

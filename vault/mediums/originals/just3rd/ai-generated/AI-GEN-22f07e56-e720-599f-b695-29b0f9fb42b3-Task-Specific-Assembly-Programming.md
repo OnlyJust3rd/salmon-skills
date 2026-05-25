@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[task-specific-assembly-programming|task-specific-assembly-programming]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/assembly-programming/assembly-programming|assembly-programming]]"
 learning-time-in-minutes: 2
 ---
 # Task-Specific Assembly Programming

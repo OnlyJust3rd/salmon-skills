@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/message-integrity-mechanisms/microskills/el-gamal-in-digital-signatures|el-gamal-in-digital-signatures]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/message-integrity-mechanisms/message-integrity-mechanisms|message-integrity-mechanisms]]"
 learning-time-in-minutes: 5
 ---
 # El Gamal in Digital Signatures

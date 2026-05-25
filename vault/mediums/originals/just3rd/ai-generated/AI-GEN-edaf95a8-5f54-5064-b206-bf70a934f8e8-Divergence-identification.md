@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/sequence-and-series-convergence/microskills/divergence-identification|divergence-identification]]"
+related-skills:
+  - "[[skills/mathematics/calculus/sequence-and-series-convergence/sequence-and-series-convergence|sequence-and-series-convergence]]"
 learning-time-in-minutes: 4
 ---
 # Identifying Divergence in Series

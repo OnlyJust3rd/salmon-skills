@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/cluster-computing-operational-analysis|cluster-computing-operational-analysis]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/processor-architecture|processor-architecture]]"
 learning-time-in-minutes: 5
 ---
 # Cluster Computing Operational Analysis

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[efficiency-in-ip-allocation|efficiency-in-ip-allocation]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/network-layer|network-layer]]"
 learning-time-in-minutes: 5
 ---
 # Efficiency in IP Allocation: The Advantages of Subnetting

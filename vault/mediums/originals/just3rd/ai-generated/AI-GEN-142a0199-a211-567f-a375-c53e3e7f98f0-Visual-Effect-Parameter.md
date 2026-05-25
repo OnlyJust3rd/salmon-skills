@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/shader-programming/microskills/visual-effect-parameter|visual-effect-parameter]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/shader-programming/shader-programming|shader-programming]]"
 learning-time-in-minutes: 5
 ---
 # Understanding and Adjusting Visual Effect Parameters

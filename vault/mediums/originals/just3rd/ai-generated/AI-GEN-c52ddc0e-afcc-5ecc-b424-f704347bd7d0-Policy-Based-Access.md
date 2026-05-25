@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/cybersecurity/microskills/policy-based-access|policy-based-access]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/cybersecurity/cybersecurity|cybersecurity]]"
 learning-time-in-minutes: 4
 ---
 # Policy-Based Access Control

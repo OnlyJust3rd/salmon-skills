@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/microskills/multi-tenancy|multi-tenancy]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/software-as-a-service|software-as-a-service]]"
 learning-time-in-minutes: 5
 ---
 # Multi-Tenancy in SaaS

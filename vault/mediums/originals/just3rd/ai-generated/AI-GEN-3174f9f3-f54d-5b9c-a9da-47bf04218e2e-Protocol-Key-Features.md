@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/protocol-key-features|protocol-key-features]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/embedded-system-interfacing|embedded-system-interfacing]]"
 learning-time-in-minutes: 4
 ---
 # Protocol Key Features: Understanding Master/Slave, Clocking, and Data Transfer

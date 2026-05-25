@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[data-processing-in-neural-networks|data-processing-in-neural-networks]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/machine-learning/deep-learning/artificial-neural-network/artificial-neural-network|artificial-neural-network]]"
 learning-time-in-minutes: 4
 ---
 # Data Processing in Neural Networks: The Neuron's Journey

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/prototyping-techniques|prototyping-techniques]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/iterative-prototyping-and-testing|iterative-prototyping-and-testing]]"
 learning-time-in-minutes: 6
 ---
 # Prototyping Techniques: Building Your First Ideas

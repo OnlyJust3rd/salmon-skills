@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-practices/action-planning/microskills/milestone-scheduling|milestone-scheduling]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-practices/action-planning/action-planning|action-planning]]"
 learning-time-in-minutes: 4
 ---
 # Milestone Scheduling for Engineering Action Plans

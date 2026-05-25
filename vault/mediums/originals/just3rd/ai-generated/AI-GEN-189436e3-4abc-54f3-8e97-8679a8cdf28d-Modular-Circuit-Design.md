@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/modular-circuit-design|modular-circuit-design]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/combinational-logic-design|combinational-logic-design]]"
 learning-time-in-minutes: 4
 ---
 # Modular Circuit Design: Building Blocks for Logic

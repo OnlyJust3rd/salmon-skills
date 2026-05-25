@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[navigation-design|navigation-design]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/user-experience/user-experience|user-experience]]"
 learning-time-in-minutes: 5
 ---
 # Designing Effective Navigation

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/des-operations-analysis|des-operations-analysis]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/symmetric-cipher-operations|symmetric-cipher-operations]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing DES Operations

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/computer-architecture/computer-arithmetic/microskills/multiplier-divider-trade-off-analysis|multiplier-divider-trade-off-analysis]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/computer-architecture/computer-arithmetic/computer-arithmetic|computer-arithmetic]]"
 learning-time-in-minutes: 4
 ---
 # Multiplier/Divider Trade-off Analysis

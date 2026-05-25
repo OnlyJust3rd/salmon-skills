@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/perspective-projection/microskills/2d-representation-of-3d-objects|2d-representation-of-3d-objects]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/perspective-projection/perspective-projection|perspective-projection]]"
 learning-time-in-minutes: 5
 ---
 # Creating 2D Representations of 3D Objects

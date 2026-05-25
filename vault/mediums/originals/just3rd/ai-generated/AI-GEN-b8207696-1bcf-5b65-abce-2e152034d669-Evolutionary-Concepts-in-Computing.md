@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/evolutionary-concepts-in-computing|evolutionary-concepts-in-computing]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/computational-evolution-theory|computational-evolution-theory]]"
 learning-time-in-minutes: 4
 ---
 # Evolutionary Concepts in Computing

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/function-analysis/microskills/multivariable-function-continuity-conditions|multivariable-function-continuity-conditions]]"
+related-skills:
+  - "[[skills/mathematics/calculus/function-analysis/function-analysis|function-analysis]]"
 learning-time-in-minutes: 6
 ---
 # Multivariable Function Continuity Conditions

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[backward-pass-backpropagation-explanation|backward-pass-backpropagation-explanation]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/machine-learning/deep-learning/deep-learning/deep-learning|deep-learning]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Backward Pass (Backpropagation)

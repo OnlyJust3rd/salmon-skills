@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Basic SQL Query Execution"
+type: medium
+title: Basic SQL Query Execution
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/relational-databases/sql/microskills/basic-sql-query-execution|basic-sql-query-execution]]"
+  - "[[basic-sql-query-execution|basic-sql-query-execution]]"
+related-skills:
+  - "[[sql|sql]]"
 learning-time-in-minutes: 4
 ---
 # Basic SQL Query Execution
@@ -234,4 +236,4 @@ Now, try these commands on a sample database. Imagine a `Products` table with `P
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/relational-databases/sql/microskills/basic-sql-query-execution|Basic SQL Query Execution]]
+- [[basic-sql-query-execution|Basic SQL Query Execution]]

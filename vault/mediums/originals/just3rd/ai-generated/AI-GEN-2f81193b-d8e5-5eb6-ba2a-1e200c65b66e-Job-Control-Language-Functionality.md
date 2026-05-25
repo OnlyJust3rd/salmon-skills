@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/job-control-language-functionality|job-control-language-functionality]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/operating-system|operating-system]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Job Control Language (JCL) Functionality

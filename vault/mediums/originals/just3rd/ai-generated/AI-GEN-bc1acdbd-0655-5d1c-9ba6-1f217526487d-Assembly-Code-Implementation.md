@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[assembly-code-implementation|assembly-code-implementation]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/assembly-programming/assembly-programming|assembly-programming]]"
 learning-time-in-minutes: 2
 ---
 # Implementing Basic Arithmetic in Assembly

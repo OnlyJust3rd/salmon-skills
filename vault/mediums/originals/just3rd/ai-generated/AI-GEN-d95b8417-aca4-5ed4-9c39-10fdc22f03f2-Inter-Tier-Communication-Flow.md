@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Understanding Inter-Tier Communication Flow in Web-DB Architecture"
+type: medium
+title: Understanding Inter-Tier Communication Flow in Web-DB Architecture
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/inter-tier-communication-flow|inter-tier-communication-flow]]"
+  - "[[inter-tier-communication-flow|inter-tier-communication-flow]]"
+related-skills:
+  - "[[database-systems|database-systems]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Inter-Tier Communication Flow in Web-DB Architecture
@@ -84,4 +86,4 @@ Consider a scenario where a user wants to update their email address on a social
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/inter-tier-communication-flow|Inter-Tier Communication Flow]]
+- [[inter-tier-communication-flow|Inter-Tier Communication Flow]]

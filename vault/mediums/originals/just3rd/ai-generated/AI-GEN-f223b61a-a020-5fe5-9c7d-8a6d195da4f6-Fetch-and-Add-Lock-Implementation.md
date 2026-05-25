@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/fetch-and-add-lock-implementation|fetch-and-add-lock-implementation]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/concurrency-and-synchronization|concurrency-and-synchronization]]"
 learning-time-in-minutes: 3
 ---
 # Fetch-and-Add Lock Implementation

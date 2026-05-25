@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[network-performance-impact|network-performance-impact]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/transport-layer/transport-layer|transport-layer]]"
 learning-time-in-minutes: 7
 ---
 # Network Performance Impact: Throughput and Latency

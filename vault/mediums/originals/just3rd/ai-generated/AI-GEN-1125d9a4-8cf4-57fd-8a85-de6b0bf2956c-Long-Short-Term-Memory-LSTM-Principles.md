@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[long-short-term-memory-lstm-principles|long-short-term-memory-lstm-principles]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-classification/text-classification|text-classification]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Long Short-Term Memory (LSTM) Principles

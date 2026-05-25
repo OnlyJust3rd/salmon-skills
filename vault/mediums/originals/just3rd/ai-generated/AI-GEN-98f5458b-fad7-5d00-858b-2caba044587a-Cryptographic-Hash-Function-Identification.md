@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/cryptographic-hash-function-identification|cryptographic-hash-function-identification]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/cryptographic-fundamentals|cryptographic-fundamentals]]"
 learning-time-in-minutes: 3
 ---
 # Cryptographic Hash Function Identification

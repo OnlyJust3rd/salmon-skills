@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/minterm-and-maxterm-definitions|minterm-and-maxterm-definitions]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/combinational-logic-design|combinational-logic-design]]"
 learning-time-in-minutes: 4
 ---
 # Minterms and Maxterms: Building Blocks of Combinational Logic

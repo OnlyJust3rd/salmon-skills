@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/time-domain-signal-visualization|time-domain-signal-visualization]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/signal-representation-and-classification/signal-representation-and-classification|signal-representation-and-classification]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Time Domain Signal Visualization

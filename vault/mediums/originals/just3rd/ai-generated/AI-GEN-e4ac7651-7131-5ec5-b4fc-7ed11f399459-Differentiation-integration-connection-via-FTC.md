@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/fundamental-theorem-of-calculus/microskills/differentiation-integration-connection-via-ftc|differentiation-integration-connection-via-ftc]]"
+related-skills:
+  - "[[skills/mathematics/calculus/fundamental-theorem-of-calculus/fundamental-theorem-of-calculus|fundamental-theorem-of-calculus]]"
 learning-time-in-minutes: 4
 ---
 # The Inverse Dance: Differentiation and Integration

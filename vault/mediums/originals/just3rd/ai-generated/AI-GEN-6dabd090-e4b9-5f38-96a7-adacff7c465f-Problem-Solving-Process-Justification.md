@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/engineering-practices/technical-communication/microskills/problem-solving-process-justification|problem-solving-process-justification]]"
+related-skills:
+  - "[[skills/professional-practice/engineering-practices/technical-communication/technical-communication|technical-communication]]"
 learning-time-in-minutes: 5
 ---
 # Justifying Your Problem-Solving Approach

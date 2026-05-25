@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/reverse-bias-diode-behavior|reverse-bias-diode-behavior]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/semiconductor-device-operation|semiconductor-device-operation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Diode Operation Under Reverse Bias

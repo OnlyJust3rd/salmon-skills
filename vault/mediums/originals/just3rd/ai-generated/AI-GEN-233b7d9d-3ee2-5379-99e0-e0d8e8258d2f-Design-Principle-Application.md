@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[design-principle-application|design-principle-application]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/visual-interface-design/visual-interface-design|visual-interface-design]]"
 learning-time-in-minutes: 5
 ---
 # Applying Design Principles for Effective UI Solutions

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[ethical-implications-of-hci|ethical-implications-of-hci]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/advanced-interaction-paradigms/advanced-interaction-paradigms|advanced-interaction-paradigms]]"
 learning-time-in-minutes: 6
 ---
 # Understanding Ethical Implications of Future Human-Computer Interaction

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-integration/microskills/source-triggers|source-triggers]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-integration/continuous-integration|continuous-integration]]"
 learning-time-in-minutes: 4
 ---
 # Source Triggers: Kicking Off Your CI Pipeline

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[foundational-iot-concepts|foundational-iot-concepts]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/internet-of-things/internet-of-things|internet-of-things]]"
 learning-time-in-minutes: 5
 ---
 # Foundational IoT Concepts

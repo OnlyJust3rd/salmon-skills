@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[user-observation-protocols|user-observation-protocols]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/user-experience/user-experience|user-experience]]"
 learning-time-in-minutes: 5
 ---
 # User Observation Protocols: Watching Users in Action

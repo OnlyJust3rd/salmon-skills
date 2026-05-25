@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/digital-logic/bus-drivers-registers-and-tri-state/microskills/bus-driver-ic-identification|bus-driver-ic-identification]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/digital-logic/bus-drivers-registers-and-tri-state/bus-drivers-registers-and-tri-state|bus-drivers-registers-and-tri-state]]"
 learning-time-in-minutes: 4
 ---
 # Identifying Bus Driver ICs

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[floyd-warshall-algorithm-java-implementation|floyd-warshall-algorithm-java-implementation]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/java-programming/java-programming|java-programming]]"
 learning-time-in-minutes: 3
 ---
 # Implementing the Floyd-Warshall Algorithm in Java

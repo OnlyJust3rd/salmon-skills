@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/incident-response/microskills/lessons-learned|lessons-learned]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/incident-response/incident-response|incident-response]]"
 learning-time-in-minutes: 4
 ---
 # Incident Response: Lessons Learned

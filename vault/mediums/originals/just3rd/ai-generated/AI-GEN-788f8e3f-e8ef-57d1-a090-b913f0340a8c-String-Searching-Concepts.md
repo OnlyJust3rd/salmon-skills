@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/algorithms/algorithms/microskills/string-searching-concepts|string-searching-concepts]]"
+related-skills:
+  - "[[skills/computing/computer-science/algorithms/algorithms/algorithms|algorithms]]"
 learning-time-in-minutes: 2
 ---
 # String Searching Concepts

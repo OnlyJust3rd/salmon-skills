@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/player-psychology/microskills/game-storytelling-components|game-storytelling-components]]"
+related-skills:
+  - "[[skills/digital-media/game-development/player-psychology/player-psychology|player-psychology]]"
 learning-time-in-minutes: 5
 ---
 # Game Storytelling Components: Deconstructing Narrative Elements

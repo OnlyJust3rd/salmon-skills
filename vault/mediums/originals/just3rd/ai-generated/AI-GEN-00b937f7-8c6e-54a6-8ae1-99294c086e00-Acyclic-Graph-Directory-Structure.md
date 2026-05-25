@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[acyclic-graph-directory-structure|acyclic-graph-directory-structure]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/linux-system|linux-system]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Linux Directory Structure: The Acyclic Graph

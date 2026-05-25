@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/backend-development/restful-api/microskills/example-json-contracts|example-json-contracts]]"
+related-skills:
+  - "[[skills/computing/software-engineering/backend-development/restful-api/restful-api|restful-api]]"
 learning-time-in-minutes: 4
 ---
 # Drafting Example JSON Contracts for REST Operations

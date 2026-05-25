@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/fourier-series-computation/microskills/fourier-series-representation-concept|fourier-series-representation-concept]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/fourier-series-computation/fourier-series-computation|fourier-series-computation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Fourier Series Representation

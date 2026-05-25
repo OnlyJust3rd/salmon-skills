@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/yaml-syntax-for-kubernetes|yaml-syntax-for-kubernetes]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/kubernetes|kubernetes]]"
 learning-time-in-minutes: 3
 ---
 # YAML Syntax for Kubernetes Pods

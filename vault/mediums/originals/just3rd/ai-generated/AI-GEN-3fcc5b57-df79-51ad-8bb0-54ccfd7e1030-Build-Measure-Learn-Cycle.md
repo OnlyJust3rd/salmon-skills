@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/entrepreneurship/lean-startup/microskills/build-measure-learn-cycle|build-measure-learn-cycle]]"
+related-skills:
+  - "[[skills/business/entrepreneurship/lean-startup/lean-startup|lean-startup]]"
 learning-time-in-minutes: 5
 ---
 # The Build-Measure-Learn Cycle: The Heartbeat of Lean Startup

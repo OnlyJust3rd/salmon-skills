@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[package-management-tools|package-management-tools]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/linux-system|linux-system]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Package Management Tools in Linux

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[performance-measurement-techniques|performance-measurement-techniques]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/network-layers/network-performance/network-performance|network-performance]]"
 learning-time-in-minutes: 5
 ---
 # Measuring Network Performance: Throughput, Latency, and Jitter

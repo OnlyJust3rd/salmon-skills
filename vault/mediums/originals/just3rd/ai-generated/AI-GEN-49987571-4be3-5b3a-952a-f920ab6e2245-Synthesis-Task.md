@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/ai-assisted-development/claude-cowork/microskills/synthesis-task|synthesis-task]]"
+related-skills:
+  - "[[skills/computing/software-engineering/ai-assisted-development/claude-cowork/claude-cowork|claude-cowork]]"
 learning-time-in-minutes: 4
 ---
 # Synthesizing Information for Task Delegation with Claude Cowork

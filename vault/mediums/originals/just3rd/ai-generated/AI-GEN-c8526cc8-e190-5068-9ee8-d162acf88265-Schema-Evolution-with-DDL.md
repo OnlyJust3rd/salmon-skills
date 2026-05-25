@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Schema Evolution with DDL"
+type: medium
+title: Schema Evolution with DDL
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/relational-databases/sql/microskills/schema-evolution-with-ddl|schema-evolution-with-ddl]]"
+  - "[[schema-evolution-with-ddl|schema-evolution-with-ddl]]"
+related-skills:
+  - "[[sql|sql]]"
 learning-time-in-minutes: 4
 ---
 # Schema Evolution with DDL
@@ -173,4 +175,4 @@ By mastering these DDL commands and following best practices, you can confidentl
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/relational-databases/sql/microskills/schema-evolution-with-ddl|Schema Evolution with DDL]]
+- [[schema-evolution-with-ddl|Schema Evolution with DDL]]

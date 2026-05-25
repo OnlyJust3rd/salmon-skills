@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/application-state|application-state]]"
+related-skills:
+  - "[[skills/computing/software-engineering/mobile-development/mobile-application-development/mobile-application-development|mobile-application-development]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Application State in Mobile Development

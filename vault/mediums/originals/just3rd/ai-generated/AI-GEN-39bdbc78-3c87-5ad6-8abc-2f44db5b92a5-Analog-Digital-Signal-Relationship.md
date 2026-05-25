@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/signal-conversion-a-d-and-d-a/microskills/analog-digital-signal-relationship|analog-digital-signal-relationship]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/signal-conversion-a-d-and-d-a/signal-conversion-a-d-and-d-a|signal-conversion-a-d-and-d-a]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Analog-Digital Signal Relationship

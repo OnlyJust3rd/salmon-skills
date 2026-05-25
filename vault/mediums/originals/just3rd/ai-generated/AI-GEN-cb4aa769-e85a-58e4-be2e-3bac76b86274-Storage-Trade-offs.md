@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/storage-trade-offs|storage-trade-offs]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/cloud-infrastructure|cloud-infrastructure]]"
 learning-time-in-minutes: 4
 ---
 # Storage Trade-offs in Cloud Infrastructure

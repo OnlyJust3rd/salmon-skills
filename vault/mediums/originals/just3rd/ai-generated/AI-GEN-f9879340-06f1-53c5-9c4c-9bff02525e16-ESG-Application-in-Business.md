@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/legal-finance-governance/sustainability-and-esg-frameworks/microskills/esg-application-in-business|esg-application-in-business]]"
+related-skills:
+  - "[[skills/business/legal-finance-governance/sustainability-and-esg-frameworks/sustainability-and-esg-frameworks|sustainability-and-esg-frameworks]]"
 learning-time-in-minutes: 4
 ---
 # ESG Application in Business

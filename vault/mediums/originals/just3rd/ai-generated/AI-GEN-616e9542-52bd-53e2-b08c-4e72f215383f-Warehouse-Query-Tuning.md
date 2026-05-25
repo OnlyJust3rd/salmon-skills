@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/amazon-redshift/microskills/warehouse-query-tuning|warehouse-query-tuning]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/amazon-redshift/amazon-redshift|amazon-redshift]]"
 learning-time-in-minutes: 2
 ---
 # Warehouse Query Tuning in Redshift

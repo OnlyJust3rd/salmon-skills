@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-flow-and-difficulty-balancing/microskills/difficulty-and-engagement-analysis|difficulty-and-engagement-analysis]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-flow-and-difficulty-balancing/game-flow-and-difficulty-balancing|game-flow-and-difficulty-balancing]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing the Difficulty-Engagement Relationship

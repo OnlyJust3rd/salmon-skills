@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/ai-assisted-development/cursor/microskills/manual-mode|manual-mode]]"
+related-skills:
+  - "[[skills/computing/software-engineering/ai-assisted-development/cursor/cursor|cursor]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Manual Mode in Cursor AI

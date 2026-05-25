@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[packet-routing-mechanics|packet-routing-mechanics]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/network-layer|network-layer]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Packet Routing Mechanics

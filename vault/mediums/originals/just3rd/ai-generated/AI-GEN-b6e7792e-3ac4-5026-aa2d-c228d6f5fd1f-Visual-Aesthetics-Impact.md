@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[visual-aesthetics-impact|visual-aesthetics-impact]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/visual-interface-design/visual-interface-design|visual-interface-design]]"
 learning-time-in-minutes: 4
 ---
 # Visual Aesthetics in User Interface Design

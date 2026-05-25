@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/mobile-development/flutter/microskills/state-update|state-update]]"
+related-skills:
+  - "[[skills/computing/software-engineering/mobile-development/flutter/flutter|flutter]]"
 learning-time-in-minutes: 3
 ---
 # State Update in Flutter: Making Your UI Dynamic

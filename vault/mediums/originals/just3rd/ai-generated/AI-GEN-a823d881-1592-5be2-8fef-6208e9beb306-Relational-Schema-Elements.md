@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Relational Schema Elements"
+type: medium
+title: Relational Schema Elements
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/relational-schema-elements|relational-schema-elements]]"
+  - "[[relational-schema-elements|relational-schema-elements]]"
+related-skills:
+  - "[[relational-database|relational-database]]"
 learning-time-in-minutes: 3
 ---
 # Relational Schema Elements
@@ -78,4 +80,4 @@ Mastering these core concepts is the first step in understanding how relational 
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/relational-schema-elements|Relational Schema Elements]]
+- [[relational-schema-elements|Relational Schema Elements]]

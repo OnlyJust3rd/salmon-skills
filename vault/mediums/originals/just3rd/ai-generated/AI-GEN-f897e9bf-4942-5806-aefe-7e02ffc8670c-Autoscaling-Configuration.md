@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/autoscaling-configuration|autoscaling-configuration]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/cloud-scalability|cloud-scalability]]"
 learning-time-in-minutes: 3
 ---
 # Autoscaling Configuration for VM Scale Sets

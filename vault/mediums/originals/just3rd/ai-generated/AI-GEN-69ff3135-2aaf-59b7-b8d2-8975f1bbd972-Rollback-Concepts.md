@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-delivery/microskills/rollback-concepts|rollback-concepts]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-delivery/continuous-delivery|continuous-delivery]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Rollbacks: Your Safety Net in Continuous Delivery

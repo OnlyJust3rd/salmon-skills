@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-networking/microskills/server-authority|server-authority]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-networking/game-networking|game-networking]]"
 learning-time-in-minutes: 4
 ---
 # Server Authority in Multiplayer Games

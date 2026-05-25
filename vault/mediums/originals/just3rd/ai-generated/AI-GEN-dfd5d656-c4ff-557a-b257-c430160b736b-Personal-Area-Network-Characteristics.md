@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[personal-area-network-characteristics|personal-area-network-characteristics]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/wireless-networks/wireless-networks|wireless-networks]]"
 learning-time-in-minutes: 4
 ---
 # Personal Area Network Characteristics

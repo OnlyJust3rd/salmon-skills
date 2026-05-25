@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-design/microskills/character-functionality-execution|character-functionality-execution]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-design/game-design|game-design]]"
 learning-time-in-minutes: 4
 ---
 # Character Functionality Execution

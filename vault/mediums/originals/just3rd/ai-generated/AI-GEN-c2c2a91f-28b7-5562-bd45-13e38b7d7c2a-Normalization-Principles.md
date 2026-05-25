@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Understanding Database Normalization Principles"
+type: medium
+title: Understanding Database Normalization Principles
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/normalization-principles|normalization-principles]]"
+  - "[[normalization-principles|normalization-principles]]"
+related-skills:
+  - "[[relational-database|relational-database]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Database Normalization Principles
@@ -94,4 +96,4 @@ Normalization aims to solve these issues by splitting this into multiple, more f
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/normalization-principles|Normalization Principles]]
+- [[normalization-principles|Normalization Principles]]

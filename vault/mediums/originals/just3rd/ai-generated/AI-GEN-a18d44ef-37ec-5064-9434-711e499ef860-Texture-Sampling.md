@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/shader-programming/microskills/texture-sampling|texture-sampling]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/shader-programming/shader-programming|shader-programming]]"
 learning-time-in-minutes: 5
 ---
 # Texture Sampling in Shader Programming

@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Understanding First Normal Form (1NF)"
+type: medium
+title: Understanding First Normal Form (1NF)
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/first-normal-form-1nf|first-normal-form-1nf]]"
+  - "[[first-normal-form-1nf|first-normal-form-1nf]]"
+related-skills:
+  - "[[relational-database|relational-database]]"
 learning-time-in-minutes: 3
 ---
 # Understanding First Normal Form (1NF)
@@ -78,4 +80,4 @@ By ensuring your tables meet the conditions of 1NF, you lay a solid groundwork f
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/first-normal-form-1nf|First Normal Form (1NF)]]
+- [[first-normal-form-1nf|First Normal Form (1NF)]]

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[bar-chart-generation-for-text-data|bar-chart-generation-for-text-data]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-visualization-and-exploratory-analysis/text-visualization-and-exploratory-analysis|text-visualization-and-exploratory-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Bar Chart Generation for Text Data

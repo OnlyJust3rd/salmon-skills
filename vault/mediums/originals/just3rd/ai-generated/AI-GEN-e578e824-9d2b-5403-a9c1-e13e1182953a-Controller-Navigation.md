@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-ui/microskills/controller-navigation|controller-navigation]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-ui/game-ui|game-ui]]"
 learning-time-in-minutes: 4
 ---
 # Controller Navigation: Moving Beyond the Mouse

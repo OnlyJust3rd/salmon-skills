@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/product-management/marketing-strategy/microskills/customer-acquisition-strategies|customer-acquisition-strategies]]"
+related-skills:
+  - "[[skills/business/product-management/marketing-strategy/marketing-strategy|marketing-strategy]]"
 learning-time-in-minutes: 5
 ---
 # Customer Acquisition Strategies: Attracting Your First Buyers

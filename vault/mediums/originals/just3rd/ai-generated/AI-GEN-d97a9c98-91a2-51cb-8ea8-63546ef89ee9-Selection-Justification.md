@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/engineering-practices/engineering-process/microskills/selection-justification|selection-justification]]"
+related-skills:
+  - "[[skills/professional-practice/engineering-practices/engineering-process/engineering-process|engineering-process]]"
 learning-time-in-minutes: 6
 ---
 # Justifying Your Engineering Problem-Solving Approach

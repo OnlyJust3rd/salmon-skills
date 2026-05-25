@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/pipelined-execution-simulation|pipelined-execution-simulation]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/pipelined-architecture|pipelined-architecture]]"
 learning-time-in-minutes: 6
 ---
 # Simulating Pipelined Execution

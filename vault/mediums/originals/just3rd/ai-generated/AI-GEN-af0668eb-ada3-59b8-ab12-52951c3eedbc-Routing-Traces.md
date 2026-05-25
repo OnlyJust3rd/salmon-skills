@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/electronics/pcb-design/microskills/routing-traces|routing-traces]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/electronics/pcb-design/pcb-design|pcb-design]]"
 learning-time-in-minutes: 6
 ---
 # Routing Traces: Connecting the Dots on Your PCB

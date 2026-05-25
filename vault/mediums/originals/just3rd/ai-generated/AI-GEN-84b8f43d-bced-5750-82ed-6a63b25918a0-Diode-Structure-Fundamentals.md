@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/diode-structure-fundamentals|diode-structure-fundamentals]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/semiconductor-device-operation|semiconductor-device-operation]]"
 learning-time-in-minutes: 3
 ---
 # Diode Structure Fundamentals

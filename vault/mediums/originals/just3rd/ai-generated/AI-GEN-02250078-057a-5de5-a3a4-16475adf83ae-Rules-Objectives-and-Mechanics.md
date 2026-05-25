@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-design/microskills/rules-objectives-and-mechanics|rules-objectives-and-mechanics]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-design/game-design|game-design]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Game Elements: Rules, Objectives, and Mechanics

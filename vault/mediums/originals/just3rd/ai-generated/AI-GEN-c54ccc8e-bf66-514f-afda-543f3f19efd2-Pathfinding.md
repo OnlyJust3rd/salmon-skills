@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-ai/microskills/pathfinding|pathfinding]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-ai/game-ai|game-ai]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Pathfinding in Game AI

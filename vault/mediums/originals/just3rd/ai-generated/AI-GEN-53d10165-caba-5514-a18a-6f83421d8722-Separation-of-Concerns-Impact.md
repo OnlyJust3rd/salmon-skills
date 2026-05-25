@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/separation-of-concerns-impact|separation-of-concerns-impact]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-design/object-oriented-design/object-oriented-design|object-oriented-design]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Impact of Separation of Concerns on System Design

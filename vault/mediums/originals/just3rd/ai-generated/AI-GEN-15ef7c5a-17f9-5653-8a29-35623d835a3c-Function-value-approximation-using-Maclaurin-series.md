@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/power-series-and-taylor-expansions/microskills/function-value-approximation-using-maclaurin-series|function-value-approximation-using-maclaurin-series]]"
+related-skills:
+  - "[[skills/mathematics/calculus/power-series-and-taylor-expansions/power-series-and-taylor-expansions|power-series-and-taylor-expansions]]"
 learning-time-in-minutes: 4
 ---
 # Approximating Function Values with Maclaurin Series

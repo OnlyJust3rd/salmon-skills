@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/design-fabrication/digital-fabrication/microskills/cad-model-export-procedures|cad-model-export-procedures]]"
+related-skills:
+  - "[[skills/digital-media/design-fabrication/digital-fabrication/digital-fabrication|digital-fabrication]]"
 learning-time-in-minutes: 5
 ---
 # CAD Model Export Procedures for 3D Printing

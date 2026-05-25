@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/digital-rights-management-systems/microskills/drm-system-functionality|drm-system-functionality]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/digital-rights-management-systems/digital-rights-management-systems|digital-rights-management-systems]]"
 learning-time-in-minutes: 4
 ---
 # Understanding DRM System Functionality

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/message-integrity-mechanisms/microskills/mac-properties|mac-properties]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/message-integrity-mechanisms/message-integrity-mechanisms|message-integrity-mechanisms]]"
 learning-time-in-minutes: 5
 ---
 # Understanding MAC Properties

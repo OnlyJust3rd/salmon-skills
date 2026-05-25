@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/thread-definitions|thread-definitions]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/operating-system|operating-system]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Threads in Operating Systems

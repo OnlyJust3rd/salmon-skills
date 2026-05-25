@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[spi-slave-data-transfer|spi-slave-data-transfer]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-programming/avr-communication-programming/avr-communication-programming|avr-communication-programming]]"
 learning-time-in-minutes: 6
 ---
 # SPI Slave Data Transfer with AVR Microcontrollers

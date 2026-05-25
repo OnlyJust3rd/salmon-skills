@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/workload-locality-reasoning|workload-locality-reasoning]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/memory-hierarchy|memory-hierarchy]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Workload Locality for Smarter Memory

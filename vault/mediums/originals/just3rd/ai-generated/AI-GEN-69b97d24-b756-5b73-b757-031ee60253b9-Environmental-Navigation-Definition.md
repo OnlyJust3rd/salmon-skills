@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[environmental-navigation-definition|environmental-navigation-definition]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/mobile-robot-navigation/mobile-robot-navigation|mobile-robot-navigation]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Environmental Navigation for Robots

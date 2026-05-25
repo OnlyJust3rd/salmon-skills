@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/engineering-practices/engineering-process/microskills/requirement-based-solution-comparison|requirement-based-solution-comparison]]"
+related-skills:
+  - "[[skills/professional-practice/engineering-practices/engineering-process/engineering-process|engineering-process]]"
 learning-time-in-minutes: 6
 ---
 # Requirement-Based Solution Comparison

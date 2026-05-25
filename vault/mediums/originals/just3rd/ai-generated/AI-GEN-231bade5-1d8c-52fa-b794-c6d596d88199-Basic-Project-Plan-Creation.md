@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-practices/project-management/microskills/basic-project-plan-creation|basic-project-plan-creation]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-practices/project-management/project-management|project-management]]"
 learning-time-in-minutes: 5
 ---
 # Basic Project Plan Creation

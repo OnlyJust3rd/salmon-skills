@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/scenario-based-prevention|scenario-based-prevention]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/deadlock-management|deadlock-management]]"
 learning-time-in-minutes: 3
 ---
 # Scenario-Based Deadlock Prevention

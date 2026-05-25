@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-design/design-patterns/microskills/when-to-use-specific-patterns|when-to-use-specific-patterns]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-design/design-patterns/design-patterns|design-patterns]]"
 learning-time-in-minutes: 4
 ---
 # When to Use Specific Design Patterns

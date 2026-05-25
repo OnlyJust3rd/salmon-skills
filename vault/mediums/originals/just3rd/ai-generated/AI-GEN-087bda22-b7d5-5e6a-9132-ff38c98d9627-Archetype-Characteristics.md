@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/character-design/microskills/archetype-characteristics|archetype-characteristics]]"
+related-skills:
+  - "[[skills/digital-media/game-development/character-design/character-design|character-design]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Archetype Characteristics

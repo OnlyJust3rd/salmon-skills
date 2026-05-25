@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/genetic-programming-implementation-for-robots|genetic-programming-implementation-for-robots]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/computational-evolution-theory|computational-evolution-theory]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Genetic Programming for Robot Control

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[common-assembly-instructions|common-assembly-instructions]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/assembly-programming/assembly-programming|assembly-programming]]"
 learning-time-in-minutes: 3
 ---
 # Common Assembly Instructions

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/backend-development/backend-web-api-concept/microskills/request-handling-layer|request-handling-layer]]"
+related-skills:
+  - "[[skills/computing/software-engineering/backend-development/backend-web-api-concept/backend-web-api-concept|backend-web-api-concept]]"
 learning-time-in-minutes: 3
 ---
 # The Request Handling Layer: Your API's First Responder

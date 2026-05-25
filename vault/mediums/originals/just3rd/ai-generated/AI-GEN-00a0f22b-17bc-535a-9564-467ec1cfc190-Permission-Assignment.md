@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/system-administration/endpoint-administration/microskills/permission-assignment|permission-assignment]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/system-administration/endpoint-administration/endpoint-administration|endpoint-administration]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Permission Assignment on Endpoints

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/access-control/microskills/biometric-processes|biometric-processes]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/access-control/access-control|access-control]]"
 learning-time-in-minutes: 6
 ---
 # Biometric System Processes: Enrollment, Verification, and Identification

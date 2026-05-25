@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/soho-network-operations|soho-network-operations]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/network-layers/network-management/network-management|network-management]]"
 learning-time-in-minutes: 4
 ---
 # Understanding SOHO Network Operations

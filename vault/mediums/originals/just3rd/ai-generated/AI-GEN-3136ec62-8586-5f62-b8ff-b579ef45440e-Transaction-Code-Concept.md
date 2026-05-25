@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/corporate-operations/sap-erp/microskills/transaction-code-concept|transaction-code-concept]]"
+related-skills:
+  - "[[skills/business/corporate-operations/sap-erp/sap-erp|sap-erp]]"
 learning-time-in-minutes: 4
 ---
 # Understanding SAP Transaction Codes

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/verilog-data-types|verilog-data-types]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/verilog-hdl-modeling|verilog-hdl-modeling]]"
 learning-time-in-minutes: 3
 ---
 # Verilog Data Types: The Building Blocks of Your Design

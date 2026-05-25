@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/lti-system-analysis/microskills/sequence-convolution-execution|sequence-convolution-execution]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/lti-system-analysis/lti-system-analysis|lti-system-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Computing Discrete-Time Convolution

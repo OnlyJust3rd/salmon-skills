@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-practices/uml-modeling/microskills/uml-diagram-identification|uml-diagram-identification]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-practices/uml-modeling/uml-modeling|uml-modeling]]"
 learning-time-in-minutes: 5
 ---
 # Recognizing UML Diagram Types

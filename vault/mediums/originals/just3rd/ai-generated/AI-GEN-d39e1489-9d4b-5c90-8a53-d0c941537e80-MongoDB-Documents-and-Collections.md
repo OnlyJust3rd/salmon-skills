@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[mongodb-documents-and-collections|mongodb-documents-and-collections]]"
+related-skills:
+  - "[[mongodb|mongodb]]"
 learning-time-in-minutes: 4
 ---
 # Understanding MongoDB Documents and Collections

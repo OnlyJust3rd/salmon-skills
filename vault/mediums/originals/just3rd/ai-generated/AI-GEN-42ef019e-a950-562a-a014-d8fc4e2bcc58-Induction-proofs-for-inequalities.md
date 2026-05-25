@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/discrete-math/mathematical-induction/microskills/induction-proofs-for-inequalities|induction-proofs-for-inequalities]]"
+related-skills:
+  - "[[skills/mathematics/discrete-math/mathematical-induction/mathematical-induction|mathematical-induction]]"
 learning-time-in-minutes: 4
 ---
 # Induction Proofs for Inequalities

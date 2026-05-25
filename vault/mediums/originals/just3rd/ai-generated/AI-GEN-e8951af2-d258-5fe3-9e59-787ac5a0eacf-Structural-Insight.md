@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/exploratory-data-analysis/microskills/structural-insight|structural-insight]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/exploratory-data-analysis/exploratory-data-analysis|exploratory-data-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Data Structure for Effective Analysis

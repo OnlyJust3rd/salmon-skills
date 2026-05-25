@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/instruction-execute-process|instruction-execute-process]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-design/processor-design|processor-design]]"
 learning-time-in-minutes: 4
 ---
 # The Processor's Instruction Execute Cycle

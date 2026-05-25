@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[dom-feedback-loops|dom-feedback-loops]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/javascript/javascript|javascript]]"
 learning-time-in-minutes: 3
 ---
 # Displaying Fetch States: Loading, Success, and Error

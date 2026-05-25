@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/textual-data-cleaning-strategies|textual-data-cleaning-strategies]]"
+related-skills:
+  - "[[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/pattern-matching-and-text-filtering|pattern-matching-and-text-filtering]]"
 learning-time-in-minutes: 5
 ---
 # Textual Data Cleaning Strategies for Noise Removal

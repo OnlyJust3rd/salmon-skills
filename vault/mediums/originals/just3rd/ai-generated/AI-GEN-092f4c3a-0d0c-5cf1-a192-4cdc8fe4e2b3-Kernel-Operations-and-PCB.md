@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/kernel-operations-and-pcb|kernel-operations-and-pcb]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/process-management-and-system-calls|process-management-and-system-calls]]"
 learning-time-in-minutes: 5
 ---
 # Kernel Operations and the Process Control Block (PCB)

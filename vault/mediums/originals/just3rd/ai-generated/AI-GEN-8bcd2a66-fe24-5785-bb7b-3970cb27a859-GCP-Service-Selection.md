@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-service-selection|gcp-service-selection]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/google-cloud-platform|google-cloud-platform]]"
 learning-time-in-minutes: 5
 ---
 # GCP Service Selection: Choosing the Right Tools for Your Application

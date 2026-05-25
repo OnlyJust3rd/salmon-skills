@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[shell-variables-and-parameters|shell-variables-and-parameters]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/shell-scripting/shell-scripting|shell-scripting]]"
 learning-time-in-minutes: 4
 ---
 # Shell Variables and Parameters: Making Your Scripts Reusable

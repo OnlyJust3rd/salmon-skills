@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/microskills/asymmetric-encryption-characteristics|asymmetric-encryption-characteristics]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/cryptography-for-digital-media-protection|cryptography-for-digital-media-protection]]"
 learning-time-in-minutes: 4
 ---
 # Asymmetric Encryption Characteristics: A Deep Dive

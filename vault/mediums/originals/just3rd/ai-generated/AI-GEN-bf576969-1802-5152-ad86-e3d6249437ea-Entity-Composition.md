@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-engine-architecture/microskills/entity-composition|entity-composition]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-engine-architecture/game-engine-architecture|game-engine-architecture]]"
 learning-time-in-minutes: 3
 ---
 # Entity Composition: Building Blocks for Game Objects

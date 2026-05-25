@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[task-oriented-robotic-implementation|task-oriented-robotic-implementation]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/robotic-system/robotic-system|robotic-system]]"
 learning-time-in-minutes: 4
 ---
 # Implementing a Task with a Robotic System

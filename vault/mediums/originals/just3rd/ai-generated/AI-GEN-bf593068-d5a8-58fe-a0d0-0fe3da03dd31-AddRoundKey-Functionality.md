@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/addroundkey-functionality|addroundkey-functionality]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/symmetric-cipher-operations|symmetric-cipher-operations]]"
 learning-time-in-minutes: 4
 ---
 # The AddRoundKey Function: Injecting Secrecy in Block Ciphers

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/state-machine-analysis|state-machine-analysis]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/sequential-logic-design|sequential-logic-design]]"
 learning-time-in-minutes: 5
 ---
 # State Machine Analysis

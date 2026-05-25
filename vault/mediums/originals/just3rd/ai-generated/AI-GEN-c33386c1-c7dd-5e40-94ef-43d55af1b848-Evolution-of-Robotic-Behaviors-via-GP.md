@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/evolution-of-robotic-behaviors-via-gp|evolution-of-robotic-behaviors-via-gp]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/computational-evolution-theory|computational-evolution-theory]]"
 learning-time-in-minutes: 3
 ---
 # Evolving Robotic Behaviors with Genetic Programming

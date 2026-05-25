@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Understanding Structured Query Language (SQL)"
+type: medium
+title: Understanding Structured Query Language (SQL)
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/relational-databases/sql/microskills/structured-query-language-sql-definition|structured-query-language-sql-definition]]"
+  - "[[structured-query-language-sql-definition|structured-query-language-sql-definition]]"
+related-skills:
+  - "[[sql|sql]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Structured Query Language (SQL)
@@ -67,4 +69,4 @@ SQL is the essential language for working with relational databases. Its purpose
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/relational-databases/sql/microskills/structured-query-language-sql-definition|Structured Query Language (SQL) Definition]]
+- [[structured-query-language-sql-definition|Structured Query Language (SQL) Definition]]

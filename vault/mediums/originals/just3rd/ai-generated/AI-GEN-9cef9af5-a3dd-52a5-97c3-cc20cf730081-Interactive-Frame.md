@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[interactive-frame|interactive-frame]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/figma/figma|figma]]"
 learning-time-in-minutes: 6
 ---
 # Interactive Frames in Figma: Connecting Your Designs

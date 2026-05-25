@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/design-fabrication/digital-fabrication/microskills/3d-printing-technology-utilization|3d-printing-technology-utilization]]"
+related-skills:
+  - "[[skills/digital-media/design-fabrication/digital-fabrication/digital-fabrication|digital-fabrication]]"
 learning-time-in-minutes: 5
 ---
 # Mastering 3D Printing Technology Utilization

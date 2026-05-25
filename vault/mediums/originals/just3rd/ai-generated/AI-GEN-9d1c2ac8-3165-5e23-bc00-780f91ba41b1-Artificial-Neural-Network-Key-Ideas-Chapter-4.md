@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[artificial-neural-network-key-ideas-chapter-4|artificial-neural-network-key-ideas-chapter-4]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/machine-learning/deep-learning/artificial-neural-network/artificial-neural-network|artificial-neural-network]]"
 learning-time-in-minutes: 3
 ---
 # Artificial Neural Network Key Ideas (Chapter 4)

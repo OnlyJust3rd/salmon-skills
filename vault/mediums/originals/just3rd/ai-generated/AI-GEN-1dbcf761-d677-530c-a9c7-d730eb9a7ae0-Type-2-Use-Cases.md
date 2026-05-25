@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/type-2-use-cases|type-2-use-cases]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/system-virtualization|system-virtualization]]"
 learning-time-in-minutes: 5
 ---
 # Type-2 Hypervisor Use Cases: When Simplicity Trumps Raw Performance

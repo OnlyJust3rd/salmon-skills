@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/entrepreneurship/business-model-design/microskills/startup-hypothesis-articulation|startup-hypothesis-articulation]]"
+related-skills:
+  - "[[skills/business/entrepreneurship/business-model-design/business-model-design|business-model-design]]"
 learning-time-in-minutes: 2
 ---
 # Articulating Your Startup Hypotheses

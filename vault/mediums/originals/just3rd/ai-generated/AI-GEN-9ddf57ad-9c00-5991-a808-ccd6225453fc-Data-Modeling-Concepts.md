@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/data-modeling-concepts|data-modeling-concepts]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/data-modeling|data-modeling]]"
 learning-time-in-minutes: 2
 ---
 # Understanding Core Data Modeling Concepts

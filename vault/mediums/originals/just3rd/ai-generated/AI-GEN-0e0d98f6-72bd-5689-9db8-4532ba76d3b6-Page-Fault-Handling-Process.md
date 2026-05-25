@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/page-fault-handling-process|page-fault-handling-process]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/memory-virtualization|memory-virtualization]]"
 learning-time-in-minutes: 5
 ---
 # Handling a Page Fault: When Your Program Asks for What's Not There

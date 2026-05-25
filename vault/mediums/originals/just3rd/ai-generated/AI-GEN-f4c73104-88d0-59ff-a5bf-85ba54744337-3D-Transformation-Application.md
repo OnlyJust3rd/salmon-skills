@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/geometric-transformations/microskills/3d-transformation-application|3d-transformation-application]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/geometric-transformations/geometric-transformations|geometric-transformations]]"
 learning-time-in-minutes: 5
 ---
 # Applying 3D Transformations: Translation, Scaling, and Rotation

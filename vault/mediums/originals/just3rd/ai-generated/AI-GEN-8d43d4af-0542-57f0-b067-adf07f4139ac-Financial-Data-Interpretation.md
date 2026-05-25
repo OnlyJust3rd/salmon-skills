@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/product-management/feasibility-analysis/microskills/financial-data-interpretation|financial-data-interpretation]]"
+related-skills:
+  - "[[skills/business/product-management/feasibility-analysis/feasibility-analysis|feasibility-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Interpreting Financial Data for Profitability and Break-Even Analysis

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/ai-assisted-development/ai-code-review/microskills/risk-prioritization|risk-prioritization]]"
+related-skills:
+  - "[[skills/computing/software-engineering/ai-assisted-development/ai-code-review/ai-code-review|ai-code-review]]"
 learning-time-in-minutes: 6
 ---
 # Prioritizing Code Review Findings: Separating Severity

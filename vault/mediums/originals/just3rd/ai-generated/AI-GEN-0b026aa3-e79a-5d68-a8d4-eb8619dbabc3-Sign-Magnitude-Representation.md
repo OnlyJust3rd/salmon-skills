@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/computer-architecture/number-representation/microskills/sign-magnitude-representation|sign-magnitude-representation]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/computer-architecture/number-representation/number-representation|number-representation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Sign-Magnitude Representation

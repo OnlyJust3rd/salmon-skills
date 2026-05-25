@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[implement-data-science-workflow-in-python-workflow-steps|implement-data-science-workflow-in-python-workflow-steps]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/python/python|python]]"
 learning-time-in-minutes: 5
 ---
 # Implementing the Data Science Workflow in Python: Step-by-Step

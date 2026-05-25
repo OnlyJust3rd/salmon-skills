@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/amazon-redshift/microskills/table-distribution|table-distribution]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/amazon-redshift/amazon-redshift|amazon-redshift]]"
 learning-time-in-minutes: 3
 ---
 # Redshift Table Distribution: Optimizing Joins and Scans

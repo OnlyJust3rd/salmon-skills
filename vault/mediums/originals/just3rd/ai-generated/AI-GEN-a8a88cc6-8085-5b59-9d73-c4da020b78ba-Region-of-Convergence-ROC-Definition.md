@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/microskills/region-of-convergence-roc-definition|region-of-convergence-roc-definition]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/complex-frequency-domain-analysis|complex-frequency-domain-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Region of Convergence (ROC) - The Foundation of Z-Transforms

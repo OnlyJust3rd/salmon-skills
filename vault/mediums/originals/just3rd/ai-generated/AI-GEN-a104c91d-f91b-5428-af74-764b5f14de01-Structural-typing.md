@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[structural-typing|structural-typing]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/typescript/typescript|typescript]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Structural Typing in TypeScript

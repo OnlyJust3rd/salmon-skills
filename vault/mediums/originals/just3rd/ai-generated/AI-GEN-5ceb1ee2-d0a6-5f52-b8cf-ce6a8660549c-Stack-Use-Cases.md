@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/data-structures/data-structure-principles/microskills/stack-use-cases|stack-use-cases]]"
+related-skills:
+  - "[[skills/computing/computer-science/data-structures/data-structure-principles/data-structure-principles|data-structure-principles]]"
 learning-time-in-minutes: 3
 ---
 # Stack Use Cases: Understanding Practical Applications

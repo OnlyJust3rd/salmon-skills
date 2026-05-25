@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[traveling-salesman-problem-tsp-branch-and-bound-java-implementation|traveling-salesman-problem-tsp-branch-and-bound-java-implementation]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/java-programming/java-programming|java-programming]]"
 learning-time-in-minutes: 5
 ---
 # Implementing Branch and Bound for TSP in Java

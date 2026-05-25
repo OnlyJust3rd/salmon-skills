@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[text-generation|text-generation]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/machine-learning/deep-learning/large-language-models/large-language-models|large-language-models]]"
 learning-time-in-minutes: 4
 ---
 # Text Generation: Understanding Probabilistic Continuation

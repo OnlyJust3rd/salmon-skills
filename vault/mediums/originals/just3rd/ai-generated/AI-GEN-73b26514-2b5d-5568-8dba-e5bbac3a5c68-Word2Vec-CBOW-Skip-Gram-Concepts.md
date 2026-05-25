@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[word2vec-cbow-skip-gram-concepts|word2vec-cbow-skip-gram-concepts]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-feature-engineering/text-feature-engineering|text-feature-engineering]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Word2Vec: Concepts and Principles

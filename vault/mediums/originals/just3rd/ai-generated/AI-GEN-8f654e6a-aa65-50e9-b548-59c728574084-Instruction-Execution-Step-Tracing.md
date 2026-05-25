@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/instruction-execution-step-tracing|instruction-execution-step-tracing]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-datapath/processor-datapath|processor-datapath]]"
 learning-time-in-minutes: 3
 ---
 # Tracing Instruction Execution: A Step-by-Step Guide

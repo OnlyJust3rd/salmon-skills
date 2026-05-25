@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/backend-development/json-format/microskills/json-in-http-requests|json-in-http-requests]]"
+related-skills:
+  - "[[skills/computing/software-engineering/backend-development/json-format/json-format|json-format]]"
 learning-time-in-minutes: 4
 ---
 # Sending Data with JSON in HTTP Requests

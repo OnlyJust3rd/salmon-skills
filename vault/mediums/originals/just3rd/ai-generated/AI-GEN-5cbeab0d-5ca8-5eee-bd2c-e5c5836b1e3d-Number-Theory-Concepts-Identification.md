@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/microskills/number-theory-concepts-identification|number-theory-concepts-identification]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/number-theory-in-cryptography|number-theory-in-cryptography]]"
 learning-time-in-minutes: 5
 ---
 # Number Theory Concepts Identification

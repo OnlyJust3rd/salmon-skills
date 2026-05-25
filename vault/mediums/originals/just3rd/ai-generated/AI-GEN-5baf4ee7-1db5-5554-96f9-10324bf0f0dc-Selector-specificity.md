@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/frontend-development/css/microskills/selector-specificity|selector-specificity]]"
+related-skills:
+  - "[[skills/computing/software-engineering/frontend-development/css/css|css]]"
 learning-time-in-minutes: 2
 ---
 # Understanding Selector Specificity

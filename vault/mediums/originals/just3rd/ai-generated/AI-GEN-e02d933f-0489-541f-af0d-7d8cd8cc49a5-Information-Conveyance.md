@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[information-conveyance|information-conveyance]]"
+related-skills:
+  - "[[skills/digital-media/human-computer-interaction/human-computer-interaction|human-computer-interaction]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Information Conveyance with Data Visualization

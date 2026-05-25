@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[sensory-inputs|sensory-inputs]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/human-cognitive-and-perception/human-cognitive-and-perception|human-cognitive-and-perception]]"
 learning-time-in-minutes: 3
 ---
 # Sensory Inputs: The Building Blocks of Human-Computer Interaction

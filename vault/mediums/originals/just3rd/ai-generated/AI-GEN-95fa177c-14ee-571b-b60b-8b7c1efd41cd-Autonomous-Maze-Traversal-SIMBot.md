@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/autonomous-maze-traversal-simbot|autonomous-maze-traversal-simbot]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/soft-computing/soft-computing|soft-computing]]"
 learning-time-in-minutes: 6
 ---
 # Autonomous Maze Traversal with Fuzzy Logic in SIMBot

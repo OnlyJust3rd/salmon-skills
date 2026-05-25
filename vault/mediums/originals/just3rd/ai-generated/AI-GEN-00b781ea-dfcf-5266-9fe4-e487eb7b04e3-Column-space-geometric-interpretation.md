@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/column-space-geometric-interpretation|column-space-geometric-interpretation]]"
+related-skills:
+  - "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/subspaces-and-orthogonality|subspaces-and-orthogonality]]"
 learning-time-in-minutes: 4
 ---
 # Geometric Formation of the Column Space

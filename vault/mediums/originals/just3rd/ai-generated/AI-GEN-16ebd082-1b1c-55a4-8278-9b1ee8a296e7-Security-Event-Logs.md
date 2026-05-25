@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/operations-reliability/security-monitoring/microskills/security-event-logs|security-event-logs]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/security-monitoring/security-monitoring|security-monitoring]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Security Event Logs

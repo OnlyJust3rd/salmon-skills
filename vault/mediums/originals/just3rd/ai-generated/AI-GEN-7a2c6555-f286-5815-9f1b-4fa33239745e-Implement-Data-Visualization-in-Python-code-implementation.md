@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[implement-data-visualization-in-python-code-implementation|implement-data-visualization-in-python-code-implementation]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/python/python|python]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Data Visualization in Python

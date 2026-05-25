@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[network-latency-analysis|network-latency-analysis]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/network-layers/network-performance/network-performance|network-performance]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Network Latency and Congestion

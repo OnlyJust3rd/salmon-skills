@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/multivariable-calculus-analysis/microskills/classification-of-multivariable-extrema|classification-of-multivariable-extrema]]"
+related-skills:
+  - "[[skills/mathematics/calculus/multivariable-calculus-analysis/multivariable-calculus-analysis|multivariable-calculus-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Classifying Multivariable Extrema

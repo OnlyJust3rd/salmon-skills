@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/digital-logic/logic-families/microskills/noise-margin-calculation|noise-margin-calculation]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/digital-logic/logic-families/logic-families|logic-families]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Noise Margins in Digital Logic

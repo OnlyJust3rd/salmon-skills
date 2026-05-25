@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/geometric-representation/microskills/basic-geometric-primitives|basic-geometric-primitives]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/geometric-representation/geometric-representation|geometric-representation]]"
 learning-time-in-minutes: 3
 ---
 # Basic Geometric Primitives

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/microskills/computational-problem-parallelization|computational-problem-parallelization]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/openmp|openmp]]"
 learning-time-in-minutes: 4
 ---
 # Parallelizing Computational Problems with OpenMP

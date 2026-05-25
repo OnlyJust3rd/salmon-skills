@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[implement-data-mining-workflow-in-python-workflow-steps|implement-data-mining-workflow-in-python-workflow-steps]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/python/python|python]]"
 learning-time-in-minutes: 3
 ---
 # Implementing Data Mining Workflow Steps in Python

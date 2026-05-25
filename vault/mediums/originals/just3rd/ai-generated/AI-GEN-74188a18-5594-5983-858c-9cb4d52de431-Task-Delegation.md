@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/ai-assisted-development/agentic-coding-workflows/microskills/task-delegation|task-delegation]]"
+related-skills:
+  - "[[skills/computing/software-engineering/ai-assisted-development/agentic-coding-workflows/agentic-coding-workflows|agentic-coding-workflows]]"
 learning-time-in-minutes: 3
 ---
 # Task Delegation in Agentic Coding Workflows

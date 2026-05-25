@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[packet-forwarding-with-static-routes|packet-forwarding-with-static-routes]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/routing-algorithms|routing-algorithms]]"
 learning-time-in-minutes: 4
 ---
 # Packet Forwarding with Static Routes

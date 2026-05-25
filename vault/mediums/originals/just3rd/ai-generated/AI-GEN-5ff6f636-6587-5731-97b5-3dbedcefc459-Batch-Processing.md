@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-engineering/microskills/batch-processing|batch-processing]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-engineering/data-engineering|data-engineering]]"
 learning-time-in-minutes: 4
 ---
 # Batch Processing: Processing Data in Groups

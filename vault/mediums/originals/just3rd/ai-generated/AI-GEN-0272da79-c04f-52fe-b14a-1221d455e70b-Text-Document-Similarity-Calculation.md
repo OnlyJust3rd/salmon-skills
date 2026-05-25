@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[text-document-similarity-calculation|text-document-similarity-calculation]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-clustering/text-clustering|text-clustering]]"
 learning-time-in-minutes: 5
 ---
 # Measuring How Alike Text Documents Are: Distance Metrics

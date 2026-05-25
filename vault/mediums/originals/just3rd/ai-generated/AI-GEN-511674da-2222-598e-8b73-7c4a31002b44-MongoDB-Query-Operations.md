@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[mongodb-query-operations|mongodb-query-operations]]"
+related-skills:
+  - "[[mongodb|mongodb]]"
 learning-time-in-minutes: 3
 ---
 # MongoDB Query Operations: Retrieving Documents with `find()`

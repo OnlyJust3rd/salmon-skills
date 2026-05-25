@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[mqtt-protocol-characteristics|mqtt-protocol-characteristics]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/iot-network/iot-network|iot-network]]"
 learning-time-in-minutes: 5
 ---
 # MQTT Protocol Characteristics

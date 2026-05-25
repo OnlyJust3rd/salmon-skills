@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/character-design/microskills/common-game-character-archetypes|common-game-character-archetypes]]"
+related-skills:
+  - "[[skills/digital-media/game-development/character-design/character-design|character-design]]"
 learning-time-in-minutes: 3
 ---
 # Common Game Character Archetypes

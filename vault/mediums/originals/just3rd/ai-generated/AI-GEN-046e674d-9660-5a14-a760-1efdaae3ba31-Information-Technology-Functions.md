@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/corporate-operations/corporate-functions/microskills/information-technology-functions|information-technology-functions]]"
+related-skills:
+  - "[[skills/business/corporate-operations/corporate-functions/corporate-functions|corporate-functions]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Information Technology (IT) Department Functions

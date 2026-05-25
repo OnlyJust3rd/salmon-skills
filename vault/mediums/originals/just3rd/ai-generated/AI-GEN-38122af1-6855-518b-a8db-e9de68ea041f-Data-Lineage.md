@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-engineering/microskills/data-lineage|data-lineage]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-engineering/data-engineering|data-engineering]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Data Lineage: Tracing Your Data's Journey

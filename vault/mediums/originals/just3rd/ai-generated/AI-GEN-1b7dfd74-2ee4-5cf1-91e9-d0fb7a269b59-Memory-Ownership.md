@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[memory-ownership|memory-ownership]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/cpp-programming/cpp-programming|cpp-programming]]"
 learning-time-in-minutes: 46
 ---
 # Memory Ownership in C++

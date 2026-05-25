@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/microskills/el-gamal-mechanics|el-gamal-mechanics]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/asymmetric-algorithm-mechanics|asymmetric-algorithm-mechanics]]"
 learning-time-in-minutes: 4
 ---
 # El Gamal Mechanics: A Practical Walkthrough

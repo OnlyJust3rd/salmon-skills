@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-flow-and-difficulty-balancing/microskills/player-immersion-definition|player-immersion-definition]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-flow-and-difficulty-balancing/game-flow-and-difficulty-balancing|game-flow-and-difficulty-balancing]]"
 learning-time-in-minutes: 4
 ---
 # Player Immersion Definition

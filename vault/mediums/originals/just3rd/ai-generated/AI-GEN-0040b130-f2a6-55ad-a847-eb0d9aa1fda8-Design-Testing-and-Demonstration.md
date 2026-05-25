@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[design-testing-and-demonstration|design-testing-and-demonstration]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/interactive-system-development/interactive-system-development|interactive-system-development]]"
 learning-time-in-minutes: 5
 ---
 # Prototyping for Interactive System Testing and Demonstration

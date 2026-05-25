@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/uat-execution-and-feedback|uat-execution-and-feedback]]"
+related-skills:
+  - "[[skills/computing/software-engineering/testing-quality/program-testing/program-testing|program-testing]]"
 learning-time-in-minutes: 5
 ---
 # Executing User Acceptance Testing (UAT) and Gathering Feedback

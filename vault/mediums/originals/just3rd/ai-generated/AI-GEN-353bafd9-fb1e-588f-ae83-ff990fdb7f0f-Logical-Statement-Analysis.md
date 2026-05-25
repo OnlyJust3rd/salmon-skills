@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/discrete-math/logical-reasoning/microskills/logical-statement-analysis|logical-statement-analysis]]"
+related-skills:
+  - "[[skills/mathematics/discrete-math/logical-reasoning/logical-reasoning|logical-reasoning]]"
 learning-time-in-minutes: 4
 ---
 # Evaluating Truthfulness of Translated Real-World Statements

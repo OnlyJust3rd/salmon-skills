@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/similarity-transformation|similarity-transformation]]"
+related-skills:
+  - "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/spectral-analysis-and-matrix-decomposition|spectral-analysis-and-matrix-decomposition]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Similarity Transformations: The Key to Matrix Diagonalization

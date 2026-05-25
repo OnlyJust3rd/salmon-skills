@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/clocking-mechanism-understanding|clocking-mechanism-understanding]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/verilog-hdl-modeling|verilog-hdl-modeling]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Clocking Mechanism in Verilog Counter Models

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/applied-calculus-problem-solving/microskills/real-world-optimization-problem-solving|real-world-optimization-problem-solving]]"
+related-skills:
+  - "[[skills/mathematics/calculus/applied-calculus-problem-solving/applied-calculus-problem-solving|applied-calculus-problem-solving]]"
 learning-time-in-minutes: 4
 ---
 # Real-World Optimization with Calculus

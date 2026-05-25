@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/interaction-test-design|interaction-test-design]]"
+related-skills:
+  - "[[skills/computing/software-engineering/testing-quality/program-testing/program-testing|program-testing]]"
 learning-time-in-minutes: 5
 ---
 # Designing Interaction Tests for C Functions

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/shader-programming/microskills/material-parameter|material-parameter]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/shader-programming/shader-programming|shader-programming]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Material Parameters in Shader Programming

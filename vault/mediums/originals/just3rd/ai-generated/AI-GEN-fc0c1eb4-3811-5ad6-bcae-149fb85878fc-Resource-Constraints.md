@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/resource-constraints|resource-constraints]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/selective-encryption/selective-encryption|selective-encryption]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Resource Constraints in Selective Encryption

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[client-server-communication-flow|client-server-communication-flow]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-mining/text-mining|text-mining]]"
 learning-time-in-minutes: 4
 ---
 # Client-Server Communication Flow

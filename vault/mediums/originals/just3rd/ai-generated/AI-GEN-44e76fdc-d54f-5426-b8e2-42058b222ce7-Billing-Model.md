@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/microskills/billing-model|billing-model]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/software-as-a-service|software-as-a-service]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing SaaS Billing Models

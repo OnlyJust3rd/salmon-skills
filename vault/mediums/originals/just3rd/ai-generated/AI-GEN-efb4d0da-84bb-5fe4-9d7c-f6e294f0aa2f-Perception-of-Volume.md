@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/perception-of-volume|perception-of-volume]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/rendering-and-visual-realism|rendering-and-visual-realism]]"
 learning-time-in-minutes: 5
 ---
 # Understanding How Shading Creates the Perception of Volume

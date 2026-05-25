@@ -13,7 +13,7 @@ required-competencies:
   - "[[L2-discover-requirements|L2-discover-requirements]]"
   - "[[L2-define-user-requirements|L2-define-user-requirements]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/competencies/L1-explain-data-model-principles-and-techniques|L1-explain-data-model-principles-and-techniques]]"
-  - "[[skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-execute-sql-queries|L2-execute-sql-queries]]"
+  - "[[L2-execute-sql-queries|L2-execute-sql-queries]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/data-visualization/competencies/L1-visualization-communication-and-types|L1-visualization-communication-and-types]]"
   - "[[skills/business/entrepreneurship/lean-startup/competencies/L2-conduct-problem-interviews|L2-conduct-problem-interviews]]"
   - "[[skills/business/entrepreneurship/business-model-design/competencies/L1-define-canvas-components|L1-define-canvas-components]]"
@@ -43,7 +43,7 @@ A Business Analyst is an entry-level information technology role focused on appl
 - [[L2-discover-requirements|L3- Discover Requirements]]
 - [[L2-define-user-requirements|L3- Define User Requirements]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-modeling/competencies/L1-explain-data-model-principles-and-techniques|L2- Explain Data Model Principles and Techniques]]
-- [[skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-execute-sql-queries|L3- Execute SQL Queries]]
+- [[L2-execute-sql-queries|L3- Execute SQL Queries]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-visualization/competencies/L1-visualization-communication-and-types|L2- Visualization Communication and Types]]
 - [[skills/business/entrepreneurship/lean-startup/competencies/L2-conduct-problem-interviews|L3- Conduct Problem Interviews]]
 - [[skills/business/entrepreneurship/business-model-design/competencies/L1-define-canvas-components|L1- Define Canvas Components]]

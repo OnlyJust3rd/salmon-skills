@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/algorithms/computational-model-understanding/microskills/input-string-processing|input-string-processing]]"
+related-skills:
+  - "[[skills/computing/computer-science/algorithms/computational-model-understanding/computational-model-understanding|computational-model-understanding]]"
 learning-time-in-minutes: 4
 ---
 # Processing Input Strings with Finite Automata

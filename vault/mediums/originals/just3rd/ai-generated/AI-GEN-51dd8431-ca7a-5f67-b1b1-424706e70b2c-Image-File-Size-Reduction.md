@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/image-compression/microskills/image-file-size-reduction|image-file-size-reduction]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/image-compression/image-compression|image-compression]]"
 learning-time-in-minutes: 6
 ---
 # Image File Size Reduction: Applying Compression Techniques

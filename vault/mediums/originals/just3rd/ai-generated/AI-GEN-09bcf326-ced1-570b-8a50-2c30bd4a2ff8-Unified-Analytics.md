@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/microskills/unified-analytics|unified-analytics]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/lakehouse-architecture|lakehouse-architecture]]"
 learning-time-in-minutes: 5
 ---
 # Unified Analytics in Lakehouse Architecture

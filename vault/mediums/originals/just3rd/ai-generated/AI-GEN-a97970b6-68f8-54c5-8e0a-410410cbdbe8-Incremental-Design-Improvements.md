@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/programming/code-quality/refactoring/microskills/incremental-design-improvements|incremental-design-improvements]]"
+related-skills:
+  - "[[skills/computing/programming/code-quality/refactoring/refactoring|refactoring]]"
 learning-time-in-minutes: 4
 ---
 # Incremental Design Improvements: Evolving Your Code Gracefully

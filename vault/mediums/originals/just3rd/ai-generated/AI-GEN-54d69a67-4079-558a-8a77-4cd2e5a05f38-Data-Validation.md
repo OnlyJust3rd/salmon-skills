@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-engineering/microskills/data-validation|data-validation]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-engineering/data-engineering|data-engineering]]"
 learning-time-in-minutes: 4
 ---
 # Data Validation in Batch Processing

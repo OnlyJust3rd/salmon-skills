@@ -1,12 +1,14 @@
 ---
-type: "medium"
+type: medium
 title: "SQL Data Manipulation: INSERT, UPDATE, DELETE"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-data-manipulation-basics-insert-update-delete|sql-data-manipulation-basics-insert-update-delete]]"
+  - "[[sql-data-manipulation-basics-insert-update-delete|sql-data-manipulation-basics-insert-update-delete]]"
+related-skills:
+  - "[[sql|sql]]"
 learning-time-in-minutes: 3
 ---
 # SQL Data Manipulation: INSERT, UPDATE, DELETE
@@ -145,4 +147,4 @@ Understanding and safely using `INSERT`, `UPDATE`, and `DELETE` are foundational
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-data-manipulation-basics-insert-update-delete|SQL Data Manipulation Basics (INSERT, UPDATE, DELETE)]]
+- [[sql-data-manipulation-basics-insert-update-delete|SQL Data Manipulation Basics (INSERT, UPDATE, DELETE)]]

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/lti-system-analysis/microskills/output-sequence-determination|output-sequence-determination]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/lti-system-analysis/lti-system-analysis|lti-system-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Determining the Output Sequence via Discrete-Time Convolution

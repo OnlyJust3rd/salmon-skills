@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/contiguous-memory-allocation-techniques|contiguous-memory-allocation-techniques]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/memory-virtualization|memory-virtualization]]"
 learning-time-in-minutes: 6
 ---
 # Contiguous Memory Allocation Techniques

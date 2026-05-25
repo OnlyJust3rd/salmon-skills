@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/consistency-and-repeatability|consistency-and-repeatability]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/infrastructure-as-code|infrastructure-as-code]]"
 learning-time-in-minutes: 5
 ---
 # Consistency and Repeatability in Infrastructure as Code

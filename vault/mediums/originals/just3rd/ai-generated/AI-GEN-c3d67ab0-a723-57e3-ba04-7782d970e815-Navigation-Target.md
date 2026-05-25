@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-ai/microskills/navigation-target|navigation-target]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-ai/game-ai|game-ai]]"
 learning-time-in-minutes: 4
 ---
 # Selecting a Navigation Target

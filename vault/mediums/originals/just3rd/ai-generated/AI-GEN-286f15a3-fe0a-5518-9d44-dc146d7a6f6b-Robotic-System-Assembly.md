@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[robotic-system-assembly|robotic-system-assembly]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/robotic-system/robotic-system|robotic-system]]"
 learning-time-in-minutes: 5
 ---
 # Robotic System Assembly: Building Your First Robot

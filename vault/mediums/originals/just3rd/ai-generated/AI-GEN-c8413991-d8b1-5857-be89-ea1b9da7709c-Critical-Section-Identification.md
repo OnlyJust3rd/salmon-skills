@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/critical-section-identification|critical-section-identification]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/concurrency-and-synchronization|concurrency-and-synchronization]]"
 learning-time-in-minutes: 2
 ---
 # Identifying Critical Sections

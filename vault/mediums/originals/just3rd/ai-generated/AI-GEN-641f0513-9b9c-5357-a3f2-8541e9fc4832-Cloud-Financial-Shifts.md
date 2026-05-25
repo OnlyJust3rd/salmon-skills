@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/cloud-financial-shifts|cloud-financial-shifts]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/cloud-computing|cloud-computing]]"
 learning-time-in-minutes: 4
 ---
 # Cloud Financial Shifts: From Buying to Renting IT

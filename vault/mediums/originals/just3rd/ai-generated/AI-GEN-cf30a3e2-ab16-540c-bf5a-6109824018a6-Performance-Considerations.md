@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[performance-considerations|performance-considerations]]"
+related-skills:
+  - "[[nosql-database-system|nosql-database-system]]"
 learning-time-in-minutes: 5
 ---
 # Performance Considerations for NoSQL Databases: Where Speed Shines

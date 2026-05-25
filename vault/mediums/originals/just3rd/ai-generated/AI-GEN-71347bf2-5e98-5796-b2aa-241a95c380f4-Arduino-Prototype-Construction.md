@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[arduino-prototype-construction|arduino-prototype-construction]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/interactive-system-development/interactive-system-development|interactive-system-development]]"
 learning-time-in-minutes: 5
 ---
 # Building Your First Arduino Prototype: Connecting, Coding, and Testing

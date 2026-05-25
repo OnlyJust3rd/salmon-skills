@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[exit-codes|exit-codes]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/shell-scripting/shell-scripting|shell-scripting]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Exit Codes in Shell Scripting

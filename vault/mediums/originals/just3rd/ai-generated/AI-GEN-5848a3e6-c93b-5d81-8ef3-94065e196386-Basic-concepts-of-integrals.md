@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/fundamental-theorem-of-calculus/microskills/basic-concepts-of-integrals|basic-concepts-of-integrals]]"
+related-skills:
+  - "[[skills/mathematics/calculus/fundamental-theorem-of-calculus/fundamental-theorem-of-calculus|fundamental-theorem-of-calculus]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Basic Concepts of Integrals

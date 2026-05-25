@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/geometric-transformations/microskills/underlying-mathematical-principles|underlying-mathematical-principles]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/geometric-transformations/geometric-transformations|geometric-transformations]]"
 learning-time-in-minutes: 4
 ---
 # The Math Behind Moving and Reshaping Shapes

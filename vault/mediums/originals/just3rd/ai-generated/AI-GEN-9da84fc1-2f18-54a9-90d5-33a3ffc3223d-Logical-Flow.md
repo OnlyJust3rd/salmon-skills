@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-mining/microskills/logical-flow|logical-flow]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-mining/data-mining|data-mining]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Logical Flow of CRISP-DM

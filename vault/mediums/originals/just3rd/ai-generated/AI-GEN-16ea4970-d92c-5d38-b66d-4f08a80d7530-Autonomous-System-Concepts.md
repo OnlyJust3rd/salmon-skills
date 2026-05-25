@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[autonomous-system-concepts|autonomous-system-concepts]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/routing-algorithms|routing-algorithms]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Autonomous Systems in Routing

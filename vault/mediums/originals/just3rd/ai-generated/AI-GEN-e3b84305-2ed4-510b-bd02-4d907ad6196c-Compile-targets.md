@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[compile-targets|compile-targets]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/typescript/typescript|typescript]]"
 learning-time-in-minutes: 4
 ---
 # TypeScript Compile Targets: From Code to JavaScript

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[frame|frame]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/figma/figma|figma]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Frames in Figma

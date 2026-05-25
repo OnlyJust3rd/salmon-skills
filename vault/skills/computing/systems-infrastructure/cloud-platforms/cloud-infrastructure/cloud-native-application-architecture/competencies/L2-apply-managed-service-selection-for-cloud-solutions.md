@@ -1,14 +1,14 @@
 ---
-type: "competency"
-icon: "LiGoal"
-title: "L3- Apply Managed Service Selection for Cloud Solutions"
+type: competency
+icon: LiGoal
+title: L3- Apply Managed Service Selection for Cloud Solutions
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/competencies/L1-describe-pricing-model-characteristics|L1-describe-pricing-model-characteristics]]"
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/competencies/L1-explain-cloud-native-application-architecture-principles|L1-explain-cloud-native-application-architecture-principles]]"
-  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/competencies/L1-explain-relational-vs-nosql|L1-explain-relational-vs-nosql]]"
+  - "[[L1-explain-relational-vs-nosql|L1-explain-relational-vs-nosql]]"
 miller-level: 2
 optional-prerequisites: []
 parent-skill: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/cloud-native-application-architecture|cloud-native-application-architecture]]"
@@ -32,7 +32,7 @@ Apply managed service selection for cloud solutions.
 
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/competencies/L1-explain-cloud-native-application-architecture-principles|L2- Explain Cloud-Native Application Architecture Principles]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/competencies/L1-describe-pricing-model-characteristics|L2- Describe Pricing Model Characteristics]]
-- [[skills/computing/data-ai/databases/database-foundations/database-systems/competencies/L1-explain-relational-vs-nosql|L2- Explain Relational vs NoSQL]]
+- [[L1-explain-relational-vs-nosql|L2- Explain Relational vs NoSQL]]
 
 ## Optional Prerequisites
 

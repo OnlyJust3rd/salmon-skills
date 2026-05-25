@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[implement-exploratory-data-analysis-in-python-code-implementation|implement-exploratory-data-analysis-in-python-code-implementation]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/python/python|python]]"
 learning-time-in-minutes: 3
 ---
 # Implementing Exploratory Data Analysis in Python

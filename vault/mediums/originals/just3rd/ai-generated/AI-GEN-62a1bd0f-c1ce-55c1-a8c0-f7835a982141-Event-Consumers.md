@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/event-consumers|event-consumers]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/serverless-computing|serverless-computing]]"
 learning-time-in-minutes: 4
 ---
 # Event Consumers in Event-Driven Architectures

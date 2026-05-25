@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[application-layer-protocols|application-layer-protocols]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/application-layer|application-layer]]"
 learning-time-in-minutes: 3
 ---
 # Application Layer Protocols: The Internet's Language

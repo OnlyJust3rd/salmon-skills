@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-design/software-architecture/microskills/model-view-controller-mvc|model-view-controller-mvc]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-design/software-architecture/software-architecture|software-architecture]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Model-View-Controller (MVC) Pattern

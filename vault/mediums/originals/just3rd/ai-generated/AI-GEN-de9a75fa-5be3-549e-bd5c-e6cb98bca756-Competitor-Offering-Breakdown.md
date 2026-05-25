@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/product-management/competitor-analysis/microskills/competitor-offering-breakdown|competitor-offering-breakdown]]"
+related-skills:
+  - "[[skills/business/product-management/competitor-analysis/competitor-analysis|competitor-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Competitor Offering Breakdown

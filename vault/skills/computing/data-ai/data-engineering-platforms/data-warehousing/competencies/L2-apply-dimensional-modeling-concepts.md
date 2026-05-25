@@ -1,13 +1,13 @@
 ---
-type: "competency"
-icon: "LiGoal"
-title: "L3- Apply Dimensional Modeling Concepts"
+type: competency
+icon: LiGoal
+title: L3- Apply Dimensional Modeling Concepts
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-warehousing/competencies/L1-explain-data-warehouse-modeling-concepts|L1-explain-data-warehouse-modeling-concepts]]"
-  - "[[skills/computing/data-ai/databases/relational-databases/sql/competencies/L1-explain-sql-clauses-and-syntax|L1-explain-sql-clauses-and-syntax]]"
+  - "[[L1-explain-sql-clauses-and-syntax|L1-explain-sql-clauses-and-syntax]]"
 miller-level: 2
 optional-prerequisites: []
 parent-skill: "[[skills/computing/data-ai/data-engineering-platforms/data-warehousing/data-warehousing|data-warehousing]]"
@@ -30,7 +30,7 @@ Apply dimensional modeling concepts.
 ## Strict Prerequisites
 
 - [[skills/computing/data-ai/data-engineering-platforms/data-warehousing/competencies/L1-explain-data-warehouse-modeling-concepts|L2- Explain Data Warehouse Modeling Concepts]]
-- [[skills/computing/data-ai/databases/relational-databases/sql/competencies/L1-explain-sql-clauses-and-syntax|L2- Explain SQL Clauses and Syntax]]
+- [[L1-explain-sql-clauses-and-syntax|L2- Explain SQL Clauses and Syntax]]
 
 ## Optional Prerequisites
 

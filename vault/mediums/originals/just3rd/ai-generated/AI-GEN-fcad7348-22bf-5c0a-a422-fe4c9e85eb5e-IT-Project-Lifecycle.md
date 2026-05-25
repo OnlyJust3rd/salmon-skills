@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/microskills/it-project-lifecycle|it-project-lifecycle]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/platform-engineering|platform-engineering]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the IT Project Lifecycle

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/resource-abstraction|resource-abstraction]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/system-virtualization|system-virtualization]]"
 learning-time-in-minutes: 5
 ---
 # Resource Abstraction in Virtualization

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/digest-size-consistency|digest-size-consistency]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/cryptographic-fundamentals|cryptographic-fundamentals]]"
 learning-time-in-minutes: 3
 ---
 # Digest Size Consistency in Hash Functions

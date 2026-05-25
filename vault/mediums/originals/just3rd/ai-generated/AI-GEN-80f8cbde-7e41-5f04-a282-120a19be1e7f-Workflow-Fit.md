@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/ai-assisted-development/ai-coding-tool-evaluation/microskills/workflow-fit|workflow-fit]]"
+related-skills:
+  - "[[skills/computing/software-engineering/ai-assisted-development/ai-coding-tool-evaluation/ai-coding-tool-evaluation|ai-coding-tool-evaluation]]"
 learning-time-in-minutes: 6
 ---
 # Workflow Fit: Aligning AI Coding Tools with Your Team's Practices

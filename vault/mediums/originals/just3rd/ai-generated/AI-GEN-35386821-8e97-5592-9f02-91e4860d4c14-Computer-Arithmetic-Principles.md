@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/computer-architecture/number-representation/microskills/computer-arithmetic-principles|computer-arithmetic-principles]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/computer-architecture/number-representation/number-representation|number-representation]]"
 learning-time-in-minutes: 3
 ---
 # Computer Arithmetic Principles

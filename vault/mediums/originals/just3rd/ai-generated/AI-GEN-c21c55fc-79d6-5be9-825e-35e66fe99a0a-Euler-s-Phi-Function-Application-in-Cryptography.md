@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/microskills/euler-s-phi-function-application-in-cryptography|euler-s-phi-function-application-in-cryptography]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/number-theory-in-cryptography|number-theory-in-cryptography]]"
 learning-time-in-minutes: 4
 ---
 # Euler's Phi Function in Cryptography

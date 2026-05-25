@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/programming/code-quality/refactoring/microskills/code-quality-assessment|code-quality-assessment]]"
+related-skills:
+  - "[[skills/computing/programming/code-quality/refactoring/refactoring|refactoring]]"
 learning-time-in-minutes: 5
 ---
 # Assessing Code Quality for Refactoring

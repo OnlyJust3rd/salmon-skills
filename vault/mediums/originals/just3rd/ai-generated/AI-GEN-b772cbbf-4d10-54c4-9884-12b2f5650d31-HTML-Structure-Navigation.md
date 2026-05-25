@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[html-structure-navigation|html-structure-navigation]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-mining/text-mining|text-mining]]"
 learning-time-in-minutes: 4
 ---
 # Navigating HTML with BeautifulSoup: Understanding Structure

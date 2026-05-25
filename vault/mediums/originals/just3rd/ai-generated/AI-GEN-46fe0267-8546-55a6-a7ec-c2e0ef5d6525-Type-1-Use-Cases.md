@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/type-1-use-cases|type-1-use-cases]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/system-virtualization|system-virtualization]]"
 learning-time-in-minutes: 5
 ---
 # Identifying Use Cases for Type-1 Hypervisors

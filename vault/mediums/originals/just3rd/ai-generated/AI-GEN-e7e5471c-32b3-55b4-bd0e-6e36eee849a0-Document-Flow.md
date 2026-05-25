@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/corporate-operations/sap-erp/microskills/document-flow|document-flow]]"
+related-skills:
+  - "[[skills/business/corporate-operations/sap-erp/sap-erp|sap-erp]]"
 learning-time-in-minutes: 4
 ---
 # Document Flow in SAP ERP: Tracing Related Business Transactions

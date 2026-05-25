@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/firebase-database-service|firebase-database-service]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/firebase|firebase]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Firebase Database Services

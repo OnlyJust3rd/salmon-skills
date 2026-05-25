@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/evaluation-of-triple-integrals-in-cylindrical-coordinates|evaluation-of-triple-integrals-in-cylindrical-coordinates]]"
+related-skills:
+  - "[[skills/mathematics/calculus/multiple-integral-evaluation/multiple-integral-evaluation|multiple-integral-evaluation]]"
 learning-time-in-minutes: 5
 ---
 # Evaluating Triple Integrals in Cylindrical Coordinates

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/technology-society/technology-impact-analysis/microskills/widespread-ev-adoption-analysis|widespread-ev-adoption-analysis]]"
+related-skills:
+  - "[[skills/professional-practice/technology-society/technology-impact-analysis/technology-impact-analysis|technology-impact-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Environmental Impacts of Widespread Electric Vehicle Adoption

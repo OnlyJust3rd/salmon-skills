@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-practices/uml-modeling/microskills/uml-diagram-application-for-behavior|uml-diagram-application-for-behavior]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-practices/uml-modeling/uml-modeling|uml-modeling]]"
 learning-time-in-minutes: 4
 ---
 # Modeling Dynamic System Processes with UML: Behavior Diagrams

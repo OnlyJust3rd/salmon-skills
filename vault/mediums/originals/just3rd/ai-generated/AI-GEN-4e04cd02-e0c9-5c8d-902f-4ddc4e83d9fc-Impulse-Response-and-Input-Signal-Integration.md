@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/lti-system-analysis/microskills/impulse-response-and-input-signal-integration|impulse-response-and-input-signal-integration]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/lti-system-analysis/lti-system-analysis|lti-system-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Integrating Impulse Response and Input Signal for LTI System Output

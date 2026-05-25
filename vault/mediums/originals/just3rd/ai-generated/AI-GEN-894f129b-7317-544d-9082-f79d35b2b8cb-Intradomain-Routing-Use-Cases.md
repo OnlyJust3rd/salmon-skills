@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[intradomain-routing-use-cases|intradomain-routing-use-cases]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/routing-algorithms|routing-algorithms]]"
 learning-time-in-minutes: 4
 ---
 # Intradomain Routing: Where It Shines

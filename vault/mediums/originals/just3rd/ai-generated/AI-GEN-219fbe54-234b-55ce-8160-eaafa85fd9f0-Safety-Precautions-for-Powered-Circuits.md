@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/safety-precautions-for-powered-circuits|safety-precautions-for-powered-circuits]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/laboratory-equipment-operation|laboratory-equipment-operation]]"
 learning-time-in-minutes: 5
 ---
 # Safety Precautions for Powered Circuits

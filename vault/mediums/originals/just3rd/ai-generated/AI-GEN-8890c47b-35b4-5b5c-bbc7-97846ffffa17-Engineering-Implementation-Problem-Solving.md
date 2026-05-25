@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/engineering-practices/engineering-principle-application/microskills/engineering-implementation-problem-solving|engineering-implementation-problem-solving]]"
+related-skills:
+  - "[[skills/professional-practice/engineering-practices/engineering-principle-application/engineering-principle-application|engineering-principle-application]]"
 learning-time-in-minutes: 6
 ---
 # Resolving Engineering Implementation Challenges

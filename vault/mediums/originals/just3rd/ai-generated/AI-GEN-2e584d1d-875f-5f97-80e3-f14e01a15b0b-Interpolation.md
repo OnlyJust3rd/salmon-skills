@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-networking/microskills/interpolation|interpolation]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-networking/game-networking|game-networking]]"
 learning-time-in-minutes: 6
 ---
 # Interpolation: Smoothing Game Network Updates

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/firebase-hosting|firebase-hosting]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/firebase|firebase]]"
 learning-time-in-minutes: 4
 ---
 # Firebase Hosting: Managed Web App Deployment

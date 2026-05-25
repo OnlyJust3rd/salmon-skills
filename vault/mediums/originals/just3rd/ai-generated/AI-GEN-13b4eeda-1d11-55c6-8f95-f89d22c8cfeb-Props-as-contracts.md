@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/frontend-development/component-based-web-ui/microskills/props-as-contracts|props-as-contracts]]"
+related-skills:
+  - "[[skills/computing/software-engineering/frontend-development/component-based-web-ui/component-based-web-ui|component-based-web-ui]]"
 learning-time-in-minutes: 3
 ---
 # Props as Contracts: Immutable Inputs in Component Architecture

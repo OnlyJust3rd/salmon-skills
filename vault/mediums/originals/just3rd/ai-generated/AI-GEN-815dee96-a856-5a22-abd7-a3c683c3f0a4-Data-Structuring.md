@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/data-structuring|data-structuring]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/data-modeling|data-modeling]]"
 learning-time-in-minutes: 4
 ---
 # Structuring Data: The Foundation of Models

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/process-improvement-enhancement|process-improvement-enhancement]]"
+related-skills:
+  - "[[skills/computing/software-engineering/testing-quality/quality-assurance/quality-assurance|quality-assurance]]"
 learning-time-in-minutes: 5
 ---
 # Understanding How QA Metrics Drive Process Improvement

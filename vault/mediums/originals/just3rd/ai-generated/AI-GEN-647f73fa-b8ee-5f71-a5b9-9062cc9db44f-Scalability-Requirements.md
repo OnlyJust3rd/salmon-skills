@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[scalability-requirements|scalability-requirements]]"
+related-skills:
+  - "[[nosql-database-system|nosql-database-system]]"
 learning-time-in-minutes: 6
 ---
 # Understanding NoSQL Scalability Use Cases

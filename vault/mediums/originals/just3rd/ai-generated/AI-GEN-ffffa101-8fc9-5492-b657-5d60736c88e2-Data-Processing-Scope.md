@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/digital-law/thai-digital-law/microskills/data-processing-scope|data-processing-scope]]"
+related-skills:
+  - "[[skills/professional-practice/digital-law/thai-digital-law/thai-digital-law|thai-digital-law]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Scope of Data Processing Under PDPA

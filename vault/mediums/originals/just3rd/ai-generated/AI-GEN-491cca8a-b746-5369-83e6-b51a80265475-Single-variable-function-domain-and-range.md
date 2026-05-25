@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/function-analysis/microskills/single-variable-function-domain-and-range|single-variable-function-domain-and-range]]"
+related-skills:
+  - "[[skills/mathematics/calculus/function-analysis/function-analysis|function-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Domain and Range of Single-Variable Functions

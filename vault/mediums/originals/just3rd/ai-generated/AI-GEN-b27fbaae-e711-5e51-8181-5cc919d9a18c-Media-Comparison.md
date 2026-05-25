@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[media-comparison|media-comparison]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/physical-layer/physical-layer|physical-layer]]"
 learning-time-in-minutes: 5
 ---
 # Differentiating Guided vs. Unguided Transmission Media

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/fourier-transform-analysis/microskills/dtft-magnitude-calculation|dtft-magnitude-calculation]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/fourier-transform-analysis/fourier-transform-analysis|fourier-transform-analysis]]"
 learning-time-in-minutes: 3
 ---
 # DTFT Magnitude Calculation

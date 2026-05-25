@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/embedded-systems/microcontroller-interfacing/microskills/microcomputer-interfacing-with-physical-devices|microcomputer-interfacing-with-physical-devices]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/microcontroller-interfacing/microcontroller-interfacing|microcontroller-interfacing]]"
 learning-time-in-minutes: 4
 ---
 # Microcomputer Interfacing with Physical Devices

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/signal-conversion-a-d-and-d-a/microskills/a-d-conversion-process|a-d-conversion-process]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/signal-conversion-a-d-and-d-a/signal-conversion-a-d-and-d-a|signal-conversion-a-d-and-d-a]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the A/D Conversion Process

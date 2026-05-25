@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Understanding Transaction Boundaries"
+type: medium
+title: Understanding Transaction Boundaries
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/transaction-boundaries|transaction-boundaries]]"
+  - "[[transaction-boundaries|transaction-boundaries]]"
+related-skills:
+  - "[[database-systems|database-systems]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Transaction Boundaries
@@ -94,4 +96,4 @@ Write down the SQL commands you would use to:
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/transaction-boundaries|Transaction Boundaries]]
+- [[transaction-boundaries|Transaction Boundaries]]

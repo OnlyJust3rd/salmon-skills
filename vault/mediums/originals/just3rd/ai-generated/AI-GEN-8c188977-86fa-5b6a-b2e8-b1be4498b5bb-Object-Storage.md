@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-lake/microskills/object-storage|object-storage]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-lake/data-lake|data-lake]]"
 learning-time-in-minutes: 3
 ---
 # Object Storage in Data Lakes

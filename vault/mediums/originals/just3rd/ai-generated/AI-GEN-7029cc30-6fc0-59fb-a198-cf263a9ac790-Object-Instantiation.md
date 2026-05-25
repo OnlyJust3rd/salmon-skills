@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/programming/programming-languages/c-sharp-programming/microskills/object-instantiation|object-instantiation]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/c-sharp-programming/c-sharp-programming|c-sharp-programming]]"
 learning-time-in-minutes: 2
 ---
 # Object Instantiation in C#

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[iot-data-transport-use-cases|iot-data-transport-use-cases]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/iot-network/iot-network|iot-network]]"
 learning-time-in-minutes: 6
 ---
 # Understanding IoT Data Transport Use Cases

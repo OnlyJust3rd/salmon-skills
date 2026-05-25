@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[browser-script-loading|browser-script-loading]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/javascript/javascript|javascript]]"
 learning-time-in-minutes: 4
 ---
 # How JavaScript Scripts Load in Your Browser

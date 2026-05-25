@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[physical-computing|physical-computing]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/interactive-system-development/interactive-system-development|interactive-system-development]]"
 learning-time-in-minutes: 5
 ---
 # Physical Computing with Arduino: Bringing Ideas to Life

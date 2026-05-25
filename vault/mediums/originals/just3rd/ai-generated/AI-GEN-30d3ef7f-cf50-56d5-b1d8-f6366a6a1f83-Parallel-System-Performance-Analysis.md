@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/parallel-system-performance-analysis|parallel-system-performance-analysis]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/parallel-performance-analysis|parallel-performance-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Analyzing Parallel System Performance with Amdahl's Law

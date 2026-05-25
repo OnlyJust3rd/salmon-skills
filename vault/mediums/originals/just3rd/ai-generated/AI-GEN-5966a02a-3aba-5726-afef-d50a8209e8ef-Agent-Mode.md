@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/ai-assisted-development/cursor/microskills/agent-mode|agent-mode]]"
+related-skills:
+  - "[[skills/computing/software-engineering/ai-assisted-development/cursor/cursor|cursor]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Cursor's Agent Mode

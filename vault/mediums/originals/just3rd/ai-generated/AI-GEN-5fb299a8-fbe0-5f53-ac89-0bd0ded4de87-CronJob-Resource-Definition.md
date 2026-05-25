@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/cronjob-resource-definition|cronjob-resource-definition]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/kubernetes|kubernetes]]"
 learning-time-in-minutes: 4
 ---
 # Defining Kubernetes CronJob Resources

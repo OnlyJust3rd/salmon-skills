@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/compute-instance-family-selection|compute-instance-family-selection]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/cloud-infrastructure|cloud-infrastructure]]"
 learning-time-in-minutes: 4
 ---
 # Selecting the Right Compute Instance Family

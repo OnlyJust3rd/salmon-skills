@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[implement-data-cleansing-in-python-code-implementation|implement-data-cleansing-in-python-code-implementation]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/python/python|python]]"
 learning-time-in-minutes: 2
 ---
 # Implementing Data Cleansing in Python

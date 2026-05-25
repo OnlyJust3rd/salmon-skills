@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[protocol-use-cases|protocol-use-cases]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/transport-layer/transport-layer|transport-layer]]"
 learning-time-in-minutes: 5
 ---
 # Protocol Use Cases: When to Choose TCP or UDP

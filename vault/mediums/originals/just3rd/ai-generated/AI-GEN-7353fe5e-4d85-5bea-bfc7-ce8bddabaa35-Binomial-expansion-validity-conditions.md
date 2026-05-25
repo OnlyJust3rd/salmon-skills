@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/power-series-and-taylor-expansions/microskills/binomial-expansion-validity-conditions|binomial-expansion-validity-conditions]]"
+related-skills:
+  - "[[skills/mathematics/calculus/power-series-and-taylor-expansions/power-series-and-taylor-expansions|power-series-and-taylor-expansions]]"
 learning-time-in-minutes: 4
 ---
 # Binomial Expansion Validity Conditions

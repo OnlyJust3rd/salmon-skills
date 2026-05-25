@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/career-development/it-career-path/microskills/coach-functions|coach-functions]]"
+related-skills:
+  - "[[skills/professional-practice/career-development/it-career-path/it-career-path|it-career-path]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Role of a Coach in Professional Development

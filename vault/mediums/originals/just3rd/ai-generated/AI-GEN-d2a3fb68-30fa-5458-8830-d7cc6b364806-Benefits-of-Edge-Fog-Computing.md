@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[benefits-of-edge-fog-computing|benefits-of-edge-fog-computing]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/edge-computing/edge-computing|edge-computing]]"
 learning-time-in-minutes: 5
 ---
 # Benefits of Edge and Fog Computing

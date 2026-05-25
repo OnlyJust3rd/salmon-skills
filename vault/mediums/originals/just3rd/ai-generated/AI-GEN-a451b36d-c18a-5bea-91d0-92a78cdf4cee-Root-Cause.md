@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/technical-troubleshooting/microskills/root-cause|root-cause]]"
+related-skills:
+  - "[[skills/professional-practice/technical-troubleshooting/technical-troubleshooting|technical-troubleshooting]]"
 learning-time-in-minutes: 5
 ---
 # Finding the Root Cause: Uncovering the "Why" Behind Technical Issues

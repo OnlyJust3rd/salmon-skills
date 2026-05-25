@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/iot-security-and-privacy/microskills/iot-attack-vectors|iot-attack-vectors]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/iot-security-and-privacy/iot-security-and-privacy|iot-security-and-privacy]]"
 learning-time-in-minutes: 4
 ---
 # IoT Attack Vectors

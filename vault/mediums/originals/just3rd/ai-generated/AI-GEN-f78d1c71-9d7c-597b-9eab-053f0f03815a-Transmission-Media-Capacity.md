@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[transmission-media-capacity|transmission-media-capacity]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/physical-layer/physical-layer|physical-layer]]"
 learning-time-in-minutes: 6
 ---
 # Transmission Media Capacity and Multiplexing

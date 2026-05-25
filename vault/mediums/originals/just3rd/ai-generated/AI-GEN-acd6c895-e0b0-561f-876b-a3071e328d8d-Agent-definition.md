@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[agent-definition|agent-definition]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/machine-learning/reinforcement-learning/reinforcement-learning|reinforcement-learning]]"
 learning-time-in-minutes: 4
 ---
 # The Agent: The Decision Maker in Reinforcement Learning

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/complexity-and-pin-count-considerations|complexity-and-pin-count-considerations]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/embedded-system-interfacing|embedded-system-interfacing]]"
 learning-time-in-minutes: 5
 ---
 # Evaluating Communication Protocols: Pin Count and Complexity

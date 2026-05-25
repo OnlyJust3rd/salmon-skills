@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/interrelationships-of-evaluation-criteria|interrelationships-of-evaluation-criteria]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/selective-encryption/selective-encryption|selective-encryption]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Interrelationships of Selective Encryption Evaluation Criteria

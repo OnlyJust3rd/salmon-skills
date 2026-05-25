@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[cosine-similarity-definition|cosine-similarity-definition]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-clustering/text-clustering|text-clustering]]"
 learning-time-in-minutes: 5
 ---
 # Cosine Similarity: Measuring Text "Closeness"

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/algorithms/algorithm-classification/microskills/compression-efficiency-comparison-huffman-vs-dpcm|compression-efficiency-comparison-huffman-vs-dpcm]]"
+related-skills:
+  - "[[skills/computing/computer-science/algorithms/algorithm-classification/algorithm-classification|algorithm-classification]]"
 learning-time-in-minutes: 4
 ---
 # Compression Efficiency: Huffman Coding vs. DPCM

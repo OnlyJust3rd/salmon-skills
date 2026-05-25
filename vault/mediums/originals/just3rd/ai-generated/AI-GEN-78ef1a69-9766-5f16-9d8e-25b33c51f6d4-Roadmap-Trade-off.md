@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/product-management/product-strategy/microskills/roadmap-trade-off|roadmap-trade-off]]"
+related-skills:
+  - "[[skills/business/product-management/product-strategy/product-strategy|product-strategy]]"
 learning-time-in-minutes: 6
 ---
 # Roadmap Trade-offs: Balancing Value, Effort, Dependency, and Risk

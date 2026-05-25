@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[routing-protocol-goals|routing-protocol-goals]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/routing-algorithms|routing-algorithms]]"
 learning-time-in-minutes: 5
 ---
 # Routing Protocol Goals

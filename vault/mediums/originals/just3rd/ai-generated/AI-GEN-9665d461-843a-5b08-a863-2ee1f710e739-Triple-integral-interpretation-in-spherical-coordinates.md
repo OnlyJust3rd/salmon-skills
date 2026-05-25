@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/triple-integral-interpretation-in-spherical-coordinates|triple-integral-interpretation-in-spherical-coordinates]]"
+related-skills:
+  - "[[skills/mathematics/calculus/multiple-integral-evaluation/multiple-integral-evaluation|multiple-integral-evaluation]]"
 learning-time-in-minutes: 4
 ---
 # Geometric Interpretation of Triple Integrals in Spherical Coordinates

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[modeling-techniques-purpose|modeling-techniques-purpose]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/user-centered-design/user-centered-design|user-centered-design]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Purpose of Modeling Techniques in User-Centered Design

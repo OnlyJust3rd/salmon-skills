@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/digital-logic/logic-families/microskills/fan-out-impact|fan-out-impact]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/digital-logic/logic-families/logic-families|logic-families]]"
 learning-time-in-minutes: 4
 ---
 # Fan-out: How Many Loads Can a Logic Gate Drive?

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/digital-logic/logic-families/microskills/key-parameter-definitions|key-parameter-definitions]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/digital-logic/logic-families/logic-families|logic-families]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Logic Family Parameters: Definitions

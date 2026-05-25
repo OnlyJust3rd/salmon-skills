@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/derivative-computation-and-analysis/microskills/intervals-of-increase-and-decrease-determination|intervals-of-increase-and-decrease-determination]]"
+related-skills:
+  - "[[skills/mathematics/calculus/derivative-computation-and-analysis/derivative-computation-and-analysis|derivative-computation-and-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Identifying Intervals of Increase and Decrease Using the First Derivative

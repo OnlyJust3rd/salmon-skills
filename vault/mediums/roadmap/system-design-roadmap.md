@@ -8,6 +8,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/system-design/competencies/L1-recognize-system-design-term|L1-recognize-system-design-term]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/system-design/system-design|system-design]]"
 learning-time-in-minutes: 60
 source: roadmap.sh
 ---

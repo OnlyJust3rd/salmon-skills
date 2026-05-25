@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/network-security-access-control/microskills/access-rule-interpretation|access-rule-interpretation]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/network-security-access-control/network-security-access-control|network-security-access-control]]"
 learning-time-in-minutes: 5
 ---
 # Interpreting Access Control Rules with Packet Filtering

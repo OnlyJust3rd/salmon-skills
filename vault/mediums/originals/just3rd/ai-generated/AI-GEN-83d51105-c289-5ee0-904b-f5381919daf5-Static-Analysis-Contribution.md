@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/static-analysis-contribution|static-analysis-contribution]]"
+related-skills:
+  - "[[skills/computing/software-engineering/testing-quality/quality-assurance/quality-assurance|quality-assurance]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Static Analysis Benefits for Software Quality

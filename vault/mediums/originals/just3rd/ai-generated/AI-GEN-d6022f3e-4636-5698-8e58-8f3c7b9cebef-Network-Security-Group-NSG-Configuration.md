@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/network-security-group-nsg-configuration|network-security-group-nsg-configuration]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/cloud-networking|cloud-networking]]"
 learning-time-in-minutes: 4
 ---
 # Network Security Group (NSG) Configuration

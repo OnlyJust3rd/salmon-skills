@@ -1,12 +1,14 @@
 ---
-type: "medium"
+type: medium
 title: "Understanding Structural Differences: Relational vs. NoSQL Databases"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/structural-differences|structural-differences]]"
+  - "[[structural-differences|structural-differences]]"
+related-skills:
+  - "[[database-systems|database-systems]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Structural Differences: Relational vs. NoSQL Databases
@@ -59,4 +61,4 @@ Which database structure (relational or NoSQL) would be more inherently suited t
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/structural-differences|Structural Differences]]
+- [[structural-differences|Structural Differences]]

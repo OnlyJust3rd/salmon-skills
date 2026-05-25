@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/frontend-development/web-accessibility/microskills/keyboard-accessibility|keyboard-accessibility]]"
+related-skills:
+  - "[[skills/computing/software-engineering/frontend-development/web-accessibility/web-accessibility|web-accessibility]]"
 learning-time-in-minutes: 5
 ---
 # Keyboard Accessibility: Navigating the Web Without a Mouse

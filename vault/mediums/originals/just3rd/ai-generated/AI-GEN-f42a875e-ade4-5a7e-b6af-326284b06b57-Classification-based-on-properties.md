@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/linear-algebra/quadratic-forms-and-definiteness/microskills/classification-based-on-properties|classification-based-on-properties]]"
+related-skills:
+  - "[[skills/mathematics/linear-algebra/quadratic-forms-and-definiteness/quadratic-forms-and-definiteness|quadratic-forms-and-definiteness]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Quadratic Forms: Classifying by Definiteness

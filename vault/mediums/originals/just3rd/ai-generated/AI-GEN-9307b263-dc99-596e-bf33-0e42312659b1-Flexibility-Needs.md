@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[flexibility-needs|flexibility-needs]]"
+related-skills:
+  - "[[nosql-database-system|nosql-database-system]]"
 learning-time-in-minutes: 5
 ---
 # Flexibility Needs in NoSQL: When Data Structures Need to Adapt

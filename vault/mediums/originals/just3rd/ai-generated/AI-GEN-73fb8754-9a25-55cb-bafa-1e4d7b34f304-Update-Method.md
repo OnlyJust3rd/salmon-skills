@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-engine-architecture/microskills/update-method|update-method]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-engine-architecture/game-engine-architecture|game-engine-architecture]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Per-Frame Behavior with the Update Method

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[text-visualization-applications|text-visualization-applications]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-visualization-and-exploratory-analysis/text-visualization-and-exploratory-analysis|text-visualization-and-exploratory-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Text Visualization Applications

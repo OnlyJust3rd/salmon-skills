@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/operand-forwarding-reasoning|operand-forwarding-reasoning]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/pipelined-architecture|pipelined-architecture]]"
 learning-time-in-minutes: 7
 ---
 # Operand Forwarding: When It Works and When It Doesn't

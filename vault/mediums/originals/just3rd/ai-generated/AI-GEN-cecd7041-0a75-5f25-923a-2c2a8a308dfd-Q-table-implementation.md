@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[q-table-implementation|q-table-implementation]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/machine-learning/reinforcement-learning/reinforcement-learning|reinforcement-learning]]"
 learning-time-in-minutes: 3
 ---
 # Q-Table Implementation: The Heart of Q-Learning

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[c-sharp-event|c-sharp-event]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/c-sharp-programming/c-sharp-programming|c-sharp-programming]]"
 learning-time-in-minutes: 2
 ---
 # C# Events: Understanding Event-Driven Code Flow

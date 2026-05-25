@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/ai-assisted-development/cursor/microskills/multi-file-edit|multi-file-edit]]"
+related-skills:
+  - "[[skills/computing/software-engineering/ai-assisted-development/cursor/cursor|cursor]]"
 learning-time-in-minutes: 3
 ---
 # Multi-File Edits with Cursor

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/amazon-web-services/microskills/aws-compute|aws-compute]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/amazon-web-services/amazon-web-services|amazon-web-services]]"
 learning-time-in-minutes: 3
 ---
 # AWS Compute: The Brains of Your Cloud Operations

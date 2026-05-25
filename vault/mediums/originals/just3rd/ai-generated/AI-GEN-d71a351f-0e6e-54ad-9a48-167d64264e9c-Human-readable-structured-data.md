@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/backend-development/json-format/microskills/human-readable-structured-data|human-readable-structured-data]]"
+related-skills:
+  - "[[skills/computing/software-engineering/backend-development/json-format/json-format|json-format]]"
 learning-time-in-minutes: 4
 ---
 # Understanding JSON as Human-Readable Structured Data

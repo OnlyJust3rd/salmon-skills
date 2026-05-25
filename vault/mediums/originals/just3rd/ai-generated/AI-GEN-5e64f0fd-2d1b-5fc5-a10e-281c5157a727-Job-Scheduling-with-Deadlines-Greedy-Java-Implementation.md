@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[job-scheduling-with-deadlines-greedy-java-implementation|job-scheduling-with-deadlines-greedy-java-implementation]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/java-programming/java-programming|java-programming]]"
 learning-time-in-minutes: 4
 ---
 # Job Scheduling with Deadlines: Greedy Java Implementation

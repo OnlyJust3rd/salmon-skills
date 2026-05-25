@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/prometheus-exporter-functionality|prometheus-exporter-functionality]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/system-monitoring|system-monitoring]]"
 learning-time-in-minutes: 3
 ---
 # Prometheus Exporter Functionality

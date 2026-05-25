@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/apache-kafka/microskills/message-key|message-key]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/apache-kafka/apache-kafka|apache-kafka]]"
 learning-time-in-minutes: 3
 ---
 # Mastering Message Keys in Kafka

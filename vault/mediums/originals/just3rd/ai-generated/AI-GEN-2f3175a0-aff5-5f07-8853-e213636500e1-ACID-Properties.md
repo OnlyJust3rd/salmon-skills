@@ -1,12 +1,14 @@
 ---
-type: "medium"
+type: medium
 title: "ACID Properties: Ensuring Database Reliability"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/acid-properties|acid-properties]]"
+  - "[[acid-properties|acid-properties]]"
+related-skills:
+  - "[[database-systems|database-systems]]"
 learning-time-in-minutes: 4
 ---
 # ACID Properties: Ensuring Database Reliability
@@ -73,4 +75,4 @@ Describe how each ACID property would apply to this borrowing transaction.
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/acid-properties|ACID Properties]]
+- [[acid-properties|ACID Properties]]

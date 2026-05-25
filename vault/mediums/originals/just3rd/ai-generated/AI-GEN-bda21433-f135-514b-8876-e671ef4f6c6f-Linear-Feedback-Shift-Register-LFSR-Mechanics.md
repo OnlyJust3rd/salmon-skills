@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/linear-feedback-shift-register-lfsr-mechanics|linear-feedback-shift-register-lfsr-mechanics]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/symmetric-cipher-operations|symmetric-cipher-operations]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Linear Feedback Shift Register (LFSR) Mechanics

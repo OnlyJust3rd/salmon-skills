@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/image-compression/microskills/mpeg-compression-efficiency|mpeg-compression-efficiency]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/image-compression/image-compression|image-compression]]"
 learning-time-in-minutes: 4
 ---
 # Understanding MPEG Compression Efficiency

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/viewing-and-clipping/microskills/purpose-of-viewing-pipeline|purpose-of-viewing-pipeline]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/viewing-and-clipping/viewing-and-clipping|viewing-and-clipping]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Purpose of the Viewing Pipeline

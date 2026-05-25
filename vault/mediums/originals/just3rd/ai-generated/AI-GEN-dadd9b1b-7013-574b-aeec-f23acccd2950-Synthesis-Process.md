@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/synthesis-process|synthesis-process]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/digital-logic/fpga-implementation/fpga-implementation|fpga-implementation]]"
 learning-time-in-minutes: 4
 ---
 # The Synthesis Process: Turning Code into Gates

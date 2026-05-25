@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-practices/action-planning/microskills/task-definition-for-action-plan|task-definition-for-action-plan]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-practices/action-planning/action-planning|action-planning]]"
 learning-time-in-minutes: 5
 ---
 # Defining Actionable Tasks for Your Engineering Plan

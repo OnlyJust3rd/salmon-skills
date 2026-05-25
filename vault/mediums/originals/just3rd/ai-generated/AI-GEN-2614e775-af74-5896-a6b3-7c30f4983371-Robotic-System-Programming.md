@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[robotic-system-programming|robotic-system-programming]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/robotic-system/robotic-system|robotic-system]]"
 learning-time-in-minutes: 3
 ---
 # Robotic System Programming: Directing Your Robot's Actions

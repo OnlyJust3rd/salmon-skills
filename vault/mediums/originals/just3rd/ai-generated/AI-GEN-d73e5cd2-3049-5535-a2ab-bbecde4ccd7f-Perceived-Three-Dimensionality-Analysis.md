@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/perceived-three-dimensionality-analysis|perceived-three-dimensionality-analysis]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/rendering-and-visual-realism|rendering-and-visual-realism]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Perceived Three-Dimensionality

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/programming/code-quality/refactoring/microskills/maintainability-enhancement|maintainability-enhancement]]"
+related-skills:
+  - "[[skills/computing/programming/code-quality/refactoring/refactoring|refactoring]]"
 learning-time-in-minutes: 4
 ---
 # Enhancing Code Maintainability Through Refactoring

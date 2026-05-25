@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[heatmap-creation-for-text-analysis|heatmap-creation-for-text-analysis]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-visualization-and-exploratory-analysis/text-visualization-and-exploratory-analysis|text-visualization-and-exploratory-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Heatmap Creation for Text Analysis

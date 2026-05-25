@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/microskills/project-management-methodologies|project-management-methodologies]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/platform-engineering|platform-engineering]]"
 learning-time-in-minutes: 5
 ---
 # Agile, Scrum, and Kanban: Methodologies for Platform Engineering Projects

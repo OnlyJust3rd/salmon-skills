@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/frontend-development/react/microskills/typed-props-and-events|typed-props-and-events]]"
+related-skills:
+  - "[[skills/computing/software-engineering/frontend-development/react/react|react]]"
 learning-time-in-minutes: 3
 ---
 # Typed Props and Events in React with TypeScript

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/frontend-development/responsive-web-design/microskills/media-queries|media-queries]]"
+related-skills:
+  - "[[skills/computing/software-engineering/frontend-development/responsive-web-design/responsive-web-design|responsive-web-design]]"
 learning-time-in-minutes: 4
 ---
 # Mastering Media Queries for Responsive Layouts

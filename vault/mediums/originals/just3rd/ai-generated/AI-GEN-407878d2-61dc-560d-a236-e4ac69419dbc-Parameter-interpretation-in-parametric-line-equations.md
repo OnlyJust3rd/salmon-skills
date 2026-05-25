@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/geometry/geometric-formulation/microskills/parameter-interpretation-in-parametric-line-equations|parameter-interpretation-in-parametric-line-equations]]"
+related-skills:
+  - "[[skills/mathematics/geometry/geometric-formulation/geometric-formulation|geometric-formulation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Parameters in 3D Parametric Line Equations

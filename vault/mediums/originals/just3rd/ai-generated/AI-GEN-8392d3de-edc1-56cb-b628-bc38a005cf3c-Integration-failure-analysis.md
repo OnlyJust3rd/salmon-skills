@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/integration-failure-analysis|integration-failure-analysis]]"
+related-skills:
+  - "[[skills/computing/software-engineering/testing-quality/program-testing/program-testing|program-testing]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Integration Test Failures in C Programs

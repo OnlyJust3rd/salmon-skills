@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/automated-testing-framework-utilization|automated-testing-framework-utilization]]"
+related-skills:
+  - "[[skills/computing/software-engineering/testing-quality/software-testing/software-testing|software-testing]]"
 learning-time-in-minutes: 3
 ---
 # Utilizing JUnit for Automated Testing

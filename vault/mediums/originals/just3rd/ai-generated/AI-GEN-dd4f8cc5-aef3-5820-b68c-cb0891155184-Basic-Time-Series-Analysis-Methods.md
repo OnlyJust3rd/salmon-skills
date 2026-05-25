@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/basic-time-series-analysis-methods|basic-time-series-analysis-methods]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/iot-data-analytics|iot-data-analytics]]"
 learning-time-in-minutes: 5
 ---
 # Basic Time-Series Analysis Methods for IoT Data

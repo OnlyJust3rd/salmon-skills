@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/algorithms/algorithm-representation/microskills/visual-representation-comparison|visual-representation-comparison]]"
+related-skills:
+  - "[[skills/computing/computer-science/algorithms/algorithm-representation/algorithm-representation|algorithm-representation]]"
 learning-time-in-minutes: 3
 ---
 # Flowchart vs. Pseudocode: Visualizing Algorithms

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/video-frame-watermarking|video-frame-watermarking]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/digital-watermarking/digital-watermarking|digital-watermarking]]"
 learning-time-in-minutes: 5
 ---
 # Video Frame Watermarking: Applying Image Techniques to Moving Pictures

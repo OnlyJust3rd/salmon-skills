@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[knapsack-branch-and-bound-java-implementation|knapsack-branch-and-bound-java-implementation]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/java-programming/java-programming|java-programming]]"
 learning-time-in-minutes: 3
 ---
 # Implementing Knapsack with Branch and Bound in Java

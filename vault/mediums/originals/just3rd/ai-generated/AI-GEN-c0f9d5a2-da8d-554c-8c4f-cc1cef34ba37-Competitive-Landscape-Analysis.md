@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/product-management/competitor-analysis/microskills/competitive-landscape-analysis|competitive-landscape-analysis]]"
+related-skills:
+  - "[[skills/business/product-management/competitor-analysis/competitor-analysis|competitor-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Competitive Landscape Analysis

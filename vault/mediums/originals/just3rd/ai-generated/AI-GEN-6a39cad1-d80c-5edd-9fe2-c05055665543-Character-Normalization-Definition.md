@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[character-normalization-definition|character-normalization-definition]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-cleaning-and-normalization/text-cleaning-and-normalization|text-cleaning-and-normalization]]"
 learning-time-in-minutes: 4
 ---
 # Character Normalization: Making Text Consistent

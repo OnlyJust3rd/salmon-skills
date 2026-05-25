@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/backend-development/restful-api/microskills/consistency-with-http-semantics|consistency-with-http-semantics]]"
+related-skills:
+  - "[[skills/computing/software-engineering/backend-development/restful-api/restful-api|restful-api]]"
 learning-time-in-minutes: 5
 ---
 # Consistency with HTTP Semantics

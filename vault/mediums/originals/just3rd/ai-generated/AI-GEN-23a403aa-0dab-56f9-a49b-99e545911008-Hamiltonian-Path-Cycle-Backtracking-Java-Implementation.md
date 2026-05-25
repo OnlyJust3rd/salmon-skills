@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[hamiltonian-path-cycle-backtracking-java-implementation|hamiltonian-path-cycle-backtracking-java-implementation]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/java-programming/java-programming|java-programming]]"
 learning-time-in-minutes: 5
 ---
 # Hamiltonian Path/Cycle Backtracking in Java

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/general-purpose-brain-inspired-systems-definition|general-purpose-brain-inspired-systems-definition]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/neuromorphic-and-brain-inspired-computing|neuromorphic-and-brain-inspired-computing]]"
 learning-time-in-minutes: 3
 ---
 # General Purpose Brain-Inspired Systems: A Definition

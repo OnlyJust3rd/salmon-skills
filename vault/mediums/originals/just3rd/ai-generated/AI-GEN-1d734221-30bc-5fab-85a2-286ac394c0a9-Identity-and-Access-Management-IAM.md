@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/identity-and-access-management-iam|identity-and-access-management-iam]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/cloud-networking|cloud-networking]]"
 learning-time-in-minutes: 3
 ---
 # Mastering Identity and Access Management (IAM) Policies

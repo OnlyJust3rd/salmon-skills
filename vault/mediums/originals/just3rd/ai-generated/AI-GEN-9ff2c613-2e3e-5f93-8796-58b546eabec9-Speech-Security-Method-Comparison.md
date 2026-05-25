@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/speech-security-method-comparison|speech-security-method-comparison]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/speech-security-assessment/speech-security-assessment|speech-security-assessment]]"
 learning-time-in-minutes: 5
 ---
 # Speech Security Method Comparison: Evaluating Digital vs. Analogue

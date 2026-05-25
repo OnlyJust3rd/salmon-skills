@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-visualization/microskills/python-visualization-application|python-visualization-application]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-visualization/data-visualization|data-visualization]]"
 learning-time-in-minutes: 3
 ---
 # Applying Matplotlib for Problem-Solving in Python

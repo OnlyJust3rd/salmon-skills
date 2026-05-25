@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/synergy-of-soft-and-hard-computing|synergy-of-soft-and-hard-computing]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/soft-computing/soft-computing|soft-computing]]"
 learning-time-in-minutes: 5
 ---
 # Synergy of Soft and Hard Computing

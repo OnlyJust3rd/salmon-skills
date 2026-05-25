@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/delivery-platforms/secrets-management/microskills/source-code-separation|source-code-separation]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/secrets-management/secrets-management|secrets-management]]"
 learning-time-in-minutes: 4
 ---
 # Keeping Secrets Out of Source Code

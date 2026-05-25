@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/character-design/microskills/visual-design-principles|visual-design-principles]]"
+related-skills:
+  - "[[skills/digital-media/game-development/character-design/character-design|character-design]]"
 learning-time-in-minutes: 3
 ---
 # Applying Visual Design Principles for Character Communication

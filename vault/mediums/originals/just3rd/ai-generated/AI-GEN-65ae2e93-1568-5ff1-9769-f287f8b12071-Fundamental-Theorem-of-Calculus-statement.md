@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/fundamental-theorem-of-calculus/microskills/fundamental-theorem-of-calculus-statement|fundamental-theorem-of-calculus-statement]]"
+related-skills:
+  - "[[skills/mathematics/calculus/fundamental-theorem-of-calculus/fundamental-theorem-of-calculus|fundamental-theorem-of-calculus]]"
 learning-time-in-minutes: 4
 ---
 # The Fundamental Theorem of Calculus: Part 1 Statement

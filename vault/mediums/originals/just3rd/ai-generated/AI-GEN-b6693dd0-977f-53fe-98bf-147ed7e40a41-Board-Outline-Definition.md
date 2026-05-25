@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/electronics/pcb-design/microskills/board-outline-definition|board-outline-definition]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/electronics/pcb-design/pcb-design|pcb-design]]"
 learning-time-in-minutes: 4
 ---
 # PCB Design: Defining the Board Outline

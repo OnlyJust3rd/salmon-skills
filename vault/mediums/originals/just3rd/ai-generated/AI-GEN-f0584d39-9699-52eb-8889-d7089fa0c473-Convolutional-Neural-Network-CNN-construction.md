@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[convolutional-neural-network-cnn-construction|convolutional-neural-network-cnn-construction]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/machine-learning/deep-learning/deep-learning/deep-learning|deep-learning]]"
 learning-time-in-minutes: 3
 ---
 # Building a Basic Convolutional Neural Network (CNN)

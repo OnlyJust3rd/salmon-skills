@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[basic-cross-origin-awareness|basic-cross-origin-awareness]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/javascript/javascript|javascript]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Cross-Origin Resource Sharing (CORS)

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[model-evaluation|model-evaluation]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/machine-learning/machine-learning/machine-learning|machine-learning]]"
 learning-time-in-minutes: 5
 ---
 # Model Evaluation: Assessing Performance

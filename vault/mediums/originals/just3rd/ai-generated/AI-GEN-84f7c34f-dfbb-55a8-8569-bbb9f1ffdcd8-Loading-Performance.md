@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/frontend-development/web-performance/microskills/loading-performance|loading-performance]]"
+related-skills:
+  - "[[skills/computing/software-engineering/frontend-development/web-performance/web-performance|web-performance]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Loading Performance

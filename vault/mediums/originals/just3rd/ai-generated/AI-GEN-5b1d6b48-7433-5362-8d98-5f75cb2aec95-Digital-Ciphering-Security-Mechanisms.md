@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/digital-ciphering-security-mechanisms|digital-ciphering-security-mechanisms]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/speech-security-assessment/speech-security-assessment|speech-security-assessment]]"
 learning-time-in-minutes: 4
 ---
 # Digital Ciphering Security Mechanisms

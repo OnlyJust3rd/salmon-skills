@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[theme-discovery-in-text-corpora|theme-discovery-in-text-corpora]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/topic-modeling/topic-modeling|topic-modeling]]"
 learning-time-in-minutes: 5
 ---
 # Uncovering Hidden Stories: Theme Discovery in Text Corpora

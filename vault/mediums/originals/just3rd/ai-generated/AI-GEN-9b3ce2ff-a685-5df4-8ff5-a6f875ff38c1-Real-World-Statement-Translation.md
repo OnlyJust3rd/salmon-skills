@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/discrete-math/logical-reasoning/microskills/real-world-statement-translation|real-world-statement-translation]]"
+related-skills:
+  - "[[skills/mathematics/discrete-math/logical-reasoning/logical-reasoning|logical-reasoning]]"
 learning-time-in-minutes: 5
 ---
 # Translating Real-World Statements into Propositional Logic

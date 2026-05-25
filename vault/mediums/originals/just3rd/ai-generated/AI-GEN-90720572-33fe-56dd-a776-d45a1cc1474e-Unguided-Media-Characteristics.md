@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[unguided-media-characteristics|unguided-media-characteristics]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/physical-layer/physical-layer|physical-layer]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Unguided Media Characteristics

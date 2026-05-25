@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/frontend-development/responsive-web-design/microskills/fluid-layout|fluid-layout]]"
+related-skills:
+  - "[[skills/computing/software-engineering/frontend-development/responsive-web-design/responsive-web-design|responsive-web-design]]"
 learning-time-in-minutes: 4
 ---
 # Fluid Layouts: Adapting to Any Screen

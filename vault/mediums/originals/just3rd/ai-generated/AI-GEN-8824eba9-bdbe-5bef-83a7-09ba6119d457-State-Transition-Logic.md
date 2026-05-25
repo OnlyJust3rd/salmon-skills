@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/algorithms/computational-model-understanding/microskills/state-transition-logic|state-transition-logic]]"
+related-skills:
+  - "[[skills/computing/computer-science/algorithms/computational-model-understanding/computational-model-understanding|computational-model-understanding]]"
 learning-time-in-minutes: 3
 ---
 # Understanding State Transition Logic in Finite Automata

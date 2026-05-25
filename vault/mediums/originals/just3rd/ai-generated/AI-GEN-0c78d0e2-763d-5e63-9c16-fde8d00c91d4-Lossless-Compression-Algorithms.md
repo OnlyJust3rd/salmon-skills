@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/algorithms/algorithm-classification/microskills/lossless-compression-algorithms|lossless-compression-algorithms]]"
+related-skills:
+  - "[[skills/computing/computer-science/algorithms/algorithm-classification/algorithm-classification|algorithm-classification]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Lossless Compression Algorithms

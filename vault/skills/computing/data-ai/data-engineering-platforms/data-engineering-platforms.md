@@ -73,7 +73,7 @@ icon: LiWaypoints
 		- [[compute-sizing]]
 		- [[compute-storage-separation]]
 		- [[elastic-scaling]]
-		- [[partition-pruning]]
+		- [[skills/computing/data-ai/data-engineering-platforms/cloud-data-warehouse/microskills/partition-pruning]]
 		- [[query-cost-driver]]
 - **[[data-cleansing]]**
 	- **competencies**

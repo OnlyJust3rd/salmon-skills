@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/algorithms/algorithm-representation/microskills/algorithmic-step-visualization|algorithmic-step-visualization]]"
+related-skills:
+  - "[[skills/computing/computer-science/algorithms/algorithm-representation/algorithm-representation|algorithm-representation]]"
 learning-time-in-minutes: 2
 ---
 # Visualizing Algorithmic Steps with Flowcharts

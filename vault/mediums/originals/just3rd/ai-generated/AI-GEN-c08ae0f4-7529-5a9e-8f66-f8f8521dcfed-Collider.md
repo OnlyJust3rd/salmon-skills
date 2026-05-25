@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-physics/microskills/collider|collider]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-physics/game-physics|game-physics]]"
 learning-time-in-minutes: 5
 ---
 # Colliders: Defining Boundaries for Game Physics

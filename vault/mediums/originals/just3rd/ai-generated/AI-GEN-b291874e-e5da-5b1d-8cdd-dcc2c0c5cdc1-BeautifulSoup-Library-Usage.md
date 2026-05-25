@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[beautifulsoup-library-usage|beautifulsoup-library-usage]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-mining/text-mining|text-mining]]"
 learning-time-in-minutes: 3
 ---
 # Using BeautifulSoup for HTML Parsing

@@ -11,12 +11,12 @@ required-competencies:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-engineering/competencies/L2-apply-batch-data-pipeline-processing|L2-apply-batch-data-pipeline-processing]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/data-warehousing/competencies/L1-explain-data-warehouse-modeling-concepts|L1-explain-data-warehouse-modeling-concepts]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/data-warehousing/competencies/L2-apply-dimensional-modeling-concepts|L2-apply-dimensional-modeling-concepts]]"
-  - "[[skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-execute-sql-queries|L2-execute-sql-queries]]"
-  - "[[skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-use-sql-ddl|L2-use-sql-ddl]]"
+  - "[[L2-execute-sql-queries|L2-execute-sql-queries]]"
+  - "[[L2-use-sql-ddl|L2-use-sql-ddl]]"
   - "[[L2-implement-data-cleansing-in-python|L2-implement-data-cleansing-in-python]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/data-cleansing/competencies/L2-apply-data-cleansing-techniques|L2-apply-data-cleansing-techniques]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/competencies/L2-apply-data-models|L2-apply-data-models]]"
-  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/competencies/L1-define-and-list-rdbms-concepts|L1-define-and-list-rdbms-concepts]]"
+  - "[[L1-define-and-list-rdbms-concepts|L1-define-and-list-rdbms-concepts]]"
   - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/competencies/L1-build-container-images|L1-build-container-images]]"
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/competencies/L2-apply-cloud-service-models|L2-apply-cloud-service-models]]"
   - "[[skills/computing/software-engineering/software-practices/software-version-control/competencies/L2-utilize-git|L2-utilize-git]]"
@@ -46,8 +46,8 @@ A Data Engineer is an entry-level information technology role focused on applyin
 - Apply [[skills/computing/data-ai/data-engineering-platforms/data-engineering/competencies/L2-apply-batch-data-pipeline-processing|L3- Apply Batch Data Pipeline Processing]] in day-to-day role work.
 - Apply [[skills/computing/data-ai/data-engineering-platforms/data-warehousing/competencies/L1-explain-data-warehouse-modeling-concepts|L2- Explain Data Warehouse Modeling Concepts]] in day-to-day role work.
 - Apply [[skills/computing/data-ai/data-engineering-platforms/data-warehousing/competencies/L2-apply-dimensional-modeling-concepts|L3- Apply Dimensional Modeling Concepts]] in day-to-day role work.
-- Apply [[skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-execute-sql-queries|L3- Execute SQL Queries]] in day-to-day role work.
-- Apply [[skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-use-sql-ddl|L3- Use SQL DDL]] in day-to-day role work.
+- Apply [[L2-execute-sql-queries|L3- Execute SQL Queries]] in day-to-day role work.
+- Apply [[L2-use-sql-ddl|L3- Use SQL DDL]] in day-to-day role work.
 
 ## Requirements
 
@@ -55,12 +55,12 @@ A Data Engineer is an entry-level information technology role focused on applyin
 - [[skills/computing/data-ai/data-engineering-platforms/data-engineering/competencies/L2-apply-batch-data-pipeline-processing|L3- Apply Batch Data Pipeline Processing]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-warehousing/competencies/L1-explain-data-warehouse-modeling-concepts|L2- Explain Data Warehouse Modeling Concepts]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-warehousing/competencies/L2-apply-dimensional-modeling-concepts|L3- Apply Dimensional Modeling Concepts]]
-- [[skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-execute-sql-queries|L3- Execute SQL Queries]]
-- [[skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-use-sql-ddl|L3- Use SQL DDL]]
+- [[L2-execute-sql-queries|L3- Execute SQL Queries]]
+- [[L2-use-sql-ddl|L3- Use SQL DDL]]
 - [[L2-implement-data-cleansing-in-python|L3- Implement Data Cleansing in Python]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-cleansing/competencies/L2-apply-data-cleansing-techniques|L3- Apply Data Cleansing Techniques]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-modeling/competencies/L2-apply-data-models|L3- Apply Data Models]]
-- [[skills/computing/data-ai/databases/database-foundations/database-systems/competencies/L1-define-and-list-rdbms-concepts|L1- Define and List RDBMS Concepts]]
+- [[L1-define-and-list-rdbms-concepts|L1- Define and List RDBMS Concepts]]
 - [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/competencies/L1-build-container-images|L2- Build Container Images]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/competencies/L2-apply-cloud-service-models|L3- Apply Cloud Service Models]]
 - [[skills/computing/software-engineering/software-practices/software-version-control/competencies/L2-utilize-git|L3- Utilize Git]]

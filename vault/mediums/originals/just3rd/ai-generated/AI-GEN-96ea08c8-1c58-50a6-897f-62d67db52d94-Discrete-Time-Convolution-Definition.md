@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/lti-system-analysis/microskills/discrete-time-convolution-definition|discrete-time-convolution-definition]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/lti-system-analysis/lti-system-analysis|lti-system-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Discrete-Time Convolution: The Definition

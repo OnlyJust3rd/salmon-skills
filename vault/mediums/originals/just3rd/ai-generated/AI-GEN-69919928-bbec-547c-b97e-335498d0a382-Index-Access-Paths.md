@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Understanding Index Access Paths"
+type: medium
+title: Understanding Index Access Paths
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/database-performance/database-indexing/microskills/index-access-paths|index-access-paths]]"
+  - "[[index-access-paths|index-access-paths]]"
+related-skills:
+  - "[[skills/computing/data-ai/database-system/database-performance/database-indexing/database-indexing|database-indexing]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Index Access Paths
@@ -69,4 +71,4 @@ The difference in speed can be dramatic, transforming a query that might take se
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/database-performance/database-indexing/microskills/index-access-paths|Index Access Paths]]
+- [[index-access-paths|Index Access Paths]]

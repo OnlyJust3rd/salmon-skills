@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/algorithms/algorithm-classification/microskills/symmetric-and-asymmetric-algorithm-differentiation|symmetric-and-asymmetric-algorithm-differentiation]]"
+related-skills:
+  - "[[skills/computing/computer-science/algorithms/algorithm-classification/algorithm-classification|algorithm-classification]]"
 learning-time-in-minutes: 3
 ---
 # Symmetric vs. Asymmetric Algorithms: A Deep Dive

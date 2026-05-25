@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/network-security-access-control/microskills/network-defense-mechanisms|network-defense-mechanisms]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/network-security-access-control/network-security-access-control|network-security-access-control]]"
 learning-time-in-minutes: 5
 ---
 # Firewalls: The Gatekeepers of Your Network

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/failure-distinction|failure-distinction]]"
+related-skills:
+  - "[[skills/computing/software-engineering/testing-quality/software-testing/software-testing|software-testing]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Software Failures: Faults, Errors, and Failures

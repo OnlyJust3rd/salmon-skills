@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/network-security-access-control/microskills/access-rule-creation|access-rule-creation]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/network-security-access-control/network-security-access-control|network-security-access-control]]"
 learning-time-in-minutes: 4
 ---
 # Creating Access Rules with Packet Filtering

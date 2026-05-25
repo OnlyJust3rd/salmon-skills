@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/backend-development/node-js/microskills/npm-packages|npm-packages]]"
+related-skills:
+  - "[[skills/computing/software-engineering/backend-development/node-js/node-js|node-js]]"
 learning-time-in-minutes: 3
 ---
 # Understanding npm Packages: Manifests and Installation

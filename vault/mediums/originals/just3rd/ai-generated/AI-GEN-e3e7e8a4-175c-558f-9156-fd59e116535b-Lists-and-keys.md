@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/frontend-development/react/microskills/lists-and-keys|lists-and-keys]]"
+related-skills:
+  - "[[skills/computing/software-engineering/frontend-development/react/react|react]]"
 learning-time-in-minutes: 5
 ---
 # Lists and Keys in React: Understanding Dynamic Collections

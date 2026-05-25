@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[deep-learning-text-classifier-implementation|deep-learning-text-classifier-implementation]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-classification/text-classification|text-classification]]"
 learning-time-in-minutes: 3
 ---
 # Implementing a Deep Learning Text Classifier

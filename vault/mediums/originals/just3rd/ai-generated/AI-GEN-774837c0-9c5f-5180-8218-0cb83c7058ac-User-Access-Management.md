@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/digital-rights-management-systems/microskills/user-access-management|user-access-management]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/digital-rights-management-systems/digital-rights-management-systems|digital-rights-management-systems]]"
 learning-time-in-minutes: 4
 ---
 # User Access Management in Digital Rights Management

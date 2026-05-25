@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/derivative-computation-and-analysis/microskills/implicit-differentiation-purpose-and-application|implicit-differentiation-purpose-and-application]]"
+related-skills:
+  - "[[skills/mathematics/calculus/derivative-computation-and-analysis/derivative-computation-and-analysis|derivative-computation-and-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Implicit Differentiation

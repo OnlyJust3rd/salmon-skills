@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/proteus-simulation-workflow|proteus-simulation-workflow]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/proteus-8-simulation|proteus-8-simulation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Proteus Simulation Workflow

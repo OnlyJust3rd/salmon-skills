@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/frontend-development/cross-browser-testing/microskills/rendering-compatibility|rendering-compatibility]]"
+related-skills:
+  - "[[skills/computing/software-engineering/frontend-development/cross-browser-testing/cross-browser-testing|cross-browser-testing]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Rendering Compatibility in Web Development

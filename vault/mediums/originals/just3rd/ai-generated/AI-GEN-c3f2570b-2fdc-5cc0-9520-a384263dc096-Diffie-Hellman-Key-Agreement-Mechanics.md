@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/microskills/diffie-hellman-key-agreement-mechanics|diffie-hellman-key-agreement-mechanics]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/asymmetric-algorithm-mechanics|asymmetric-algorithm-mechanics]]"
 learning-time-in-minutes: 4
 ---
 # Diffie-Hellman Key Agreement Mechanics

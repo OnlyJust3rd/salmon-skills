@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/design-fabrication/cad-design/microskills/computer-aided-design-software|computer-aided-design-software]]"
+related-skills:
+  - "[[skills/digital-media/design-fabrication/cad-design/cad-design|cad-design]]"
 learning-time-in-minutes: 3
 ---
 # Exploring Computer-Aided Design (CAD) Software

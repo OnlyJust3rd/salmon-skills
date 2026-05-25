@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Understanding Primary Keys in Databases"
+type: medium
+title: Understanding Primary Keys in Databases
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/primary-key-identification|primary-key-identification]]"
+  - "[[primary-key-identification|primary-key-identification]]"
+related-skills:
+  - "[[relational-database|relational-database]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Primary Keys in Databases
@@ -107,4 +109,4 @@ By understanding and correctly identifying primary keys, you lay a strong founda
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/primary-key-identification|Primary Key Identification]]
+- [[primary-key-identification|Primary Key Identification]]

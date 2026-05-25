@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/backend-development/application-database-integration/microskills/application-database-interaction|application-database-interaction]]"
+related-skills:
+  - "[[skills/computing/software-engineering/backend-development/application-database-integration/application-database-integration|application-database-integration]]"
 learning-time-in-minutes: 2
 ---
 # Managing Data Flow: Application-Database Interaction

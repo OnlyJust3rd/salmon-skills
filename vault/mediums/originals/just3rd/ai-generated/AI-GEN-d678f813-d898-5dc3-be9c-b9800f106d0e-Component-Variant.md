@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[component-variant|component-variant]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/figma/figma|figma]]"
 learning-time-in-minutes: 5
 ---
 # Figma: Mastering Component Variants for Interactive Prototypes

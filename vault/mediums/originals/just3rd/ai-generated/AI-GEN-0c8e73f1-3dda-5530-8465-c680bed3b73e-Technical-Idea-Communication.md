@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/engineering-practices/technical-communication/microskills/technical-idea-communication|technical-idea-communication]]"
+related-skills:
+  - "[[skills/professional-practice/engineering-practices/technical-communication/technical-communication|technical-communication]]"
 learning-time-in-minutes: 5
 ---
 # Communicating Technical Ideas: The Foundation

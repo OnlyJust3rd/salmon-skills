@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/discrete-math/combinatorial-analysis/microskills/permutation-application|permutation-application]]"
+related-skills:
+  - "[[skills/mathematics/discrete-math/combinatorial-analysis/combinatorial-analysis|combinatorial-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Permutation Application: Counting Ordered Arrangements

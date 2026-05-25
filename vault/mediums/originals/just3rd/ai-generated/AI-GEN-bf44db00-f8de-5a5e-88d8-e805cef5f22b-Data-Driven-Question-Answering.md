@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-visualization/microskills/data-driven-question-answering|data-driven-question-answering]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-visualization/data-visualization|data-visualization]]"
 learning-time-in-minutes: 2
 ---
 # Data-Driven Question Answering with Matplotlib

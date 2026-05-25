@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/dbt/microskills/mart-model|mart-model]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/dbt/dbt|dbt]]"
 learning-time-in-minutes: 4
 ---
 # Building Your Mart Model with dbt: Testing and Lineage in Practice

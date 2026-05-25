@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[topic-modeling-techniques-application|topic-modeling-techniques-application]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/topic-modeling/topic-modeling|topic-modeling]]"
 learning-time-in-minutes: 5
 ---
 # Applying LSA and LDA for Theme Discovery

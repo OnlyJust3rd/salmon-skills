@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[mobile-robot-navigation-strategy-explanation|mobile-robot-navigation-strategy-explanation]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/mobile-robot-navigation/mobile-robot-navigation|mobile-robot-navigation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Mobile Robot Navigation Strategies

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/datapath-operation-tracing|datapath-operation-tracing]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-datapath/processor-datapath|processor-datapath]]"
 learning-time-in-minutes: 4
 ---
 # Tracing Data Flow in the Datapath

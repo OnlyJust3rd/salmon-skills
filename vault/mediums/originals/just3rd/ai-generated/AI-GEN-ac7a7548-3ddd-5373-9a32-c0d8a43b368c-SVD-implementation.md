@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[svd-implementation|svd-implementation]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/machine-learning/machine-learning/machine-learning|machine-learning]]"
 learning-time-in-minutes: 4
 ---
 # Singular Value Decomposition (SVD) for Dimensionality Reduction

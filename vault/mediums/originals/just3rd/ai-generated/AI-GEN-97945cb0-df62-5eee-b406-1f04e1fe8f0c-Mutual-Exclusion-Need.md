@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/mutual-exclusion-need|mutual-exclusion-need]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/concurrency-and-synchronization|concurrency-and-synchronization]]"
 learning-time-in-minutes: 3
 ---
 # The Critical Need for Mutual Exclusion

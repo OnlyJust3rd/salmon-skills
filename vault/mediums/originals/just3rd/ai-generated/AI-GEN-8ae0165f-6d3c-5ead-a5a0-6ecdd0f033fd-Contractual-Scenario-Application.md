@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/legal-finance-governance/contractual-agreements/microskills/contractual-scenario-application|contractual-scenario-application]]"
+related-skills:
+  - "[[skills/business/legal-finance-governance/contractual-agreements/contractual-agreements|contractual-agreements]]"
 learning-time-in-minutes: 3
 ---
 # Applying Employment Contracts in Scenarios

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-practices/software-version-control/microskills/baseline-concepts|baseline-concepts]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-practices/software-version-control/software-version-control|software-version-control]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Baselines in Software Version Control

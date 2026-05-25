@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/memory-allocation-scheme-advantages|memory-allocation-scheme-advantages]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/memory-virtualization|memory-virtualization]]"
 learning-time-in-minutes: 4
 ---
 # Advantages of Memory Allocation Schemes

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/embedded-systems/microcontroller-interfacing/microskills/applied-interfacing-knowledge|applied-interfacing-knowledge]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/microcontroller-interfacing/microcontroller-interfacing|microcontroller-interfacing]]"
 learning-time-in-minutes: 4
 ---
 # Applied Interfacing Knowledge: Connecting Physical Devices

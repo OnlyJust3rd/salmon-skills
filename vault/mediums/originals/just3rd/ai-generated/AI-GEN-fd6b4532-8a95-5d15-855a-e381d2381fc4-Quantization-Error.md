@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/signals-systems/signal-conversion-a-d-and-d-a/microskills/quantization-error|quantization-error]]"
+related-skills:
+  - "[[skills/mathematics/signals-systems/signal-conversion-a-d-and-d-a/signal-conversion-a-d-and-d-a|signal-conversion-a-d-and-d-a]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Quantization Error in Signal Conversion

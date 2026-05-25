@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/computer-architecture/number-representation/microskills/application-of-number-formats|application-of-number-formats]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/computer-architecture/number-representation/number-representation|number-representation]]"
 learning-time-in-minutes: 4
 ---
 # Applying Number Formats in Arithmetic

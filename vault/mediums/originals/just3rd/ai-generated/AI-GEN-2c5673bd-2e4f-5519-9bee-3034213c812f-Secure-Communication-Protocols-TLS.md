@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/iot-security-and-privacy/microskills/secure-communication-protocols-tls|secure-communication-protocols-tls]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/iot-security-and-privacy/iot-security-and-privacy|iot-security-and-privacy]]"
 learning-time-in-minutes: 4
 ---
 # Secure Communication Protocols: Transport Layer Security (TLS) in IoT

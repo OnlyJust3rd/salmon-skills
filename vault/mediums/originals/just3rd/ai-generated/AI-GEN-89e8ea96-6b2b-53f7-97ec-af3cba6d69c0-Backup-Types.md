@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Understanding Database Backup Types"
+type: medium
+title: Understanding Database Backup Types
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/database-operations/database-backup-and-recovery/microskills/backup-types|backup-types]]"
+  - "[[backup-types|backup-types]]"
+related-skills:
+  - "[[database-backup-and-recovery|database-backup-and-recovery]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Database Backup Types
@@ -66,4 +68,4 @@ Describe what data would be included in the differential backup performed on Wed
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/database-operations/database-backup-and-recovery/microskills/backup-types|Backup Types]]
+- [[backup-types|Backup Types]]

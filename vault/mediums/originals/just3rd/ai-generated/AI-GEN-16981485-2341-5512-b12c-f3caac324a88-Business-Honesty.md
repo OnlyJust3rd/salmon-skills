@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/legal-finance-governance/business-ethics-principles/microskills/business-honesty|business-honesty]]"
+related-skills:
+  - "[[skills/business/legal-finance-governance/business-ethics-principles/business-ethics-principles|business-ethics-principles]]"
 learning-time-in-minutes: 3
 ---
 # Business Honesty: Building Trust Through Truthfulness

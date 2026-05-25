@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[feature-selection|feature-selection]]"
+related-skills:
+  - "[[skills/computing/data-ai/artificial-intelligence/machine-learning/machine-learning/machine-learning|machine-learning]]"
 learning-time-in-minutes: 3
 ---
 # Applying Feature Selection for Dimensionality Reduction

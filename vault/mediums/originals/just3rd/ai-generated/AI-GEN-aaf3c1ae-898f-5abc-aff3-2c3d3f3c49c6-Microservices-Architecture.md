@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-design/software-architecture/microskills/microservices-architecture|microservices-architecture]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-design/software-architecture/software-architecture|software-architecture]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Microservices Architecture

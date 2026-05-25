@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/enhancing-realism|enhancing-realism]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/rendering-and-visual-realism|rendering-and-visual-realism]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Shading for Realism

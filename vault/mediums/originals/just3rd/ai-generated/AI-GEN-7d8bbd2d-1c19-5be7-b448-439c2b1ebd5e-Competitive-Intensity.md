@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/product-management/feasibility-analysis/microskills/competitive-intensity|competitive-intensity]]"
+related-skills:
+  - "[[skills/business/product-management/feasibility-analysis/feasibility-analysis|feasibility-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Competitive Intensity: Understanding the Rival Landscape

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[edit-distance-levenshtein-distance-dp-java-implementation|edit-distance-levenshtein-distance-dp-java-implementation]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/java-programming/java-programming|java-programming]]"
 learning-time-in-minutes: 4
 ---
 # Edit Distance (Levenshtein Distance) DP Java Implementation

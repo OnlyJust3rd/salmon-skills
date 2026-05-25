@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/applied-calculus-problem-solving/microskills/optimization-problem-definitions|optimization-problem-definitions]]"
+related-skills:
+  - "[[skills/mathematics/calculus/applied-calculus-problem-solving/applied-calculus-problem-solving|applied-calculus-problem-solving]]"
 learning-time-in-minutes: 2
 ---
 # Optimization Problem Definitions

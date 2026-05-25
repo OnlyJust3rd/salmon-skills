@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/asynchronous-bus-protocol-analysis|asynchronous-bus-protocol-analysis]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-datapath/processor-datapath|processor-datapath]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Asynchronous Bus Protocols

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/engineering-practices/system-design/microskills/requirement-specification-to-system-architecture-relationship|requirement-specification-to-system-architecture-relationship]]"
+related-skills:
+  - "[[skills/professional-practice/engineering-practices/system-design/system-design|system-design]]"
 learning-time-in-minutes: 5
 ---
 # Bridging the Gap: From Requirements to System Architecture

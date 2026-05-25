@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/frontend-development/html/microskills/document-metadata-and-landmarks|document-metadata-and-landmarks]]"
+related-skills:
+  - "[[skills/computing/software-engineering/frontend-development/html/html|html]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Document Metadata and Landmarks in HTML

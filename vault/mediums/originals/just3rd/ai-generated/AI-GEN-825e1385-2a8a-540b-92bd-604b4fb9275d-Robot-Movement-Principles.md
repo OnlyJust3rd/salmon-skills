@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[robot-movement-principles|robot-movement-principles]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/robotic-system/robotic-system|robotic-system]]"
 learning-time-in-minutes: 5
 ---
 # Robot Movement Principles

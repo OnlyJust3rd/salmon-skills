@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-testing/microskills/balance-note|balance-note]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-testing/game-testing|game-testing]]"
 learning-time-in-minutes: 5
 ---
 # Documenting Balance Notes in Game Testing

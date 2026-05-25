@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/image-watermarking-implementation|image-watermarking-implementation]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/digital-watermarking/digital-watermarking|digital-watermarking]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Basic Image Watermarking

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[evolution-of-robotic-behaviors|evolution-of-robotic-behaviors]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/robotics/robotics|robotics]]"
 learning-time-in-minutes: 5
 ---
 # Evolution of Robotic Behaviors: Subsumption Architecture in Action

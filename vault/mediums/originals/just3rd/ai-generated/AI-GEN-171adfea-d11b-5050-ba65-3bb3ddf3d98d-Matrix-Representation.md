@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/data-structures/discrete-structure-modeling/microskills/matrix-representation|matrix-representation]]"
+related-skills:
+  - "[[skills/computing/computer-science/data-structures/discrete-structure-modeling/discrete-structure-modeling|discrete-structure-modeling]]"
 learning-time-in-minutes: 5
 ---
 # Matrix Representation for Discrete Structures

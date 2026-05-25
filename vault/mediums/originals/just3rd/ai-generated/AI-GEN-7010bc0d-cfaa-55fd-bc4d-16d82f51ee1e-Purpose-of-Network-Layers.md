@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[purpose-of-network-layers|purpose-of-network-layers]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/computer-network-architecture/computer-network-architecture|computer-network-architecture]]"
 learning-time-in-minutes: 4
 ---
 # The Purpose of Network Layers

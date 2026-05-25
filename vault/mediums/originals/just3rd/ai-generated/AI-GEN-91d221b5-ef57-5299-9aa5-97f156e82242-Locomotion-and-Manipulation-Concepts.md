@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[locomotion-and-manipulation-concepts|locomotion-and-manipulation-concepts]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/robotic-system/robotic-system|robotic-system]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Robot Locomotion and Manipulation Concepts

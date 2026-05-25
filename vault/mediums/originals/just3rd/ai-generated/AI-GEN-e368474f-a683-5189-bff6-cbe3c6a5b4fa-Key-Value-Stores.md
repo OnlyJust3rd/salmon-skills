@@ -6,7 +6,9 @@ tags:
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/key-value-stores|key-value-stores]]"
+  - "[[key-value-stores|key-value-stores]]"
+related-skills:
+  - "[[nosql-database-system|nosql-database-system]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Key-Value Stores: A Core NoSQL Type
@@ -95,4 +97,4 @@ In summary, key-value stores offer a simple yet powerful way to manage data, esp
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/key-value-stores|Key-Value Stores]]
+- [[key-value-stores|Key-Value Stores]]

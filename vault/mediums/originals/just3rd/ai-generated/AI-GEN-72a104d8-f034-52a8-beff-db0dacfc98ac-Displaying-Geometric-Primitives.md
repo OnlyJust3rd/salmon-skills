@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/displaying-geometric-primitives|displaying-geometric-primitives]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/rasterization-algorithms/rasterization-algorithms|rasterization-algorithms]]"
 learning-time-in-minutes: 4
 ---
 # Displaying Geometric Primitives

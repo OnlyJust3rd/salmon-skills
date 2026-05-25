@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[strengths-and-weaknesses-of-ai-paradigms|strengths-and-weaknesses-of-ai-paradigms]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/robotics/robotics|robotics]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Strengths and Weaknesses of AI Behavior Paradigms for Robotics

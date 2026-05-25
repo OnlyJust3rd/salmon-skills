@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/enterprise-application-data-orchestration|enterprise-application-data-orchestration]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/iot-cloud|iot-cloud]]"
 learning-time-in-minutes: 5
 ---
 # Orchestrating Enterprise Data with REST APIs and JSON

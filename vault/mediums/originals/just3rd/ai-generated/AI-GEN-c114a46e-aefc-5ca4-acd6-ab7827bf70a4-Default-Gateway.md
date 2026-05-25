@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[default-gateway|default-gateway]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/network-layers/routing-and-switching/routing-and-switching|routing-and-switching]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Default Gateway

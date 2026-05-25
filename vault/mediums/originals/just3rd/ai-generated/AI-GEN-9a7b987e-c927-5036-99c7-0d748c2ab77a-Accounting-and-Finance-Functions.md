@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/corporate-operations/corporate-functions/microskills/accounting-and-finance-functions|accounting-and-finance-functions]]"
+related-skills:
+  - "[[skills/business/corporate-operations/corporate-functions/corporate-functions|corporate-functions]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Accounting and Finance Functions

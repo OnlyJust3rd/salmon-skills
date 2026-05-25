@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[wired-communication-technologies-uart-spi-i2c|wired-communication-technologies-uart-spi-i2c]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/iot-network/iot-network|iot-network]]"
 learning-time-in-minutes: 7
 ---
 # Analyzing Wired Communication Technologies for IoT: UART, SPI, and I²C

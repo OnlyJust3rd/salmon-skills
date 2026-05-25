@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/delivery-platforms/artifact-management/microskills/image-repositories|image-repositories]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/artifact-management/artifact-management|artifact-management]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Image Repositories

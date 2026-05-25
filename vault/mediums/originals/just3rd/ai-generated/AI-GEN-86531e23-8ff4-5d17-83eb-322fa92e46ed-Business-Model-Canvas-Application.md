@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/entrepreneurship/business-model-design/microskills/business-model-canvas-application|business-model-canvas-application]]"
+related-skills:
+  - "[[skills/business/entrepreneurship/business-model-design/business-model-design|business-model-design]]"
 learning-time-in-minutes: 4
 ---
 # Applying the Business Model Canvas (BMC)

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/engineering-practices/technical-communication/microskills/visual-artifact-communication|visual-artifact-communication]]"
+related-skills:
+  - "[[skills/professional-practice/engineering-practices/technical-communication/technical-communication|technical-communication]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Visual Artifacts for Technical Communication

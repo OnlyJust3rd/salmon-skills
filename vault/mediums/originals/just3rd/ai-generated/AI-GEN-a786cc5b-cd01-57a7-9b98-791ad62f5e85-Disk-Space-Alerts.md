@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/disk-space-alerts|disk-space-alerts]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/infrastructure-alert|infrastructure-alert]]"
 learning-time-in-minutes: 4
 ---
 # Disk Space Alerts

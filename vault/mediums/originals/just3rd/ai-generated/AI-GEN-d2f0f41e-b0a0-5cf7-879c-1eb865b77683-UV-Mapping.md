@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/3d-asset-pipeline/microskills/uv-mapping|uv-mapping]]"
+related-skills:
+  - "[[skills/digital-media/game-development/3d-asset-pipeline/3d-asset-pipeline|3d-asset-pipeline]]"
 learning-time-in-minutes: 5
 ---
 # UV Mapping: Bringing Textures to Life

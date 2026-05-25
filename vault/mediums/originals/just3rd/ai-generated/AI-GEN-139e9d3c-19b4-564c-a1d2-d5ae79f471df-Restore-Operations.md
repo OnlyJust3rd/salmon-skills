@@ -1,12 +1,14 @@
 ---
-type: "medium"
+type: medium
 title: "Restore Operations: Bringing Data Back to Life"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/database-operations/database-backup-and-recovery/microskills/restore-operations|restore-operations]]"
+  - "[[restore-operations|restore-operations]]"
+related-skills:
+  - "[[database-backup-and-recovery|database-backup-and-recovery]]"
 learning-time-in-minutes: 4
 ---
 # Restore Operations: Bringing Data Back to Life
@@ -64,4 +66,4 @@ This is line 3.
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/database-operations/database-backup-and-recovery/microskills/restore-operations|Restore Operations]]
+- [[restore-operations|Restore Operations]]

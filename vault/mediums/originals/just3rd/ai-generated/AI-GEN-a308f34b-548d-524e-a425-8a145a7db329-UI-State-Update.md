@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/ui-state-update|ui-state-update]]"
+related-skills:
+  - "[[skills/computing/software-engineering/mobile-development/mobile-application-development/mobile-application-development|mobile-application-development]]"
 learning-time-in-minutes: 4
 ---
 # UI State Update in Mobile Applications

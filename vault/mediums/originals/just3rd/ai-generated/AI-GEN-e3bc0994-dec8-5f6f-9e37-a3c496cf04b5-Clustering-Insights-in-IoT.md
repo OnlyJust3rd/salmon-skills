@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/clustering-insights-in-iot|clustering-insights-in-iot]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/iot-data-analytics|iot-data-analytics]]"
 learning-time-in-minutes: 4
 ---
 # Uncovering Hidden Patterns: Insights from IoT Data Clustering

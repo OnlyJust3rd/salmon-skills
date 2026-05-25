@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[multiplexing-techniques|multiplexing-techniques]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/physical-layer/physical-layer|physical-layer]]"
 learning-time-in-minutes: 6
 ---
 # Understanding Multiplexing Techniques

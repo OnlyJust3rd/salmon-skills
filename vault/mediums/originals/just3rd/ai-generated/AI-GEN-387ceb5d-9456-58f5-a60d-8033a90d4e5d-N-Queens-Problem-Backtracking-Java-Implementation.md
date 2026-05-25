@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[n-queens-problem-backtracking-java-implementation|n-queens-problem-backtracking-java-implementation]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/java-programming/java-programming|java-programming]]"
 learning-time-in-minutes: 5
 ---
 # N-Queens Problem Backtracking Java Implementation

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[ai-behavior-paradigm-comparison|ai-behavior-paradigm-comparison]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/robotics/robotics|robotics]]"
 learning-time-in-minutes: 4
 ---
 # AI Behavior Paradigms in Robotics: An Analytical Comparison

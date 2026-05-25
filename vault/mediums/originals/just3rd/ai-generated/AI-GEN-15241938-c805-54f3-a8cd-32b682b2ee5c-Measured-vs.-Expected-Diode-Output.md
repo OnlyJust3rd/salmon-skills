@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/measured-vs-expected-diode-output|measured-vs-expected-diode-output]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/experimental-data-evaluation|experimental-data-evaluation]]"
 learning-time-in-minutes: 5
 ---
 # Measured vs. Expected Diode Output: Justifying Discrepancies

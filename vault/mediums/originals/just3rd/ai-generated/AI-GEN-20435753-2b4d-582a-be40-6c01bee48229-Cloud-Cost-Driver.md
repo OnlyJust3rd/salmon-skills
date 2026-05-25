@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/microskills/cloud-cost-driver|cloud-cost-driver]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/cloud-native-application-architecture|cloud-native-application-architecture]]"
 learning-time-in-minutes: 4
 ---
 # Cloud Cost Drivers: Usage-Based Pricing

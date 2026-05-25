@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[dom-queries-and-updates|dom-queries-and-updates]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/javascript/javascript|javascript]]"
 learning-time-in-minutes: 3
 ---
 # DOM Queries and Updates in JavaScript

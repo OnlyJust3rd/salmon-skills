@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-ui/microskills/hud|hud]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-ui/game-ui|game-ui]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Heads-Up Displays (HUDs) in Games

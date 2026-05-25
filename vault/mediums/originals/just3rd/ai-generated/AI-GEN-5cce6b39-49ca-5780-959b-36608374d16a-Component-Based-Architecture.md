@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-design/software-architecture/microskills/component-based-architecture|component-based-architecture]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-design/software-architecture/software-architecture|software-architecture]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Component-Based Architecture

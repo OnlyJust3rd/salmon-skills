@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/processor-datapath-components|processor-datapath-components]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-datapath/processor-datapath|processor-datapath]]"
 learning-time-in-minutes: 4
 ---
 # Processor Datapath Components

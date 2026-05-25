@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[cpp-class-implementation|cpp-class-implementation]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/cpp-programming/cpp-programming|cpp-programming]]"
 learning-time-in-minutes: 2
 ---
 # C++ Class Implementation: Declarations and Methods

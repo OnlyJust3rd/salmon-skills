@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[frame-forwarding|frame-forwarding]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/network-layers/routing-and-switching/routing-and-switching|routing-and-switching]]"
 learning-time-in-minutes: 5
 ---
 # Frame Forwarding: How Switches Learn and Direct Traffic

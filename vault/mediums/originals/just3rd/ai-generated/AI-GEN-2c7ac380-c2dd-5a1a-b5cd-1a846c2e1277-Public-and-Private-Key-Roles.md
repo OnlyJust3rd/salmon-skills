@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/message-integrity-mechanisms/microskills/public-and-private-key-roles|public-and-private-key-roles]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/message-integrity-mechanisms/message-integrity-mechanisms|message-integrity-mechanisms]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Public and Private Keys in Digital Signatures

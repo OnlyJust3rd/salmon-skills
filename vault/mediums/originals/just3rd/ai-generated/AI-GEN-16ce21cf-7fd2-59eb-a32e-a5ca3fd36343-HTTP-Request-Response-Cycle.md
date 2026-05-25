@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[http-request-response-cycle|http-request-response-cycle]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-mining/text-mining|text-mining]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the HTTP Request-Response Cycle

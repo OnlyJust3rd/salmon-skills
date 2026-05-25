@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/apache-hadoop/microskills/reducer-output|reducer-output]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/apache-hadoop/apache-hadoop|apache-hadoop]]"
 learning-time-in-minutes: 2
 ---
 # Reducer Output: Aggregating Your Hadoop Batch Results

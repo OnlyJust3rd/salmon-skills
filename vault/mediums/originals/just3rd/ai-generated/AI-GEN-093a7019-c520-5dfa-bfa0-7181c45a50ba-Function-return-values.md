@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/programming/programming-principles/modular-program-design/microskills/function-return-values|function-return-values]]"
+related-skills:
+  - "[[skills/computing/programming/programming-principles/modular-program-design/modular-program-design|modular-program-design]]"
 learning-time-in-minutes: 3
 ---
 # Using Function Return Values in C

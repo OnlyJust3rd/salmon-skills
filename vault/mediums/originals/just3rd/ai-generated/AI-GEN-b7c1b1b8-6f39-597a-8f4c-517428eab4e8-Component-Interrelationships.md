@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/component-interrelationships|component-interrelationships]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/hpc-system|hpc-system]]"
 learning-time-in-minutes: 5
 ---
 # Understanding HPC Component Interrelationships

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/unity/microskills/gameobject|gameobject]]"
+related-skills:
+  - "[[skills/digital-media/game-development/unity/unity|unity]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Unity GameObjects

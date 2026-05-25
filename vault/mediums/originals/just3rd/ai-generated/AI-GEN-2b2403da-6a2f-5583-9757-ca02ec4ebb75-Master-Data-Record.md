@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/corporate-operations/sap-erp/microskills/master-data-record|master-data-record]]"
+related-skills:
+  - "[[skills/business/corporate-operations/sap-erp/sap-erp|sap-erp]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Master Data Records in SAP ERP

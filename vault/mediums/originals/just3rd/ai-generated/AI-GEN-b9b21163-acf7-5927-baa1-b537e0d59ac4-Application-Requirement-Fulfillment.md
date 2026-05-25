@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-creation/microskills/application-requirement-fulfillment|application-requirement-fulfillment]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-creation/embedded-system-creation|embedded-system-creation]]"
 learning-time-in-minutes: 4
 ---
 # Fulfilling Application Requirements in Embedded Systems

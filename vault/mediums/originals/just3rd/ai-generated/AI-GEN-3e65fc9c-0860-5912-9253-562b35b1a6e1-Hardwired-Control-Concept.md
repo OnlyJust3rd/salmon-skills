@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/hardware-embedded/computer-architecture/control-unit-design/microskills/hardwired-control-concept|hardwired-control-concept]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/computer-architecture/control-unit-design/control-unit-design|control-unit-design]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Hardwired Control

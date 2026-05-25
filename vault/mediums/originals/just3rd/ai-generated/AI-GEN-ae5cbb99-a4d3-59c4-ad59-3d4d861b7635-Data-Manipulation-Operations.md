@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Performing Data Manipulation Operations in SQL"
+type: medium
+title: Performing Data Manipulation Operations in SQL
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/relational-databases/sql/microskills/data-manipulation-operations|data-manipulation-operations]]"
+  - "[[data-manipulation-operations|data-manipulation-operations]]"
+related-skills:
+  - "[[sql|sql]]"
 learning-time-in-minutes: 4
 ---
 # Performing Data Manipulation Operations in SQL
@@ -171,4 +173,4 @@ Mastering these data manipulation operations is essential for any practical SQL 
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/relational-databases/sql/microskills/data-manipulation-operations|Data Manipulation Operations]]
+- [[data-manipulation-operations|Data Manipulation Operations]]

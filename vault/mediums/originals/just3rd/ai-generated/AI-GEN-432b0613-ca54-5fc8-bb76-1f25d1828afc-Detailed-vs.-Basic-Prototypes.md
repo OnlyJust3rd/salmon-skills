@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[detailed-vs-basic-prototypes|detailed-vs-basic-prototypes]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/interactive-system-development/interactive-system-development|interactive-system-development]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Prototype Fidelity: Detailed vs. Basic Prototypes

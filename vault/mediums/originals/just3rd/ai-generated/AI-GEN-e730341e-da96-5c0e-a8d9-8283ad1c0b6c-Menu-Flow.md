@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-ui/microskills/menu-flow|menu-flow]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-ui/game-ui|game-ui]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Menu Flow in Game UI

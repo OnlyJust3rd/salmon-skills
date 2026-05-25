@@ -1,12 +1,14 @@
 ---
-type: "medium"
+type: medium
 title: "SQL Syntax Rules: The Grammar of Data Commands"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-syntax-rules|sql-syntax-rules]]"
+  - "[[sql-syntax-rules|sql-syntax-rules]]"
+related-skills:
+  - "[[sql|sql]]"
 learning-time-in-minutes: 4
 ---
 # SQL Syntax Rules: The Grammar of Data Commands
@@ -158,4 +160,4 @@ By understanding these fundamental syntax rules, you lay the groundwork for writ
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-syntax-rules|SQL Syntax Rules]]
+- [[sql-syntax-rules|SQL Syntax Rules]]

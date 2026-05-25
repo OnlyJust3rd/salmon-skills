@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/career-development/it-career-path/microskills/role-responsibilities|role-responsibilities]]"
+related-skills:
+  - "[[skills/professional-practice/career-development/it-career-path/it-career-path|it-career-path]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Role Responsibilities in Tech Careers

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/calculus/multivariable-calculus-analysis/microskills/multivariable-critical-point-identification|multivariable-critical-point-identification]]"
+related-skills:
+  - "[[skills/mathematics/calculus/multivariable-calculus-analysis/multivariable-calculus-analysis|multivariable-calculus-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Locating Critical Points for Multivariable Functions

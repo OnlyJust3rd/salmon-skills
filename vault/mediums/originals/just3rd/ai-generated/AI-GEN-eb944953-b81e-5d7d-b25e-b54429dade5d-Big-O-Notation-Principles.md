@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/data-structures/data-structure-principles/microskills/big-o-notation-principles|big-o-notation-principles]]"
+related-skills:
+  - "[[skills/computing/computer-science/data-structures/data-structure-principles/data-structure-principles|data-structure-principles]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Big O Notation

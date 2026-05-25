@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[text-classification-algorithm-application|text-classification-algorithm-application]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-classification/text-classification|text-classification]]"
 learning-time-in-minutes: 4
 ---
 # Applying Text Classification Algorithms

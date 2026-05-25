@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/snowflake/microskills/transformation-model|transformation-model]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/snowflake/snowflake|snowflake]]"
 learning-time-in-minutes: 3
 ---
 # SQL Transformations in Snowflake

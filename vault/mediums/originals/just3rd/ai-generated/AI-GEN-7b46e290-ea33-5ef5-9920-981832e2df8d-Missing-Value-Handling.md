@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-cleansing/microskills/missing-value-handling|missing-value-handling]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-cleansing/data-cleansing|data-cleansing]]"
 learning-time-in-minutes: 4
 ---
 # Handling Missing Values

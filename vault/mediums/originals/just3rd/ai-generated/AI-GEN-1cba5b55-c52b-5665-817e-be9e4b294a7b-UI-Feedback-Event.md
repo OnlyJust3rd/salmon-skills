@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-ui/microskills/ui-feedback-event|ui-feedback-event]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-ui/game-ui|game-ui]]"
 learning-time-in-minutes: 4
 ---
 # UI Feedback Events in Game Interfaces

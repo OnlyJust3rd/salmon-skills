@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/geometric-transformations/microskills/transformation-effects|transformation-effects]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/geometric-transformations/geometric-transformations|geometric-transformations]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Transformation Effects on Geometric Objects

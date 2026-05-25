@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/ai-assisted-development/github-copilot/microskills/repository-context|repository-context]]"
+related-skills:
+  - "[[skills/computing/software-engineering/ai-assisted-development/github-copilot/github-copilot|github-copilot]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Repository Context for GitHub Copilot Suggestions

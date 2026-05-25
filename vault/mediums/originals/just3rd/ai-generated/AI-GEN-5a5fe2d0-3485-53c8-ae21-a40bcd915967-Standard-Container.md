@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[standard-container|standard-container]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/cpp-programming/cpp-programming|cpp-programming]]"
 learning-time-in-minutes: 2
 ---
 # Using Standard Containers in C++

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[application-protocol-operations|application-protocol-operations]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/application-layer|application-layer]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Application Protocol Operations: HTTP and DNS

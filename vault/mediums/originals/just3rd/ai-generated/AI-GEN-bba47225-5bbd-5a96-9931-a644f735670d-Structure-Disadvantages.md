@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/corporate-operations/organizational-structures/microskills/structure-disadvantages|structure-disadvantages]]"
+related-skills:
+  - "[[skills/business/corporate-operations/organizational-structures/organizational-structures|organizational-structures]]"
 learning-time-in-minutes: 6
 ---
 # Understanding the Drawbacks of Organizational Structures

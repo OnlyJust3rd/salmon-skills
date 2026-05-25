@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/security-privacy/cybersecurity/incident-response/microskills/detection-and-analysis|detection-and-analysis]]"
+related-skills:
+  - "[[skills/computing/security-privacy/cybersecurity/incident-response/incident-response|incident-response]]"
 learning-time-in-minutes: 5
 ---
 # Detection and Analysis: Spotting the Signs of Trouble

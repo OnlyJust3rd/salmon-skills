@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/apache-airflow/microskills/retry-policy|retry-policy]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/apache-airflow/apache-airflow|apache-airflow]]"
 learning-time-in-minutes: 2
 ---
 # Task Retries with Airflow's Retry Policy

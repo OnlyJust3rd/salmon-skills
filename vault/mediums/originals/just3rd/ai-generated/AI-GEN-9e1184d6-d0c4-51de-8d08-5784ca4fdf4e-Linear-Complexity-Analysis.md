@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/algorithms/computational-complexity-analysis/microskills/linear-complexity-analysis|linear-complexity-analysis]]"
+related-skills:
+  - "[[skills/computing/computer-science/algorithms/computational-complexity-analysis/computational-complexity-analysis|computational-complexity-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Linear Complexity Analysis: Spotting O(n) Algorithms

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/programming/programming-principles/modular-program-design/microskills/function-declaration-and-definition|function-declaration-and-definition]]"
+related-skills:
+  - "[[skills/computing/programming/programming-principles/modular-program-design/modular-program-design|modular-program-design]]"
 learning-time-in-minutes: 3
 ---
 # Understanding C Function Declaration and Definition

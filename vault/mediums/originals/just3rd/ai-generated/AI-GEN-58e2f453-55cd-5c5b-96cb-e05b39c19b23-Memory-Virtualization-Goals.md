@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/memory-virtualization-goals|memory-virtualization-goals]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/operating-system|operating-system]]"
 learning-time-in-minutes: 4
 ---
 # Memory Virtualization Goals in Operating Systems

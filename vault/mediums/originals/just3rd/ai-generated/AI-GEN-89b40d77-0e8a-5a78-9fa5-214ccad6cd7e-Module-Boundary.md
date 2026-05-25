@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/corporate-operations/enterprise-resource-planning/microskills/module-boundary|module-boundary]]"
+related-skills:
+  - "[[skills/business/corporate-operations/enterprise-resource-planning/enterprise-resource-planning|enterprise-resource-planning]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Module Boundaries in ERP Systems

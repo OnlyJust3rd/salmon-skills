@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[distributed-intelligence-workflows|distributed-intelligence-workflows]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/edge-computing/edge-computing|edge-computing]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Distributed Intelligence Workflows

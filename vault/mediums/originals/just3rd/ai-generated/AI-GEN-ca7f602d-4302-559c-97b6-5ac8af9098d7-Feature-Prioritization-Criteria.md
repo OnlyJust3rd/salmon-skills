@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/feature-prioritization-criteria|feature-prioritization-criteria]]"
+related-skills:
+  - "[[skills/business/entrepreneurship/mvp-design-and-prototyping/mvp-design-and-prototyping|mvp-design-and-prototyping]]"
 learning-time-in-minutes: 6
 ---
 # Feature Prioritization Criteria for MVPs

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/algorithms/algorithmic-thinking/microskills/recursive-algorithms|recursive-algorithms]]"
+related-skills:
+  - "[[skills/computing/computer-science/algorithms/algorithmic-thinking/algorithmic-thinking|algorithmic-thinking]]"
 learning-time-in-minutes: 2
 ---
 # Recursive Algorithms: Solving Problems by Looking Within

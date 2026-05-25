@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/frontend-development/web-performance/microskills/perceived-latency|perceived-latency]]"
+related-skills:
+  - "[[skills/computing/software-engineering/frontend-development/web-performance/web-performance|web-performance]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Perceived Latency in Web Performance

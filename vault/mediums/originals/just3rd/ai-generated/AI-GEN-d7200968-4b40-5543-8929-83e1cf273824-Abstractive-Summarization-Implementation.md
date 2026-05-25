@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[abstractive-summarization-implementation|abstractive-summarization-implementation]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-summarization/text-summarization|text-summarization]]"
 learning-time-in-minutes: 3
 ---
 # Implementing Abstractive Summarization with Neural Networks

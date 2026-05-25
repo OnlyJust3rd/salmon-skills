@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[command-composition|command-composition]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/shell-scripting/shell-scripting|shell-scripting]]"
 learning-time-in-minutes: 4
 ---
 # Command Composition in Shell Scripting

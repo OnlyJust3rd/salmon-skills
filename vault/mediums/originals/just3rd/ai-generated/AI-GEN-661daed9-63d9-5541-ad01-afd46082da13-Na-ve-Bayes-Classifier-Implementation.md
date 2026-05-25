@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[naive-bayes-classifier-implementation|naive-bayes-classifier-implementation]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-classification/text-classification|text-classification]]"
 learning-time-in-minutes: 3
 ---
 # Implementing Naïve Bayes for Text Classification

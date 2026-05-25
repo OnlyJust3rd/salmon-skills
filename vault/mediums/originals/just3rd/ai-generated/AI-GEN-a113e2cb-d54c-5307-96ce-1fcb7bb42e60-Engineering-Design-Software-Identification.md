@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/design-fabrication/cad-design/microskills/engineering-design-software-identification|engineering-design-software-identification]]"
+related-skills:
+  - "[[skills/digital-media/design-fabrication/cad-design/cad-design|cad-design]]"
 learning-time-in-minutes: 3
 ---
 # Engineering Design Software Identification

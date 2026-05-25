@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/unity/microskills/monobehaviour-script|monobehaviour-script]]"
+related-skills:
+  - "[[skills/digital-media/game-development/unity/unity|unity]]"
 learning-time-in-minutes: 4
 ---
 # MonoBehaviour Scripts: Building Interactive Unity Components

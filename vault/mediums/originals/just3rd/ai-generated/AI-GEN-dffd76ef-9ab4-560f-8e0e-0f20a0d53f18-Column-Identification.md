@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Identifying Columns in Database Tables"
+type: medium
+title: Identifying Columns in Database Tables
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/column-identification|column-identification]]"
+  - "[[column-identification|column-identification]]"
+related-skills:
+  - "[[relational-database|relational-database]]"
 learning-time-in-minutes: 3
 ---
 # Identifying Columns in Database Tables
@@ -61,4 +63,4 @@ By practicing the identification of columns, you build a foundational understand
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/column-identification|Column Identification]]
+- [[column-identification|Column Identification]]

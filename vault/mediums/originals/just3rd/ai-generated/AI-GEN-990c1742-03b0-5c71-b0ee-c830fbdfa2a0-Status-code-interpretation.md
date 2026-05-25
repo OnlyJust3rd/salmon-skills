@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/backend-development/restful-api/microskills/status-code-interpretation|status-code-interpretation]]"
+related-skills:
+  - "[[skills/computing/software-engineering/backend-development/restful-api/restful-api|restful-api]]"
 learning-time-in-minutes: 4
 ---
 # Understanding API Status Codes: A Quick Guide

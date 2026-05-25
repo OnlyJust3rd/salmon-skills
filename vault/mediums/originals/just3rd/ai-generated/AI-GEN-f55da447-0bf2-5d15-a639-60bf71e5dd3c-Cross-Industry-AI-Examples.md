@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/professional-practice/technology-society/technology-impact-analysis/microskills/cross-industry-ai-examples|cross-industry-ai-examples]]"
+related-skills:
+  - "[[skills/professional-practice/technology-society/technology-impact-analysis/technology-impact-analysis|technology-impact-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Cross-Industry AI Examples

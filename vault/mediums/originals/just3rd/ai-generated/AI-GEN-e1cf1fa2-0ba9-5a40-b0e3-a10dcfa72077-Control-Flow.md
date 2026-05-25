@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[control-flow|control-flow]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/c-sharp-programming/c-sharp-programming|c-sharp-programming]]"
 learning-time-in-minutes: 2
 ---
 # Control Flow: Conditionals and Loops in C#

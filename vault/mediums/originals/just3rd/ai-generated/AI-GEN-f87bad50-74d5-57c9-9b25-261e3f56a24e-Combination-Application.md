@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/discrete-math/combinatorial-analysis/microskills/combination-application|combination-application]]"
+related-skills:
+  - "[[skills/mathematics/discrete-math/combinatorial-analysis/combinatorial-analysis|combinatorial-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Applying Combinations to Unordered Selections

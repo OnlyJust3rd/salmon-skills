@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Defining Table Columns with SQL DDL"
+type: medium
+title: Defining Table Columns with SQL DDL
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/relational-databases/mysql/microskills/column-definition-statements|column-definition-statements]]"
+  - "[[column-definition-statements|column-definition-statements]]"
+related-skills:
+  - "[[mysql|mysql]]"
 learning-time-in-minutes: 4
 ---
 # Defining Table Columns with SQL DDL
@@ -95,4 +97,4 @@ By understanding and effectively using `CREATE TABLE` statements with appropriat
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/relational-databases/mysql/microskills/column-definition-statements|Column Definition Statements]]
+- [[column-definition-statements|Column Definition Statements]]

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/product-analytics/microskills/funnel-drop-off|funnel-drop-off]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/product-analytics/product-analytics|product-analytics]]"
 learning-time-in-minutes: 5
 ---
 # Funnel Drop-off: Uncovering User Flow Breakpoints

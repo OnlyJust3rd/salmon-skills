@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm/microskills/parallel-design-methodology-execution|parallel-design-methodology-execution]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm/parallel-algorithm|parallel-algorithm]]"
 learning-time-in-minutes: 4
 ---
 # Executing Foster's Parallel Design Methodology

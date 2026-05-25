@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[mongodb-update-delete-operations|mongodb-update-delete-operations]]"
+related-skills:
+  - "[[mongodb|mongodb]]"
 learning-time-in-minutes: 3
 ---
 # Updating and Removing Documents in MongoDB

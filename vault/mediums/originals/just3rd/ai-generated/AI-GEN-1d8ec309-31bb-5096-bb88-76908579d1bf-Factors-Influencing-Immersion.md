@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-flow-and-difficulty-balancing/microskills/factors-influencing-immersion|factors-influencing-immersion]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-flow-and-difficulty-balancing/game-flow-and-difficulty-balancing|game-flow-and-difficulty-balancing]]"
 learning-time-in-minutes: 4
 ---
 # Factors Influencing Player Immersion

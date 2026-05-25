@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[simulation-to-physical-robot-transition-factors|simulation-to-physical-robot-transition-factors]]"
+related-skills:
+  - "[[skills/computing/hardware-embedded/robotics/evolutional-robotics/evolutional-robotics|evolutional-robotics]]"
 learning-time-in-minutes: 5
 ---
 # Simulation to Physical Robot Transition Factors

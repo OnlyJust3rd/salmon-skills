@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/career-workplace/employer-expectations/microskills/essential-employee-attributes|essential-employee-attributes]]"
+related-skills:
+  - "[[skills/business/career-workplace/employer-expectations/employer-expectations|employer-expectations]]"
 learning-time-in-minutes: 3
 ---
 # Essential Employee Attributes

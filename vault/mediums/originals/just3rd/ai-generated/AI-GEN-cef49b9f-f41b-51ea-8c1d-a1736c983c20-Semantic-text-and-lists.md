@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/frontend-development/html/microskills/semantic-text-and-lists|semantic-text-and-lists]]"
+related-skills:
+  - "[[skills/computing/software-engineering/frontend-development/html/html|html]]"
 learning-time-in-minutes: 4
 ---
 # Semantic Text and Lists in HTML

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/computer-graphics/curve-modeling/microskills/bezier-curve-principles|bezier-curve-principles]]"
+related-skills:
+  - "[[skills/digital-media/computer-graphics/curve-modeling/curve-modeling|curve-modeling]]"
 learning-time-in-minutes: 3
 ---
 # Bézier Curve Principles

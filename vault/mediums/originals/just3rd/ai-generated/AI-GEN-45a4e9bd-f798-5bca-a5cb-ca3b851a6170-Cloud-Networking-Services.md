@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/cloud-networking-services|cloud-networking-services]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/cloud-networking|cloud-networking]]"
 learning-time-in-minutes: 3
 ---
 # Configuring Cloud Network Components

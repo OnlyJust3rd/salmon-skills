@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/efficiency-definition|efficiency-definition]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/parallel-performance-analysis|parallel-performance-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Parallel Computing Efficiency

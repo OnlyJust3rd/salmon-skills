@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/delivery-platforms/gitops/microskills/kubernetes-application-deployment-automation|kubernetes-application-deployment-automation]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/gitops/gitops|gitops]]"
 learning-time-in-minutes: 4
 ---
 # Automating Kubernetes Deployments with GitOps

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[extractive-summarization-principles|extractive-summarization-principles]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-science/unstructured-data/text/text-summarization/text-summarization|text-summarization]]"
 learning-time-in-minutes: 4
 ---
 # Extractive Summarization: The Art of Picking the Best Sentences

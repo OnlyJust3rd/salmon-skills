@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/amdahl-s-law-principles|amdahl-s-law-principles]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/parallel-performance-analysis|parallel-performance-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Amdahl's Law: The Ceiling on Speedup

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[pattern-consistency|pattern-consistency]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/design-systems/design-systems|design-systems]]"
 learning-time-in-minutes: 6
 ---
 # Pattern Consistency: The Backbone of Predictable Interfaces

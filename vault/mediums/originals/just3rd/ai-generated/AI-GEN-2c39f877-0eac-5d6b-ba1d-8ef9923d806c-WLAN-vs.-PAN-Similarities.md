@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[wlan-vs-pan-similarities|wlan-vs-pan-similarities]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/wireless-networks/wireless-networks|wireless-networks]]"
 learning-time-in-minutes: 4
 ---
 # WLAN vs. PAN Similarities

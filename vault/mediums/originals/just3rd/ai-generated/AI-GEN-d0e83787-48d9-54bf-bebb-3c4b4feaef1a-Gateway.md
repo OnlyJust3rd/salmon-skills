@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-practices/business-process-modeling/microskills/gateway|gateway]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-practices/business-process-modeling/business-process-modeling|business-process-modeling]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Gateways in BPMN

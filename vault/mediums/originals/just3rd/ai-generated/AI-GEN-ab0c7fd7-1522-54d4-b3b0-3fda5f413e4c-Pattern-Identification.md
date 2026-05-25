@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/data-ai/data-engineering-platforms/exploratory-data-analysis/microskills/pattern-identification|pattern-identification]]"
+related-skills:
+  - "[[skills/computing/data-ai/data-engineering-platforms/exploratory-data-analysis/exploratory-data-analysis|exploratory-data-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Identifying Patterns in Data

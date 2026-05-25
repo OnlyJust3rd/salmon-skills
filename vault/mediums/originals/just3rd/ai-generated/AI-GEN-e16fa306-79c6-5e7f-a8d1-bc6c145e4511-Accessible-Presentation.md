@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/frontend-development/web-accessibility/microskills/accessible-presentation|accessible-presentation]]"
+related-skills:
+  - "[[skills/computing/software-engineering/frontend-development/web-accessibility/web-accessibility|web-accessibility]]"
 learning-time-in-minutes: 6
 ---
 # Accessible Presentation: Making Content Readable and Understandable

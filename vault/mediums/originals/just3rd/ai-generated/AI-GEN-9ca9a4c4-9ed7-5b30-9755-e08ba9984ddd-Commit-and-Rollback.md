@@ -1,12 +1,14 @@
 ---
-type: "medium"
+type: medium
 title: "Mastering Commit and Rollback: Completing or Undoing Database Work"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/commit-and-rollback|commit-and-rollback]]"
+  - "[[commit-and-rollback|commit-and-rollback]]"
+related-skills:
+  - "[[database-systems|database-systems]]"
 learning-time-in-minutes: 4
 ---
 # Mastering Commit and Rollback: Completing or Undoing Database Work
@@ -102,4 +104,4 @@ Write the SQL pseudocode to perform this task, including both the `COMMIT` and `
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/commit-and-rollback|Commit and Rollback]]
+- [[commit-and-rollback|Commit and Rollback]]

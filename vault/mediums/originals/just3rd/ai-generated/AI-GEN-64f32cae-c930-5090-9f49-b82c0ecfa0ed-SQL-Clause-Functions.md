@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Understanding SQL Clause Functions"
+type: medium
+title: Understanding SQL Clause Functions
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-clause-functions|sql-clause-functions]]"
+  - "[[sql-clause-functions|sql-clause-functions]]"
+related-skills:
+  - "[[sql|sql]]"
 learning-time-in-minutes: 3
 ---
 # Understanding SQL Clause Functions
@@ -127,4 +129,4 @@ Mastering these fundamental SQL clauses is your first step towards effective dat
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-clause-functions|SQL Clause Functions]]
+- [[sql-clause-functions|SQL Clause Functions]]

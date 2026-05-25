@@ -135,7 +135,7 @@ icon: LiWaypoints
 		- [[consistency]]
 		- [[consistent-hashing]]
 		- [[data-partitioning]]
-		- [[database-indexing]]
+		- [[skills/computing/systems-infrastructure/system-design/microskills/database-indexing]]
 		- [[directory-based-partitioning]]
 		- [[distributed-system-purpose]]
 		- [[hash-based-partitioning]]

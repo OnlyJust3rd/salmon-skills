@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/slurm-job-scheduler-recognition|slurm-job-scheduler-recognition]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/hpc-cluster-management|hpc-cluster-management]]"
 learning-time-in-minutes: 3
 ---
 # Recognizing Slurm: Your HPC Job Scheduler

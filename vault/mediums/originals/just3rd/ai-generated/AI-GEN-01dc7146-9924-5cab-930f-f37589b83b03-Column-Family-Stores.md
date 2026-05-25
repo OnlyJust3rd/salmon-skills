@@ -6,7 +6,9 @@ tags:
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/column-family-stores|column-family-stores]]"
+  - "[[column-family-stores|column-family-stores]]"
+related-skills:
+  - "[[nosql-database-system|nosql-database-system]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Column-Family Stores
@@ -87,4 +89,4 @@ Column-family stores offer a powerful way to manage large, flexible datasets. By
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/column-family-stores|Column-Family Stores]]
+- [[column-family-stores|Column-Family Stores]]

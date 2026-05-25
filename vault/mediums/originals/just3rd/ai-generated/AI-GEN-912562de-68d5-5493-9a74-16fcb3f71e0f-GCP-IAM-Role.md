@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-iam-role|gcp-iam-role]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/google-cloud-platform|google-cloud-platform]]"
 learning-time-in-minutes: 4
 ---
 # Applying GCP IAM Roles: A Practical Guide

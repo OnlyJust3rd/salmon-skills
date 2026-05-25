@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/computer-science/algorithms/algorithm-representation/microskills/flowchart-symbol-recognition|flowchart-symbol-recognition]]"
+related-skills:
+  - "[[skills/computing/computer-science/algorithms/algorithm-representation/algorithm-representation|algorithm-representation]]"
 learning-time-in-minutes: 2
 ---
 # Flowchart Symbol Recognition

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/leadership-style-impact|leadership-style-impact]]"
+related-skills:
+  - "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/legal-and-organizational-foundations|legal-and-organizational-foundations]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Influence of Leadership Style on Organizational Dynamics

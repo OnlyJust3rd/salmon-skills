@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[core-socket-operations|core-socket-operations]]"
+related-skills:
+  - "[[skills/computing/systems-infrastructure/computer-network/application-layers/socket-programming/socket-programming|socket-programming]]"
 learning-time-in-minutes: 4
 ---
 # Core Socket Operations

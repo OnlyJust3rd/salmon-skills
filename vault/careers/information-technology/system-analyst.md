@@ -13,8 +13,8 @@ required-competencies:
   - "[[skills/computing/software-engineering/software-practices/uml-modeling/competencies/L2-apply-uml-for-system-modeling|L2-apply-uml-for-system-modeling]]"
   - "[[skills/computing/software-engineering/software-practices/business-process-modeling/competencies/L1-explain-business-process-modeling-concepts|L1-explain-business-process-modeling-concepts]]"
   - "[[skills/computing/software-engineering/software-practices/business-process-modeling/competencies/L2-apply-bpmn-process-modeling|L2-apply-bpmn-process-modeling]]"
-  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/competencies/L1-explain-web-db-architecture|L1-explain-web-db-architecture]]"
-  - "[[skills/computing/data-ai/databases/relational-databases/sql/competencies/L1-explain-sql-clauses-and-syntax|L1-explain-sql-clauses-and-syntax]]"
+  - "[[L1-explain-web-db-architecture|L1-explain-web-db-architecture]]"
+  - "[[L1-explain-sql-clauses-and-syntax|L1-explain-sql-clauses-and-syntax]]"
   - "[[L2-define-user-requirements|L2-define-user-requirements]]"
   - "[[skills/professional-practice/engineering-practices/technical-communication/competencies/L1-define-and-communicate-technical-reports|L1-define-and-communicate-technical-reports]]"
   - "[[skills/computing/software-engineering/software-practices/project-management/competencies/L2-develop-and-manage-basic-project-plan|L2-develop-and-manage-basic-project-plan]]"
@@ -43,8 +43,8 @@ A System Analyst is an entry-level information technology role focused on applyi
 - [[skills/computing/software-engineering/software-practices/uml-modeling/competencies/L2-apply-uml-for-system-modeling|L3- Apply UML for System Modeling]]
 - [[skills/computing/software-engineering/software-practices/business-process-modeling/competencies/L1-explain-business-process-modeling-concepts|L2- Explain Business Process Modeling Concepts]]
 - [[skills/computing/software-engineering/software-practices/business-process-modeling/competencies/L2-apply-bpmn-process-modeling|L3- Apply BPMN Process Modeling]]
-- [[skills/computing/data-ai/databases/database-foundations/database-systems/competencies/L1-explain-web-db-architecture|L2- Explain Web-DB Architecture]]
-- [[skills/computing/data-ai/databases/relational-databases/sql/competencies/L1-explain-sql-clauses-and-syntax|L2- Explain SQL Clauses and Syntax]]
+- [[L1-explain-web-db-architecture|L2- Explain Web-DB Architecture]]
+- [[L1-explain-sql-clauses-and-syntax|L2- Explain SQL Clauses and Syntax]]
 - [[L2-define-user-requirements|L3- Define User Requirements]]
 - [[skills/professional-practice/engineering-practices/technical-communication/competencies/L1-define-and-communicate-technical-reports|L1- Define and Communicate Technical Reports]]
 - [[skills/computing/software-engineering/software-practices/project-management/competencies/L2-develop-and-manage-basic-project-plan|L3- Develop and Manage Basic Project Plan]]

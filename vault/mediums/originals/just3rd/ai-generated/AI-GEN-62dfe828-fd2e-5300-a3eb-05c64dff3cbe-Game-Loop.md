@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/digital-media/game-development/game-engine-architecture/microskills/game-loop|game-loop]]"
+related-skills:
+  - "[[skills/digital-media/game-development/game-engine-architecture/game-engine-architecture|game-engine-architecture]]"
 learning-time-in-minutes: 5
 ---
 # The Game Loop: The Heartbeat of Your Game

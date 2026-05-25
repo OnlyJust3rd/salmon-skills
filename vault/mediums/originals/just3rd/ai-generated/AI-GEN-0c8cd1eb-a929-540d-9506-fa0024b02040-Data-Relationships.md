@@ -1,12 +1,14 @@
 ---
-type: "medium"
-title: "Understanding Data Relationships in Databases"
+type: medium
+title: Understanding Data Relationships in Databases
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/data-relationships|data-relationships]]"
+  - "[[data-relationships|data-relationships]]"
+related-skills:
+  - "[[database-systems|database-systems]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Data Relationships in Databases
@@ -78,4 +80,4 @@ Imagine you are designing a database for an online store. You need to store info
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/data-relationships|Data Relationships]]
+- [[data-relationships|Data Relationships]]

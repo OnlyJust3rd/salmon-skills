@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/backend-development/backend-web-api-concept/microskills/domain-and-service-layer|domain-and-service-layer]]"
+related-skills:
+  - "[[skills/computing/software-engineering/backend-development/backend-web-api-concept/backend-web-api-concept|backend-web-api-concept]]"
 learning-time-in-minutes: 3
 ---
 # The Domain and Service Layers: Where Business Logic Lives

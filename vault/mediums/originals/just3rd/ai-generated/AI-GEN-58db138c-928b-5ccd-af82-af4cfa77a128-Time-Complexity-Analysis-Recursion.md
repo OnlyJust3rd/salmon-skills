@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/mathematics/discrete-math/proof-techniques/microskills/time-complexity-analysis-recursion|time-complexity-analysis-recursion]]"
+related-skills:
+  - "[[skills/mathematics/discrete-math/proof-techniques/proof-techniques|proof-techniques]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing the Time Complexity of Recursive Algorithms

@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[skills/computing/software-engineering/software-practices/business-process-modeling/microskills/decision-point|decision-point]]"
+related-skills:
+  - "[[skills/computing/software-engineering/software-practices/business-process-modeling/business-process-modeling|business-process-modeling]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Decision Points in Business Processes

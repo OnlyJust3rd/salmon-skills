@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[promises-and-async-functions|promises-and-async-functions]]"
+related-skills:
+  - "[[skills/computing/programming/programming-languages/javascript/javascript|javascript]]"
 learning-time-in-minutes: 3
 ---
 # Promises and Async Functions: Chaining Asynchronous Results

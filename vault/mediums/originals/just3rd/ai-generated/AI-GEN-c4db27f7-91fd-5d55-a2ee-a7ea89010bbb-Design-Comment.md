@@ -7,6 +7,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[design-comment|design-comment]]"
+related-skills:
+  - "[[skills/digital-media/ux-ui-design/figma/figma|figma]]"
 learning-time-in-minutes: 4
 ---
 # Capturing Collaboration Feedback: Figma's Design Comment Feature
