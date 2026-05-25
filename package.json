@@ -14,7 +14,12 @@
     "dev:explorer": "pnpm --filter @salmon/explorer dev",
     "graph": "pnpm --filter @salmon/vault-parser graph",
     "lint": "pnpm --recursive --if-present lint",
+    "prepare": "husky",
     "test": "pnpm --recursive --if-present test",
     "validate": "pnpm --filter @salmon/vault-parser validate"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "pnpm": "10.23.0"
   }
 }
