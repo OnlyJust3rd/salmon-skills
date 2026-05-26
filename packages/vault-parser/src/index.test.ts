@@ -268,9 +268,11 @@ test('parseVault only parses default target folders', async () => {
   try {
     await mkdir(path.join(vaultRoot, 'skills'), { recursive: true })
     await mkdir(path.join(vaultRoot, 'contributors'), { recursive: true })
+    await mkdir(path.join(vaultRoot, 'practice', 'simulator'), { recursive: true })
     await mkdir(path.join(vaultRoot, 'ontology'), { recursive: true })
     await writeFile(path.join(vaultRoot, 'skills', 'a.md'), '# A', 'utf8')
     await writeFile(path.join(vaultRoot, 'contributors', 'just3rd.md'), '# just3rd', 'utf8')
+    await writeFile(path.join(vaultRoot, 'practice', 'simulator', 'system-load-simulator.md'), '# Simulator', 'utf8')
     await writeFile(path.join(vaultRoot, 'README.md'), '# Root', 'utf8')
     await writeFile(path.join(vaultRoot, 'ontology', 'schema.md'), '# Schema', 'utf8')
 
@@ -278,7 +280,7 @@ test('parseVault only parses default target folders', async () => {
 
     assert.deepEqual(
       graph.nodes.map((node) => node.id),
-      ['contributors/just3rd', 'skills/a'],
+      ['contributors/just3rd', 'practice/simulator/system-load-simulator', 'skills/a'],
     )
   } finally {
     await rm(vaultRoot, { recursive: true, force: true })
@@ -549,6 +551,24 @@ test('validateGraph accepts optional medium source folder structure', () => {
       path: 'mediums/youtube/example.md',
       content:
         '---\ntype: "medium"\ntitle: "Example"\ntags: []\ncontributor: "[[contributors/just3rd|just3rd]]"\nlearning-outcomes: []\nlearning-time-in-minutes: 5\n---\n# Example',
+    },
+    {
+      path: 'contributors/just3rd.md',
+      content: '---\ntype: "contributor"\ntitle: "just3rd"\ntags: []\n---\n# just3rd',
+    },
+  ])
+
+  const result = validateGraph(graph)
+
+  assert.equal(result.valid, true)
+})
+
+test('validateGraph accepts medium notes under practice', () => {
+  const graph = parseVaultEntries([
+    {
+      path: 'practice/simulator/system-load-simulator.md',
+      content:
+        '---\ntype: "medium"\ntitle: "System Load Simulator"\ntags: []\ncontributor: "[[contributors/just3rd|just3rd]]"\nlearning-outcomes: []\nlearning-time-in-minutes: 30\n---\n# System Load Simulator',
     },
     {
       path: 'contributors/just3rd.md',

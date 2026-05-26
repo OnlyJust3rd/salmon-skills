@@ -9,11 +9,12 @@ icon: LiWaypoints
 skills folder
 
 %% Begin Waypoint %%
-- **appliences**
+- **appliances**
 - **[[business]]**
 - **[[computing]]**
 - **[[digital-media]]**
 - **[[mathematics]]**
 - **[[professional-practice]]**
+- **[[vocational]]**
 
 %% End Waypoint %%

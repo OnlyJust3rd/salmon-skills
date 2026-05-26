@@ -26,7 +26,7 @@ This note defines validation rules. It should not store one-time audit totals.
 - Career notes must live under `vault/careers/`.
 - Skill notes must follow the leaf skill folder pattern in [[folder-conventions#Skills|Skills]].
 - Contributor notes must live under `vault/contributors/`.
-- Medium notes should live under `vault/mediums/`.
+- Medium notes should live under `vault/mediums/` or `vault/practice/`.
 - Ontology notes must not be mixed into content folders.
 
 ## Skill Structure Rules
@@ -65,9 +65,9 @@ Rules:
 
 ## Medium Rules
 
-Learning-medium notes should be typed as `medium` when they are part of the graph.
+Learning-medium and practice notes should be typed as `medium` when they are part of the graph.
 
-Medium notes should live at `vault/mediums/<medium-type>/<source>/<medium-slug>.md`, where the type captures the format or origin and the source captures the provider, publisher, channel, repository owner, or generating contributor.
+Medium notes usually live at `vault/mediums/<medium-type>/<source>/<medium-slug>.md`, where the type captures the format or origin and the source captures the provider, publisher, channel, repository owner, or generating contributor. Applied practice notes live at `vault/practice/<practice-kind>/<practice-slug>.md` and reuse the same frontmatter schema.
 
 Recommended minimum frontmatter:
 

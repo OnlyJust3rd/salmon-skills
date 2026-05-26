@@ -55,7 +55,7 @@ Use lowercase entity type values (`skill`, `competency`, `microskill`) when the 
 
 ## Add A Medium
 
-1. Place at `vault/mediums/<medium-type>/<source>/<medium-slug>.md`.
+1. Place reference/content media at `vault/mediums/<medium-type>/<source>/<medium-slug>.md`, or applied practice media at `vault/practice/<practice-kind>/<practice-slug>.md`.
 2. Set `contributor` to one contributor wikilink.
 3. Set `learning-outcomes` to one or more most-specific competency or microskill wikilinks.
 4. Estimate `learning-time-in-minutes` as a positive integer.

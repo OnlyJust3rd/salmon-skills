@@ -41,7 +41,7 @@ If validation is unavailable, manually check required frontmatter, expected body
 - Microskill: `vault/skills/<taxonomy-path>/<skill-slug>/microskills/<microskill-slug>.md`
 - Career: `vault/careers/<domain-or-focus-area>/<career-slug>.md`
 - Course: `vault/courses/<institution>/<catalog-or-version>/<course-slug>.md`
-- Medium: `vault/mediums/<medium-type>/<source>/<medium-slug>.md`
+- Medium: `vault/mediums/<medium-type>/<source>/<medium-slug>.md` or `vault/practice/<practice-kind>/<practice-slug>.md`
 - Contributor: `vault/contributors/<contributor-slug>.md`
 
 ## Safety

@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiWrench",
       "LiWaypoints",
       "SiMdnwebdocs",
       "SiApachecassandra",
@@ -29,8 +30,7 @@
       "LiBookOpen",
       "LiSchool2",
       "LiLayoutTemplate",
-      "LiCpu",
-      "LiZap"
+      "LiCpu"
     ],
     "recentlyUsedIconsSize": 25,
     "rules": [
@@ -17498,5 +17498,183 @@
   },
   "skills/computing/systems-infrastructure/database-system/nosql-databases/key-value-databases/redis/microskills/redis-data-structures.md": {
     "iconName": "LiBoxes"
+  },
+  "practice/practice.md": {
+    "iconName": "LiWaypoints"
+  },
+  "practice/simulator/simulator.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/vocational/vocational.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/vocational/appliance-repair/appliance-repair.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/vocational/automotive/automotive.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/vocational/electrical/electrical.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/vocational/general-technician/general-technician.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/vocational/hvac/hvac.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/vocational/plumbing/plumbing.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/vocational/appliance-repair/refrigerator-repair/refrigerator-repair.md": {
+    "iconName": "LiZap"
+  },
+  "skills/vocational/automotive/basic-car-maintenance/basic-car-maintenance.md": {
+    "iconName": "LiZap"
+  },
+  "skills/vocational/electrical/lighting-installation/lighting-installation.md": {
+    "iconName": "LiZap"
+  },
+  "skills/vocational/general-technician/tool-use-and-safety/tool-use-and-safety.md": {
+    "iconName": "LiZap"
+  },
+  "skills/vocational/hvac/air-conditioning/air-conditioning.md": {
+    "iconName": "LiZap"
+  },
+  "skills/vocational/plumbing/basic-plumbing-repair/basic-plumbing-repair.md": {
+    "iconName": "LiZap"
+  },
+  "skills/vocational/appliance-repair/refrigerator-repair/competencies/L1-recognize-refrigerator-systems.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/vocational/appliance-repair/refrigerator-repair/competencies/L2-diagnose-basic-refrigerator-cooling-problems.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/vocational/appliance-repair/refrigerator-repair/microskills/airflow-obstruction-check.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/appliance-repair/refrigerator-repair/microskills/compressor-role.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/appliance-repair/refrigerator-repair/microskills/condenser-coil-cleaning.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/appliance-repair/refrigerator-repair/microskills/door-gasket-inspection.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/appliance-repair/refrigerator-repair/microskills/thermostat-diagnosis.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/automotive/basic-car-maintenance/competencies/L1-recognize-car-maintenance-systems.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/vocational/automotive/basic-car-maintenance/competencies/L2-perform-basic-car-maintenance-checks.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/vocational/automotive/basic-car-maintenance/microskills/air-filter-inspection.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/automotive/basic-car-maintenance/microskills/battery-terminal-inspection.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/automotive/basic-car-maintenance/microskills/brake-fluid-check.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/automotive/basic-car-maintenance/microskills/engine-oil-check.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/automotive/basic-car-maintenance/microskills/tire-pressure-check.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/electrical/lighting-installation/competencies/L1-recognize-lighting-circuit-components.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/vocational/electrical/lighting-installation/competencies/L2-explain-safe-lighting-installation.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/vocational/electrical/lighting-installation/microskills/circuit-breaker-safety.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/electrical/lighting-installation/microskills/fixture-mounting.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/electrical/lighting-installation/microskills/grounding-purpose.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/electrical/lighting-installation/microskills/switch-wiring-basics.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/electrical/lighting-installation/microskills/wire-connection-methods.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/general-technician/tool-use-and-safety/competencies/L1-recognize-common-technician-tools.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/vocational/general-technician/tool-use-and-safety/competencies/L2-apply-basic-tool-safety-practices.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/vocational/general-technician/tool-use-and-safety/microskills/hand-tool-identification.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/general-technician/tool-use-and-safety/microskills/lockout-awareness.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/general-technician/tool-use-and-safety/microskills/measurement-tool-use.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/general-technician/tool-use-and-safety/microskills/power-tool-safety.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/general-technician/tool-use-and-safety/microskills/ppe-selection.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/hvac/air-conditioning/competencies/L1-recognize-air-conditioning-components.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/vocational/hvac/air-conditioning/competencies/L2-explain-how-air-conditioner-works.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/vocational/hvac/air-conditioning/microskills/compressor-function.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/hvac/air-conditioning/microskills/condenser-function.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/hvac/air-conditioning/microskills/evaporator-function.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/hvac/air-conditioning/microskills/expansion-valve-function.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/hvac/air-conditioning/microskills/refrigeration-cycle.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/hvac/air-conditioning/microskills/thermostat-control.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/plumbing/basic-plumbing-repair/competencies/L1-recognize-basic-plumbing-components.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/vocational/plumbing/basic-plumbing-repair/microskills/drain-trap-purpose.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/plumbing/basic-plumbing-repair/microskills/fixture-seal-basics.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/plumbing/basic-plumbing-repair/competencies/L2-diagnose-common-plumbing-leaks.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/vocational/plumbing/basic-plumbing-repair/microskills/leak-source-identification.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/plumbing/basic-plumbing-repair/microskills/pipe-fitting-types.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational/plumbing/basic-plumbing-repair/microskills/shutoff-valve-use.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/vocational": "LiWrench",
+  "mediums/youtube/sabin-civil/sabin-civil.md": {
+    "iconName": "LiWaypoints"
   }
 }

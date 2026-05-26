@@ -57,6 +57,7 @@ Use this folder for:
 - Skill notes.
 - Competency notes.
 - Microskill notes.
+- Vocational technician, repair, installation, and hands-on trade skills.
 
 Expected pattern:
 
@@ -80,6 +81,7 @@ Rules:
 - Competency filenames use their `miller-level` as the `L<miller-level>-` prefix.
 - Competencies describe assessable learning outcomes.
 - Microskills describe focused knowledge, techniques, or behaviors that support competencies.
+- Vocational skills live under `skills/vocational/` for hands-on technician domains such as HVAC, electrical, plumbing, automotive, appliance repair, and general technician safety.
 
 ### `contributors/`
 
@@ -99,14 +101,13 @@ contributors/<contributor-slug>.md
 
 ### `mediums/`
 
-Learning content artifacts live here. These notes explain, demonstrate, or practice material from the skill graph.
+Learning reference and content artifacts live here. These notes explain or demonstrate material from the skill graph.
 
 Use this folder for:
 
 - Generated explanations.
 - Examples.
 - Lessons.
-- Practice material.
 - Other learning artifacts connected to skills, competencies, or microskills.
 
 Expected pattern:
@@ -116,6 +117,18 @@ mediums/<medium-type>/<source>/<medium-slug>.md
 ```
 
 `<medium-type>` is the format or origin, such as `youtube`, `course`, `doc`, `book`, `article`, `github`, `roadmap`, or `ai-generated`. `<source>` is the provider, publisher, channel, repository owner, or generating contributor slug. Medium notes use `type: "medium"`, name one `contributor`, and list `learning-outcomes` as wikilinks to competency or microskill notes. Use optional `related-skills` links for broad skill coverage. Medium notes also include `learning-time-in-minutes` as a positive integer estimate.
+
+### `practice/`
+
+Applied learning artifacts live here. These notes help learners use knowledge through simulators, quizzes, projects, drills, and interactive exercises.
+
+Expected pattern:
+
+```text
+practice/<practice-kind>/<practice-slug>.md
+```
+
+Practice notes reuse `type: "medium"` and the medium properties so they can connect to `learning-outcomes`, `related-skills`, contributors, and graph views.
 
 ### `ontology/`
 
@@ -143,7 +156,7 @@ Use this folder for:
 - Project documentation.
 - Process notes.
 - Import or generation instructions.
-- Human-facing reference material that does not belong in `courses/`, `careers/`, `skills/`, `mediums/`, or `ontology/`.
+- Human-facing reference material that does not belong in `courses/`, `careers/`, `skills/`, `mediums/`, `practice/`, or `ontology/`.
 
 ### `.obsidian/`
 

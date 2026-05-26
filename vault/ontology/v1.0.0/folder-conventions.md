@@ -21,6 +21,7 @@ vault/
   skills/
   contributors/
   mediums/
+  practice/
   ontology/
   docs/
 ```
@@ -31,7 +32,8 @@ Rules:
 - Use `careers/` for career profile notes.
 - Use `skills/` for skills, competencies, and microskills.
 - Use `contributors/` for contributor notes.
-- Use `mediums/` for learning content artifacts.
+- Use `mediums/` for reference and content learning artifacts.
+- Use `practice/` for applied learning artifacts such as simulators, quizzes, projects, drills, and interactive exercises.
 - Use `ontology/` only for schema and rule notes.
 
 ## Courses
@@ -81,7 +83,8 @@ Rules:
 - A Waypoint folder note must contain a Waypoint marker comment.
 - Do not require Waypoint notes inside skill content folders: `<skill-name>/`, `<skill-name>/competencies/`, or `<skill-name>/microskills/`.
 - Skill classification is path-only. Do not add taxonomy-like frontmatter such as `domain`, `subdomain`, `capability-area`, `skill-kind`, `source-path`, or `migration-status`.
-- Current top-level skill folders are `business/`, `computing/`, `digital-media/`, `mathematics/`, and `professional-practice/`. Add future top-level domains only when real content exists.
+- Current top-level skill folders are `appliances/`, `business/`, `computing/`, `digital-media/`, `mathematics/`, `professional-practice/`, and `vocational/`. Add future top-level domains only when real content exists.
+- Vocational skills should live under `vocational/`, using branches such as `hvac/`, `electrical/`, `plumbing/`, `automotive/`, `appliance-repair/`, and `general-technician/`.
 - Computing skills should live under one of `computing/computer-science/`, `computing/programming/`, `computing/software-engineering/`, `computing/systems-infrastructure/`, `computing/data-ai/`, `computing/security-privacy/`, or `computing/hardware-embedded/`.
 - Programming language and language-agnostic coding skills should live under `computing/programming/`, using branches such as `programming-languages/`, `programming-principles/`, `programming-paradigms/`, and `code-quality/`.
 - Applied software construction skills should live under direct `computing/software-engineering/` branches such as `frontend-development/`, `backend-development/`, and `mobile-development/`.
@@ -110,7 +113,7 @@ Rules:
 
 ## Mediums
 
-Learning media live under:
+Reference and content learning media live under:
 
 ```text
 vault/mediums/<medium-type>/<source>/<medium-slug>.md
@@ -125,6 +128,21 @@ Rules:
 - Medium notes should set `learning-outcomes` to the `microskill` or `competency` notes they teach or support.
 - Medium notes may set `related-skills` to broad `skill` notes for discovery and browsing.
 - Medium notes should estimate `learning-time-in-minutes` as a positive integer.
+
+## Practice
+
+Applied learning media live under:
+
+```text
+vault/practice/<practice-kind>/<practice-slug>.md
+```
+
+Rules:
+
+- Practice notes should use `type: "medium"` and the same properties as medium notes.
+- `<practice-kind>` is the activity format, such as `simulator`, `quiz`, `project`, `drill`, or `interactive`.
+- Practice notes should set `learning-outcomes` to the competency or microskill notes the activity helps learners apply.
+- Practice notes may set `related-skills` to broad `skill` notes for discovery and browsing.
 
 ## Bases
 

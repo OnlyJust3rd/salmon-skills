@@ -80,6 +80,7 @@ const DEFAULT_PARSE_TARGETS = [
   "careers",
   "courses",
   "mediums",
+  "practice",
   "contributors",
 ];
 const ENTITY_REQUIRED_PROPERTIES = {
@@ -705,8 +706,8 @@ function validateNodeLocation(
     issues.push(makeIssue("INVALID_LOCATION", "`contributor` notes must live under `contributors/`.", node));
   }
 
-  if (type === "medium" && !node.path.startsWith("mediums/")) {
-    issues.push(makeIssue("INVALID_LOCATION", "`medium` notes must live under `mediums/`.", node));
+  if (type === "medium" && !node.path.startsWith("mediums/") && !node.path.startsWith("practice/")) {
+    issues.push(makeIssue("INVALID_LOCATION", "`medium` notes must live under `mediums/` or `practice/`.", node));
   }
 
   if (type === "skill" && !isSkillNotePath(node.path)) {
