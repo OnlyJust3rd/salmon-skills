@@ -8,7 +8,7 @@ contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[schema-construction|schema-construction]]"
 related-skills:
-  - "[[skills/computing/data-ai/database-system/relational-databases/mysql/mysql|mysql]]"
+  - "[[skills/computing/systems-infrastructure/database-system/relational-databases/mysql/mysql|mysql]]"
 learning-time-in-minutes: 4
 ---
 # Schema Construction: Building Your Database Foundation

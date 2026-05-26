@@ -1,15 +1,15 @@
 ---
 type: medium
-title: "MDN Server-Side Database-Driven Websites"
+title: MDN Server-Side Database-Driven Websites
 tags:
   - medium
   - docs
   - web-database-architecture
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/database-system/database-foundations/database-systems/competencies/L1-explain-web-db-architecture|L1-explain-web-db-architecture]]"
+  - "[[L1-explain-web-db-architecture|L1-explain-web-db-architecture]]"
 related-skills:
-  - "[[skills/computing/data-ai/database-system/database-foundations/database-systems/database-systems|database-systems]]"
+  - "[[database-systems|database-systems]]"
 learning-time-in-minutes: 60
 ---
 
@@ -19,7 +19,7 @@ MDN explains dynamic server-side websites, where a web application combines HTTP
 
 ## Learning Outcomes
 
-- [[skills/computing/data-ai/database-system/database-foundations/database-systems/competencies/L1-explain-web-db-architecture|L1-explain-web-db-architecture]]
+- [[L1-explain-web-db-architecture|L1-explain-web-db-architecture]]
 
 ## Notes
 

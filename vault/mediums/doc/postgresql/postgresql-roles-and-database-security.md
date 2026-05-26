@@ -1,6 +1,6 @@
 ---
 type: medium
-title: "PostgreSQL Roles and Database Security"
+title: PostgreSQL Roles and Database Security
 tags:
   - medium
   - docs
@@ -8,11 +8,11 @@ tags:
   - database-security
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/database-system/database-practices/database-security/competencies/L2-apply-database-security-controls|L2-apply-database-security-controls]]"
-  - "[[skills/computing/data-ai/database-system/relational-databases/postgresql/competencies/L2-use-postgresql-for-relational-data-storage|L2-use-postgresql-for-relational-data-storage]]"
+  - "[[L2-apply-database-security-controls|L2-apply-database-security-controls]]"
+  - "[[L2-use-postgresql-for-relational-data-storage|L2-use-postgresql-for-relational-data-storage]]"
 related-skills:
-  - "[[skills/computing/data-ai/database-system/database-practices/database-security/database-security|database-security]]"
-  - "[[skills/computing/data-ai/database-system/relational-databases/postgresql/postgresql|postgresql]]"
+  - "[[database-security|database-security]]"
+  - "[[skills/computing/systems-infrastructure/database-system/relational-databases/postgresql/postgresql|postgresql]]"
 learning-time-in-minutes: 160
 ---
 
@@ -22,8 +22,8 @@ PostgreSQL role management documentation explains users, groups, ownership, priv
 
 ## Learning Outcomes
 
-- [[skills/computing/data-ai/database-system/database-practices/database-security/competencies/L2-apply-database-security-controls|L2-apply-database-security-controls]]
-- [[skills/computing/data-ai/database-system/relational-databases/postgresql/competencies/L2-use-postgresql-for-relational-data-storage|L2-use-postgresql-for-relational-data-storage]]
+- [[L2-apply-database-security-controls|L2-apply-database-security-controls]]
+- [[L2-use-postgresql-for-relational-data-storage|L2-use-postgresql-for-relational-data-storage]]
 
 ## Notes
 

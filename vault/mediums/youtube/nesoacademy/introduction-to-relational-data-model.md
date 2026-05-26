@@ -1,6 +1,6 @@
 ---
 type: medium
-title: "Introduction to Relational Data Model"
+title: Introduction to Relational Data Model
 tags:
   - medium
   - youtube
@@ -8,10 +8,10 @@ tags:
   - dbms
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/database-system/relational-databases/relational-model/competencies/L2-apply-relational-model-principles|L2-apply-relational-model-principles]]"
+  - "[[L2-apply-relational-model-principles|L2-apply-relational-model-principles]]"
 related-skills:
-  - "[[skills/computing/data-ai/database-system/relational-databases/relational-model/relational-model|relational-model]]"
-  - "[[skills/computing/data-ai/database-system/relational-databases/relational-database/relational-database|relational-database]]"
+  - "[[relational-model|relational-model]]"
+  - "[[relational-database|relational-database]]"
 learning-time-in-minutes: 10
 source: https://www.youtube.com/@nesoacademy
 ---
@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=Q45sr5p_NmQ
 
 ## Learning Outcomes
 
-- [[skills/computing/data-ai/database-system/relational-databases/relational-model/competencies/L2-apply-relational-model-principles|L2-apply-relational-model-principles]]
+- [[L2-apply-relational-model-principles|L2-apply-relational-model-principles]]
 
 ## Notes
 

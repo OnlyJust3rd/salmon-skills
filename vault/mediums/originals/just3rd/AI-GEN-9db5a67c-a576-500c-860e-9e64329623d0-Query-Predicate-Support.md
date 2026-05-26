@@ -8,7 +8,7 @@ contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[query-predicate-support|query-predicate-support]]"
 related-skills:
-  - "[[skills/computing/data-ai/database-system/database-performance/database-indexing/database-indexing|database-indexing]]"
+  - "[[skills/computing/systems-infrastructure/database-system/database-performance/database-indexing/database-indexing|database-indexing]]"
 learning-time-in-minutes: 3
 ---
 # Understanding How Indexes Support Query Predicates

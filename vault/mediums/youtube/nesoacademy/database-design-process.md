@@ -1,6 +1,6 @@
 ---
 type: medium
-title: "Database Design Process"
+title: Database Design Process
 tags:
   - medium
   - youtube
@@ -8,11 +8,11 @@ tags:
   - data-modeling
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/database-system/database-foundations/database-design/competencies/L2-design-database-schema-for-application-requirements|L2-design-database-schema-for-application-requirements]]"
-  - "[[skills/computing/data-ai/database-system/database-foundations/database-modeling/competencies/L2-model-database-entities-and-relationships|L2-model-database-entities-and-relationships]]"
+  - "[[L2-design-database-schema-for-application-requirements|L2-design-database-schema-for-application-requirements]]"
+  - "[[L2-model-database-entities-and-relationships|L2-model-database-entities-and-relationships]]"
 related-skills:
-  - "[[skills/computing/data-ai/database-system/database-foundations/database-design/database-design|database-design]]"
-  - "[[skills/computing/data-ai/database-system/database-foundations/database-modeling/database-modeling|database-modeling]]"
+  - "[[database-design|database-design]]"
+  - "[[database-modeling|database-modeling]]"
 learning-time-in-minutes: 12
 source: https://www.youtube.com/@nesoacademy
 ---
@@ -27,8 +27,8 @@ https://www.youtube.com/watch?v=7m6gXeMDaHc
 
 ## Learning Outcomes
 
-- [[skills/computing/data-ai/database-system/database-foundations/database-design/competencies/L2-design-database-schema-for-application-requirements|L2-design-database-schema-for-application-requirements]]
-- [[skills/computing/data-ai/database-system/database-foundations/database-modeling/competencies/L2-model-database-entities-and-relationships|L2-model-database-entities-and-relationships]]
+- [[L2-design-database-schema-for-application-requirements|L2-design-database-schema-for-application-requirements]]
+- [[L2-model-database-entities-and-relationships|L2-model-database-entities-and-relationships]]
 
 ## Notes
 

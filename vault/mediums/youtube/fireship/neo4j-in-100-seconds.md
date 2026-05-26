@@ -1,6 +1,6 @@
 ---
 type: medium
-title: "Neo4j in 100 Seconds"
+title: Neo4j in 100 Seconds
 tags:
   - medium
   - youtube
@@ -8,12 +8,12 @@ tags:
   - graph-database
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/database-system/nosql-databases/graph-databases/competencies/L2-model-and-query-graph-data|L2-model-and-query-graph-data]]"
-  - "[[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/competencies/L1-list-nosql-types|L1-list-nosql-types]]"
-  - "[[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/competencies/L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]"
+  - "[[L2-model-and-query-graph-data|L2-model-and-query-graph-data]]"
+  - "[[L1-list-nosql-types|L1-list-nosql-types]]"
+  - "[[L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]"
 related-skills:
-  - "[[skills/computing/data-ai/database-system/nosql-databases/graph-databases/graph-databases|graph-databases]]"
-  - "[[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/nosql-database-system|nosql-database-system]]"
+  - "[[skills/computing/systems-infrastructure/database-system/nosql-databases/graph-databases/graph-databases|graph-databases]]"
+  - "[[nosql-database-system|nosql-database-system]]"
 learning-time-in-minutes: 3
 source: https://www.youtube.com/@Fireship
 ---
@@ -28,9 +28,9 @@ https://www.youtube.com/watch?v=T6L9EoBy8Zk
 
 ## Learning Outcomes
 
-- [[skills/computing/data-ai/database-system/nosql-databases/graph-databases/competencies/L2-model-and-query-graph-data|L2-model-and-query-graph-data]]
-- [[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/competencies/L1-list-nosql-types|L1-list-nosql-types]]
-- [[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/competencies/L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]
+- [[L2-model-and-query-graph-data|L2-model-and-query-graph-data]]
+- [[L1-list-nosql-types|L1-list-nosql-types]]
+- [[L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]
 
 ## Notes
 

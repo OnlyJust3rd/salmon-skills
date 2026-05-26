@@ -1,6 +1,6 @@
 ---
 type: medium
-title: "Database System Architecture - Part 1"
+title: Database System Architecture - Part 1
 tags:
   - medium
   - youtube
@@ -8,9 +8,9 @@ tags:
   - dbms
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/database-system/database-foundations/database-systems/competencies/L1-explain-web-db-architecture|L1-explain-web-db-architecture]]"
+  - "[[L1-explain-web-db-architecture|L1-explain-web-db-architecture]]"
 related-skills:
-  - "[[skills/computing/data-ai/database-system/database-foundations/database-systems/database-systems|database-systems]]"
+  - "[[database-systems|database-systems]]"
 learning-time-in-minutes: 15
 source: https://www.youtube.com/@nesoacademy
 ---
@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=8_W5JT7Jz2Y
 
 ## Learning Outcomes
 
-- [[skills/computing/data-ai/database-system/database-foundations/database-systems/competencies/L1-explain-web-db-architecture|L1-explain-web-db-architecture]]
+- [[L1-explain-web-db-architecture|L1-explain-web-db-architecture]]
 
 ## Notes
 

@@ -116,6 +116,7 @@ icon: LiWaypoints
 			- [[wlan-vs-pan-differences]]
 			- [[wlan-vs-pan-similarities]]
 	- [[networking]]
+- **[[database-system]]**
 - **[[delivery-platforms]]**
 - **[[operations-reliability]]**
 - **[[system-administration]]**
@@ -135,7 +136,7 @@ icon: LiWaypoints
 		- [[consistency]]
 		- [[consistent-hashing]]
 		- [[data-partitioning]]
-		- [[skills/computing/systems-infrastructure/system-design/microskills/database-indexing]]
+		- [[database-indexing]]
 		- [[directory-based-partitioning]]
 		- [[distributed-system-purpose]]
 		- [[hash-based-partitioning]]

@@ -26,7 +26,7 @@ Database concepts focusing on design and implement an application with a databas
 - [[skills/computing/software-engineering/backend-development/application-database-integration/application-database-integration|Application Database Integration]]
 - [[database-systems|Database System]]
 - [[mongodb|MongoDB]]
-- [[skills/computing/data-ai/database-system/relational-databases/mysql/mysql|MySQL]]
+- [[skills/computing/systems-infrastructure/database-system/relational-databases/mysql/mysql|MySQL]]
 - [[nosql-database-system|NoSQL Database]]
 - [[relational-database|Relational Database]]
 - [[sql|SQL]]

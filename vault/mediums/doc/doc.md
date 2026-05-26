@@ -11,7 +11,7 @@ icon: LiWaypoints
 %% Begin Waypoint %%
 - **[[apache-cassandra]]**
 - **[[mdn]]**
-- **[[mysql]]**
-- **[[postgresql]]**
+- **[[mediums/doc/mysql/mysql]]**
+- **[[mediums/doc/postgresql/postgresql]]**
 
 %% End Waypoint %%

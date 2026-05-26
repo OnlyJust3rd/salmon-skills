@@ -1,6 +1,6 @@
 ---
 type: medium
-title: "NoSQL Explained in 4 Minutes"
+title: NoSQL Explained in 4 Minutes
 tags:
   - medium
   - youtube
@@ -8,12 +8,12 @@ tags:
   - database-types
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/competencies/L1-list-nosql-types|L1-list-nosql-types]]"
-  - "[[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/competencies/L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]"
-  - "[[skills/computing/data-ai/database-system/database-foundations/database-systems/competencies/L1-explain-relational-vs-nosql|L1-explain-relational-vs-nosql]]"
+  - "[[L1-list-nosql-types|L1-list-nosql-types]]"
+  - "[[L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]"
+  - "[[L1-explain-relational-vs-nosql|L1-explain-relational-vs-nosql]]"
 related-skills:
-  - "[[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/nosql-database-system|nosql-database-system]]"
-  - "[[skills/computing/data-ai/database-system/database-foundations/database-systems/database-systems|database-systems]]"
+  - "[[nosql-database-system|nosql-database-system]]"
+  - "[[database-systems|database-systems]]"
 learning-time-in-minutes: 4
 source: https://www.youtube.com/@tryexponent
 ---
@@ -28,9 +28,9 @@ https://www.youtube.com/watch?v=_Ss42Vb1SU4
 
 ## Learning Outcomes
 
-- [[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/competencies/L1-list-nosql-types|L1-list-nosql-types]]
-- [[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/competencies/L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]
-- [[skills/computing/data-ai/database-system/database-foundations/database-systems/competencies/L1-explain-relational-vs-nosql|L1-explain-relational-vs-nosql]]
+- [[L1-list-nosql-types|L1-list-nosql-types]]
+- [[L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]
+- [[L1-explain-relational-vs-nosql|L1-explain-relational-vs-nosql]]
 
 ## Notes
 

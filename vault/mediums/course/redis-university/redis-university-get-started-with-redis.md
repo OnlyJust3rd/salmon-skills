@@ -1,6 +1,6 @@
 ---
 type: medium
-title: "Redis University Get Started with Redis"
+title: Redis University Get Started with Redis
 tags:
   - medium
   - course
@@ -8,12 +8,12 @@ tags:
   - key-value-database
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/database-system/nosql-databases/key-value-databases/redis/competencies/L2-use-redis-key-value-data-structures|L2-use-redis-key-value-data-structures]]"
-  - "[[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/competencies/L1-list-nosql-types|L1-list-nosql-types]]"
-  - "[[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/competencies/L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]"
+  - "[[L2-use-redis-key-value-data-structures|L2-use-redis-key-value-data-structures]]"
+  - "[[L1-list-nosql-types|L1-list-nosql-types]]"
+  - "[[L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]"
 related-skills:
-  - "[[skills/computing/data-ai/database-system/nosql-databases/key-value-databases/redis/redis|redis]]"
-  - "[[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/nosql-database-system|nosql-database-system]]"
+  - "[[redis|redis]]"
+  - "[[nosql-database-system|nosql-database-system]]"
 learning-time-in-minutes: 180
 ---
 
@@ -23,9 +23,9 @@ Redis University's current beginner course covers Redis data structures, command
 
 ## Learning Outcomes
 
-- [[skills/computing/data-ai/database-system/nosql-databases/key-value-databases/redis/competencies/L2-use-redis-key-value-data-structures|L2-use-redis-key-value-data-structures]]
-- [[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/competencies/L1-list-nosql-types|L1-list-nosql-types]]
-- [[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/competencies/L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]
+- [[L2-use-redis-key-value-data-structures|L2-use-redis-key-value-data-structures]]
+- [[L1-list-nosql-types|L1-list-nosql-types]]
+- [[L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]
 
 ## Notes
 

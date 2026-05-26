@@ -8,7 +8,7 @@ contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[column-definition-statements|column-definition-statements]]"
 related-skills:
-  - "[[skills/computing/data-ai/database-system/relational-databases/mysql/mysql|mysql]]"
+  - "[[skills/computing/systems-infrastructure/database-system/relational-databases/mysql/mysql|mysql]]"
 learning-time-in-minutes: 4
 ---
 # Defining Table Columns with SQL DDL

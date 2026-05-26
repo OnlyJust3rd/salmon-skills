@@ -1,6 +1,6 @@
 ---
 type: medium
-title: "PostgreSQL Tutorial and Data Definition"
+title: PostgreSQL Tutorial and Data Definition
 tags:
   - medium
   - docs
@@ -8,18 +8,18 @@ tags:
   - sql
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/database-system/relational-databases/postgresql/competencies/L2-use-postgresql-for-relational-data-storage|L2-use-postgresql-for-relational-data-storage]]"
-  - "[[skills/computing/data-ai/database-system/relational-databases/sql/competencies/L1-define-sql|L1-define-sql]]"
-  - "[[skills/computing/data-ai/database-system/relational-databases/sql/competencies/L1-explain-sql-clauses-and-syntax|L1-explain-sql-clauses-and-syntax]]"
-  - "[[skills/computing/data-ai/database-system/relational-databases/sql/competencies/L2-execute-sql-queries|L2-execute-sql-queries]]"
-  - "[[skills/computing/data-ai/database-system/relational-databases/sql/competencies/L2-use-sql-ddl|L2-use-sql-ddl]]"
-  - "[[skills/computing/data-ai/database-system/relational-databases/relational-database/competencies/L1-identify-schema-components|L1-identify-schema-components]]"
-  - "[[skills/computing/data-ai/database-system/relational-databases/mysql/competencies/L2-implement-database-schema|L2-implement-database-schema]]"
+  - "[[L2-use-postgresql-for-relational-data-storage|L2-use-postgresql-for-relational-data-storage]]"
+  - "[[L1-define-sql|L1-define-sql]]"
+  - "[[L1-explain-sql-clauses-and-syntax|L1-explain-sql-clauses-and-syntax]]"
+  - "[[L2-execute-sql-queries|L2-execute-sql-queries]]"
+  - "[[L2-use-sql-ddl|L2-use-sql-ddl]]"
+  - "[[L1-identify-schema-components|L1-identify-schema-components]]"
+  - "[[L2-implement-database-schema|L2-implement-database-schema]]"
 related-skills:
-  - "[[skills/computing/data-ai/database-system/relational-databases/postgresql/postgresql|postgresql]]"
-  - "[[skills/computing/data-ai/database-system/relational-databases/sql/sql|sql]]"
-  - "[[skills/computing/data-ai/database-system/relational-databases/relational-database/relational-database|relational-database]]"
-  - "[[skills/computing/data-ai/database-system/database-foundations/database-design/database-design|database-design]]"
+  - "[[skills/computing/systems-infrastructure/database-system/relational-databases/postgresql/postgresql|postgresql]]"
+  - "[[sql|sql]]"
+  - "[[relational-database|relational-database]]"
+  - "[[database-design|database-design]]"
 learning-time-in-minutes: 300
 ---
 
@@ -29,13 +29,13 @@ The official PostgreSQL tutorial and data-definition documentation introduce rel
 
 ## Learning Outcomes
 
-- [[skills/computing/data-ai/database-system/relational-databases/postgresql/competencies/L2-use-postgresql-for-relational-data-storage|L2-use-postgresql-for-relational-data-storage]]
-- [[skills/computing/data-ai/database-system/relational-databases/sql/competencies/L1-define-sql|L1-define-sql]]
-- [[skills/computing/data-ai/database-system/relational-databases/sql/competencies/L1-explain-sql-clauses-and-syntax|L1-explain-sql-clauses-and-syntax]]
-- [[skills/computing/data-ai/database-system/relational-databases/sql/competencies/L2-execute-sql-queries|L2-execute-sql-queries]]
-- [[skills/computing/data-ai/database-system/relational-databases/sql/competencies/L2-use-sql-ddl|L2-use-sql-ddl]]
-- [[skills/computing/data-ai/database-system/relational-databases/relational-database/competencies/L1-identify-schema-components|L1-identify-schema-components]]
-- [[skills/computing/data-ai/database-system/relational-databases/mysql/competencies/L2-implement-database-schema|L2-implement-database-schema]]
+- [[L2-use-postgresql-for-relational-data-storage|L2-use-postgresql-for-relational-data-storage]]
+- [[L1-define-sql|L1-define-sql]]
+- [[L1-explain-sql-clauses-and-syntax|L1-explain-sql-clauses-and-syntax]]
+- [[L2-execute-sql-queries|L2-execute-sql-queries]]
+- [[L2-use-sql-ddl|L2-use-sql-ddl]]
+- [[L1-identify-schema-components|L1-identify-schema-components]]
+- [[L2-implement-database-schema|L2-implement-database-schema]]
 
 ## Notes
 

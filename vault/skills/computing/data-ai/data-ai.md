@@ -12,6 +12,5 @@ icon: LiWaypoints
 - **[[artificial-intelligence]]**
 - **[[data-engineering-platforms]]**
 - **[[data-science]]**
-- **[[database-system]]**
 
 %% End Waypoint %%

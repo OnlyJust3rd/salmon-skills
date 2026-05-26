@@ -8,7 +8,7 @@ contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[table-creation-statements|table-creation-statements]]"
 related-skills:
-  - "[[skills/computing/data-ai/database-system/relational-databases/mysql/mysql|mysql]]"
+  - "[[skills/computing/systems-infrastructure/database-system/relational-databases/mysql/mysql|mysql]]"
 learning-time-in-minutes: 4
 ---
 # Creating Tables in MySQL with `CREATE TABLE`

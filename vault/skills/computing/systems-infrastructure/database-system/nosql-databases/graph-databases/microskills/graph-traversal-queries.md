@@ -1,0 +1,28 @@
+---
+type: microskill
+icon: LiBoxes
+title: Graph Traversal Queries
+tags:
+  - microskill
+  - database
+parent-skill: "[[skills/computing/systems-infrastructure/database-system/nosql-databases/graph-databases/graph-databases|graph-databases]]"
+requires-in-competencies:
+  - "[[L2-model-and-query-graph-data|L2-model-and-query-graph-data]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+---
+
+# Graph Traversal Queries
+
+Parent skill: [[skills/computing/systems-infrastructure/database-system/nosql-databases/graph-databases/graph-databases|Graph Databases]]
+
+Required in:
+
+- [[L2-model-and-query-graph-data|L2- Model and Query Graph Data]]
+
+## Description
+
+Following relationships to answer connected-data questions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -1,6 +1,6 @@
 ---
 type: medium
-title: "ACID Properties in Databases With Examples"
+title: ACID Properties in Databases With Examples
 tags:
   - medium
   - youtube
@@ -8,11 +8,11 @@ tags:
   - acid
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/database-system/database-foundations/database-systems/competencies/L1-explain-database-transactions|L1-explain-database-transactions]]"
-  - "[[skills/computing/data-ai/database-system/database-foundations/database-transactions/competencies/L2-manage-database-transactions|L2-manage-database-transactions]]"
+  - "[[L1-explain-database-transactions|L1-explain-database-transactions]]"
+  - "[[L2-manage-database-transactions|L2-manage-database-transactions]]"
 related-skills:
-  - "[[skills/computing/data-ai/database-system/database-foundations/database-systems/database-systems|database-systems]]"
-  - "[[skills/computing/data-ai/database-system/database-foundations/database-transactions/database-transactions|database-transactions]]"
+  - "[[database-systems|database-systems]]"
+  - "[[database-transactions|database-transactions]]"
 learning-time-in-minutes: 8
 source: https://www.youtube.com/@ByteByteGo
 ---
@@ -27,8 +27,8 @@ https://www.youtube.com/watch?v=GAe5oB742dw
 
 ## Learning Outcomes
 
-- [[skills/computing/data-ai/database-system/database-foundations/database-systems/competencies/L1-explain-database-transactions|L1-explain-database-transactions]]
-- [[skills/computing/data-ai/database-system/database-foundations/database-transactions/competencies/L2-manage-database-transactions|L2-manage-database-transactions]]
+- [[L1-explain-database-transactions|L1-explain-database-transactions]]
+- [[L2-manage-database-transactions|L2-manage-database-transactions]]
 
 ## Notes
 

@@ -1,6 +1,6 @@
 ---
 type: medium
-title: "MongoDB University Aggregation"
+title: MongoDB University Aggregation
 tags:
   - medium
   - course
@@ -8,10 +8,10 @@ tags:
   - document-database
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/database-system/nosql-databases/document-databases/mongodb/competencies/L2-apply-mongodb-crud-operations|L2-apply-mongodb-crud-operations]]"
-  - "[[skills/computing/data-ai/database-system/nosql-databases/document-databases/mongodb/competencies/L1-explain-mongodb-data-model|L1-explain-mongodb-data-model]]"
+  - "[[L2-apply-mongodb-crud-operations|L2-apply-mongodb-crud-operations]]"
+  - "[[L1-explain-mongodb-data-model|L1-explain-mongodb-data-model]]"
 related-skills:
-  - "[[skills/computing/data-ai/database-system/nosql-databases/document-databases/mongodb/mongodb|mongodb]]"
+  - "[[mongodb|mongodb]]"
 learning-time-in-minutes: 120
 ---
 
@@ -21,8 +21,8 @@ MongoDB University Aggregation teaches aggregation pipelines that filter, sort, 
 
 ## Learning Outcomes
 
-- [[skills/computing/data-ai/database-system/nosql-databases/document-databases/mongodb/competencies/L2-apply-mongodb-crud-operations|L2-apply-mongodb-crud-operations]]
-- [[skills/computing/data-ai/database-system/nosql-databases/document-databases/mongodb/competencies/L1-explain-mongodb-data-model|L1-explain-mongodb-data-model]]
+- [[L2-apply-mongodb-crud-operations|L2-apply-mongodb-crud-operations]]
+- [[L1-explain-mongodb-data-model|L1-explain-mongodb-data-model]]
 
 ## Notes
 

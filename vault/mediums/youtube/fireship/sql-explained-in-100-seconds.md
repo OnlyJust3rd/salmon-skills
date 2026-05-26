@@ -1,6 +1,6 @@
 ---
 type: medium
-title: "SQL Explained in 100 Seconds"
+title: SQL Explained in 100 Seconds
 tags:
   - medium
   - youtube
@@ -8,10 +8,10 @@ tags:
   - database
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/database-system/relational-databases/sql/competencies/L1-define-sql|L1-define-sql]]"
-  - "[[skills/computing/data-ai/database-system/relational-databases/sql/competencies/L1-explain-sql-clauses-and-syntax|L1-explain-sql-clauses-and-syntax]]"
+  - "[[L1-define-sql|L1-define-sql]]"
+  - "[[L1-explain-sql-clauses-and-syntax|L1-explain-sql-clauses-and-syntax]]"
 related-skills:
-  - "[[skills/computing/data-ai/database-system/relational-databases/sql/sql|sql]]"
+  - "[[sql|sql]]"
 learning-time-in-minutes: 2
 source: https://www.youtube.com/@Fireship
 ---
@@ -26,8 +26,8 @@ https://www.youtube.com/watch?v=zsjvFFKOm3c
 
 ## Learning Outcomes
 
-- [[skills/computing/data-ai/database-system/relational-databases/sql/competencies/L1-define-sql|L1-define-sql]]
-- [[skills/computing/data-ai/database-system/relational-databases/sql/competencies/L1-explain-sql-clauses-and-syntax|L1-explain-sql-clauses-and-syntax]]
+- [[L1-define-sql|L1-define-sql]]
+- [[L1-explain-sql-clauses-and-syntax|L1-explain-sql-clauses-and-syntax]]
 
 ## Notes
 

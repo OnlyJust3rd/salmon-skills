@@ -1,6 +1,6 @@
 ---
 type: medium
-title: "PostgreSQL Migration Management"
+title: PostgreSQL Migration Management
 tags:
   - medium
   - docs
@@ -8,13 +8,13 @@ tags:
   - database-migration
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/database-system/database-practices/database-migration/competencies/L2-plan-and-apply-database-migrations|L2-plan-and-apply-database-migrations]]"
-  - "[[skills/computing/data-ai/database-system/relational-databases/sql/competencies/L2-use-sql-ddl|L2-use-sql-ddl]]"
-  - "[[skills/computing/data-ai/database-system/relational-databases/postgresql/competencies/L2-use-postgresql-for-relational-data-storage|L2-use-postgresql-for-relational-data-storage]]"
+  - "[[L2-plan-and-apply-database-migrations|L2-plan-and-apply-database-migrations]]"
+  - "[[L2-use-sql-ddl|L2-use-sql-ddl]]"
+  - "[[L2-use-postgresql-for-relational-data-storage|L2-use-postgresql-for-relational-data-storage]]"
 related-skills:
-  - "[[skills/computing/data-ai/database-system/database-practices/database-migration/database-migration|database-migration]]"
-  - "[[skills/computing/data-ai/database-system/relational-databases/sql/sql|sql]]"
-  - "[[skills/computing/data-ai/database-system/relational-databases/postgresql/postgresql|postgresql]]"
+  - "[[database-migration|database-migration]]"
+  - "[[sql|sql]]"
+  - "[[skills/computing/systems-infrastructure/database-system/relational-databases/postgresql/postgresql|postgresql]]"
 learning-time-in-minutes: 120
 ---
 
@@ -24,9 +24,9 @@ PostgreSQL table-alteration documentation grounds database migration work in con
 
 ## Learning Outcomes
 
-- [[skills/computing/data-ai/database-system/database-practices/database-migration/competencies/L2-plan-and-apply-database-migrations|L2-plan-and-apply-database-migrations]]
-- [[skills/computing/data-ai/database-system/relational-databases/sql/competencies/L2-use-sql-ddl|L2-use-sql-ddl]]
-- [[skills/computing/data-ai/database-system/relational-databases/postgresql/competencies/L2-use-postgresql-for-relational-data-storage|L2-use-postgresql-for-relational-data-storage]]
+- [[L2-plan-and-apply-database-migrations|L2-plan-and-apply-database-migrations]]
+- [[L2-use-sql-ddl|L2-use-sql-ddl]]
+- [[L2-use-postgresql-for-relational-data-storage|L2-use-postgresql-for-relational-data-storage]]
 
 ## Notes
 

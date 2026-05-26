@@ -1,6 +1,6 @@
 ---
 type: medium
-title: "What is Database Sharding?"
+title: What is Database Sharding?
 tags:
   - medium
   - youtube
@@ -9,9 +9,9 @@ tags:
   - database-scaling
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/database-system/database-performance/database-partitioning/competencies/L2-design-database-partitioning-strategy|L2-design-database-partitioning-strategy]]"
+  - "[[L2-design-database-partitioning-strategy|L2-design-database-partitioning-strategy]]"
 related-skills:
-  - "[[skills/computing/data-ai/database-system/database-performance/database-partitioning/database-partitioning|database-partitioning]]"
+  - "[[database-partitioning|database-partitioning]]"
 learning-time-in-minutes: 6
 source: https://www.youtube.com/@gkcs
 ---
@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=XP98YCr-iXQ
 
 ## Learning Outcomes
 
-- [[skills/computing/data-ai/database-system/database-performance/database-partitioning/competencies/L2-design-database-partitioning-strategy|L2-design-database-partitioning-strategy]]
+- [[L2-design-database-partitioning-strategy|L2-design-database-partitioning-strategy]]
 
 ## Notes
 

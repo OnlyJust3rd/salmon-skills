@@ -1,6 +1,6 @@
 ---
 type: medium
-title: "PostgreSQL Partitioning and Replication"
+title: PostgreSQL Partitioning and Replication
 tags:
   - medium
   - docs
@@ -8,13 +8,13 @@ tags:
   - database-performance
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/database-system/database-performance/database-partitioning/competencies/L2-design-database-partitioning-strategy|L2-design-database-partitioning-strategy]]"
-  - "[[skills/computing/data-ai/database-system/database-performance/database-replication/competencies/L2-explain-database-replication-trade-offs|L2-explain-database-replication-trade-offs]]"
-  - "[[skills/computing/data-ai/database-system/relational-databases/postgresql/competencies/L2-use-postgresql-for-relational-data-storage|L2-use-postgresql-for-relational-data-storage]]"
+  - "[[L2-design-database-partitioning-strategy|L2-design-database-partitioning-strategy]]"
+  - "[[L2-explain-database-replication-trade-offs|L2-explain-database-replication-trade-offs]]"
+  - "[[L2-use-postgresql-for-relational-data-storage|L2-use-postgresql-for-relational-data-storage]]"
 related-skills:
-  - "[[skills/computing/data-ai/database-system/database-performance/database-partitioning/database-partitioning|database-partitioning]]"
-  - "[[skills/computing/data-ai/database-system/database-performance/database-replication/database-replication|database-replication]]"
-  - "[[skills/computing/data-ai/database-system/relational-databases/postgresql/postgresql|postgresql]]"
+  - "[[database-partitioning|database-partitioning]]"
+  - "[[database-replication|database-replication]]"
+  - "[[skills/computing/systems-infrastructure/database-system/relational-databases/postgresql/postgresql|postgresql]]"
 learning-time-in-minutes: 240
 ---
 
@@ -24,9 +24,9 @@ PostgreSQL documentation covers declarative table partitioning and high-availabi
 
 ## Learning Outcomes
 
-- [[skills/computing/data-ai/database-system/database-performance/database-partitioning/competencies/L2-design-database-partitioning-strategy|L2-design-database-partitioning-strategy]]
-- [[skills/computing/data-ai/database-system/database-performance/database-replication/competencies/L2-explain-database-replication-trade-offs|L2-explain-database-replication-trade-offs]]
-- [[skills/computing/data-ai/database-system/relational-databases/postgresql/competencies/L2-use-postgresql-for-relational-data-storage|L2-use-postgresql-for-relational-data-storage]]
+- [[L2-design-database-partitioning-strategy|L2-design-database-partitioning-strategy]]
+- [[L2-explain-database-replication-trade-offs|L2-explain-database-replication-trade-offs]]
+- [[L2-use-postgresql-for-relational-data-storage|L2-use-postgresql-for-relational-data-storage]]
 
 ## Notes
 

@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiWaypoints",
       "SiMdnwebdocs",
       "SiApachecassandra",
       "SiPostgresql",
@@ -29,8 +30,7 @@
       "LiSchool2",
       "LiLayoutTemplate",
       "LiCpu",
-      "LiZap",
-      "LiUniversity"
+      "LiZap"
     ],
     "recentlyUsedIconsSize": 25,
     "rules": [
@@ -16896,507 +16896,6 @@
   },
   "bases": "LiDatabaseZap",
   "bases/related-mediums.base": "LiDatabase",
-  "skills/computing/data-ai/database-system/database-foundations/database-systems/database-systems.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-systems/competencies/L1-define-and-list-rdbms-concepts.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-systems/competencies/L1-explain-database-transactions.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-systems/competencies/L1-explain-relational-vs-nosql.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-systems/competencies/L1-explain-web-db-architecture.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-systems/microskills/3-tier-application-model.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-systems/microskills/acid-properties.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-systems/microskills/application-business-logic-layer.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-systems/microskills/commit-and-rollback.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-systems/microskills/data-access-layer.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-systems/microskills/data-model-distinctions.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-systems/microskills/data-relationships.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-systems/microskills/database-structure-tables-columns-rows.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-systems/microskills/inter-tier-communication-flow.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-systems/microskills/nosql-database-characteristics.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-systems/microskills/presentation-layer-functionality.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-systems/microskills/rdbms-key-components.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-systems/microskills/relational-database-characteristics.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-systems/microskills/relational-database-fundamentals.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-systems/microskills/structural-differences.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-systems/microskills/transaction-boundaries.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-systems/microskills/use-case-suitability.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/mysql/mysql.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/sql/sql.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/relational-database/relational-database.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/mysql/competencies/L2-implement-database-schema.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/mysql/microskills/column-definition-statements.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/mysql/microskills/constraint-implementation-e-g-primary-keys.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/mysql/microskills/schema-construction.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/mysql/microskills/sql-data-definition-language-ddl.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/mysql/microskills/table-creation-statements.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/sql/competencies/L1-define-sql.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/sql/competencies/L1-explain-sql-clauses-and-syntax.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/sql/competencies/L2-execute-sql-queries.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/sql/competencies/L2-use-sql-ddl.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/sql/microskills/basic-sql-query-execution.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/sql/microskills/data-manipulation-operations.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/sql/microskills/data-retrieval-operations.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/sql/microskills/schema-evolution-with-ddl.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/sql/microskills/sql-clause-functions.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/sql/microskills/sql-data-manipulation-basics-insert-update-delete.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/sql/microskills/sql-data-retrieval-basics-select-from-where.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/sql/microskills/sql-ddl-commands.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/sql/microskills/sql-syntax-rules.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/sql/microskills/structured-query-language-sql-definition.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/sql/microskills/table-and-column-definition-with-ddl.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/relational-database/competencies/L1-describe-and-compare-normalization-forms.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/relational-database/competencies/L1-identify-schema-components.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/relational-database/microskills/column-identification.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/relational-database/microskills/data-integrity-enhancement.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/relational-database/microskills/first-normal-form-1nf.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/relational-database/microskills/normalization-principles.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/relational-database/microskills/primary-key-identification.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/relational-database/microskills/redundancy-reduction-in-design.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/relational-database/microskills/relational-schema-elements.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/relational-database/microskills/second-normal-form-2nf.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/relational-database/microskills/table-identification.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/relational-database/microskills/third-normal-form-3nf.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/document-databases/mongodb/mongodb.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/document-databases/mongodb/competencies/L1-explain-mongodb-data-model.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/document-databases/mongodb/microskills/mongodb-documents-and-collections.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/document-databases/mongodb/competencies/L2-apply-mongodb-crud-operations.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/document-databases/mongodb/microskills/flexible-schema-concepts.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/document-databases/mongodb/microskills/mongodb-insert-operations.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/document-databases/mongodb/microskills/mongodb-query-operations.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/document-databases/mongodb/microskills/mongodb-update-delete-operations.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/document-databases/mongodb/microskills/relational-vs-document-data-model.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-performance/database-indexing/database-indexing.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/database-system/database-performance/database-indexing/competencies/L1-explain-database-indexing-and-query-performance.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/database-performance/database-indexing/microskills/index-trade-offs.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-performance/database-indexing/microskills/index-access-paths.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-performance/database-indexing/microskills/query-predicate-support.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-foundations.md": {
-    "iconName": "LiWaypoints"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/relational-databases.md": {
-    "iconName": "LiWaypoints"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/nosql-databases.md": {
-    "iconName": "LiWaypoints"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/document-databases/document-databases.md": {
-    "iconName": "LiWaypoints"
-  },
-  "skills/computing/data-ai/database-system/database-performance/database-performance.md": {
-    "iconName": "LiWaypoints"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/competencies/L1-list-nosql-types.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/microskills/column-family-stores.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/competencies/L1-explain-nosql-use-cases.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/microskills/document-databases.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/microskills/flexibility-needs.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/microskills/graph-databases.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/microskills/nosql-database-categories.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/microskills/key-value-stores.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/microskills/performance-considerations.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/microskills/situational-applicability-of-nosql.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/microskills/scalability-requirements.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/nosql-database-system.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/key-value-databases/key-value-databases.md": {
-    "iconName": "LiWaypoints"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/key-value-databases/redis/redis.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/key-value-databases/redis/microskills/cache-access-patterns.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/key-value-databases/redis/microskills/redis-data-structures.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/key-value-databases/redis/microskills/redis-key-expiration.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/key-value-databases/redis/competencies/L2-use-redis-key-value-data-structures.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-transactions/database-transactions.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-transactions/competencies/L2-manage-database-transactions.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-transactions/microskills/concurrency-anomalies.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-transactions/microskills/transaction-lifecycle.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-transactions/microskills/isolation-levels.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-modeling/database-modeling.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-modeling/competencies/L2-model-database-entities-and-relationships.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-modeling/microskills/constraint-modeling.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-modeling/microskills/entity-identification.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-modeling/microskills/relationship-cardinality.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-design/database-design.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-design/competencies/L2-design-database-schema-for-application-requirements.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-design/microskills/integrity-rule-design.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-design/microskills/schema-requirement-analysis.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-foundations/database-design/microskills/logical-to-physical-schema-mapping.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/relational-model/relational-model.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/relational-model/microskills/relation-and-tuple-concepts.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/relational-model/microskills/relational-operations.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/relational-model/competencies/L2-apply-relational-model-principles.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/relational-model/microskills/candidate-and-foreign-keys.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/postgresql/postgresql.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/postgresql/competencies/L2-use-postgresql-for-relational-data-storage.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/postgresql/microskills/postgresql-constraints.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/postgresql/microskills/postgresql-data-types.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/relational-databases/postgresql/microskills/postgresql-query-execution.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/graph-databases/graph-databases.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/graph-databases/microskills/graph-traversal-queries.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/graph-databases/competencies/L2-model-and-query-graph-data.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/graph-databases/microskills/node-edge-property-model.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/graph-databases/microskills/relationship-centric-modeling.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/column-family-databases/column-family-databases.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/column-family-databases/competencies/L2-design-column-family-data-models.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/column-family-databases/microskills/column-family-data-model.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/column-family-databases/microskills/partition-key-design.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/nosql-databases/column-family-databases/microskills/query-driven-denormalization.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-performance/query-optimization/query-optimization.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/database-system/database-performance/query-optimization/microskills/execution-plan-reading.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-performance/query-optimization/competencies/L2-optimize-database-query-performance.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/database-performance/query-optimization/microskills/query-rewrite-techniques.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-performance/query-optimization/microskills/predicate-selectivity.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-performance/database-partitioning/database-partitioning.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/database-system/database-performance/database-partitioning/competencies/L2-design-database-partitioning-strategy.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/database-performance/database-partitioning/microskills/hash-partitioning.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-performance/database-partitioning/microskills/range-partitioning.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-performance/database-partitioning/microskills/partition-pruning.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-performance/database-replication/database-replication.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/database-system/database-performance/database-replication/competencies/L2-explain-database-replication-trade-offs.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/database-performance/database-replication/microskills/failover-behavior.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-performance/database-replication/microskills/primary-replica-topology.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-performance/database-replication/microskills/replication-lag.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-system.md": {
-    "iconName": "LiWaypoints"
-  },
-  "skills/computing/data-ai/database-system/database-practices/database-backup-and-recovery/database-backup-and-recovery.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/database-system/database-practices/database-backup-and-recovery/competencies/L1-explain-database-backup-and-recovery-concepts.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/database-practices/database-backup-and-recovery/microskills/backup-types.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-practices/database-backup-and-recovery/microskills/recovery-objectives.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-practices/database-backup-and-recovery/microskills/restore-operations.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-practices/database-migration/database-migration.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/database-system/database-practices/database-migration/competencies/L2-plan-and-apply-database-migrations.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/database-practices/database-migration/microskills/migration-rollback-planning.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-practices/database-migration/microskills/schema-migration-script.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-practices/database-migration/microskills/backward-compatible-schema-change.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-practices/database-security/database-security.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/database-system/database-practices/database-security/competencies/L2-apply-database-security-controls.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/database-practices/database-security/microskills/credential-management.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-practices/database-security/microskills/data-encryption-controls.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-practices/database-security/microskills/database-user-privileges.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-practices/database-monitoring/database-monitoring.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/database-system/database-practices/database-monitoring/competencies/L2-monitor-database-health-and-performance.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/database-system/database-practices/database-monitoring/microskills/database-alert-thresholds.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-practices/database-monitoring/microskills/database-health-metrics.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-practices/database-monitoring/microskills/slow-query-monitoring.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/database-system/database-practices/database-practices.md": {
-    "iconName": "LiWaypoints"
-  },
   "mediums/article/article.md": {
     "iconName": "LiWaypoints"
   },
@@ -17498,5 +16997,506 @@
   "mediums/doc/mysql": "SiMysql",
   "mediums/doc/postgresql": "SiPostgresql",
   "mediums/doc/apache-cassandra": "SiApachecassandra",
-  "mediums/doc/mdn": "SiMdnwebdocs"
+  "mediums/doc/mdn": "SiMdnwebdocs",
+  "skills/computing/systems-infrastructure/database-system/database-system.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-foundations.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-performance/database-performance.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/nosql-databases.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-practices/database-practices.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/relational-databases.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-modeling/database-modeling.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-design/database-design.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-systems/database-systems.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-performance/database-indexing/database-indexing.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-performance/database-partitioning/database-partitioning.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-performance/database-replication/database-replication.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-transactions/database-transactions.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/column-family-databases/column-family-databases.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/document-databases/document-databases.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/graph-databases/graph-databases.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-performance/query-optimization/query-optimization.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/key-value-databases/key-value-databases.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/nosql-database-system/nosql-database-system.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-practices/database-migration/database-migration.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-practices/database-backup-and-recovery/database-backup-and-recovery.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-practices/database-monitoring/database-monitoring.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-practices/database-security/database-security.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/relational-database/relational-database.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/postgresql/postgresql.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/mysql/mysql.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/relational-model/relational-model.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/sql/sql.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-modeling/competencies/L2-model-database-entities-and-relationships.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-modeling/microskills/entity-identification.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-modeling/microskills/constraint-modeling.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-modeling/microskills/relationship-cardinality.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-design/competencies/L2-design-database-schema-for-application-requirements.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-design/microskills/integrity-rule-design.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-design/microskills/logical-to-physical-schema-mapping.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-design/microskills/schema-requirement-analysis.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-systems/competencies/L1-define-and-list-rdbms-concepts.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-systems/competencies/L1-explain-database-transactions.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-systems/competencies/L1-explain-relational-vs-nosql.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-systems/competencies/L1-explain-web-db-architecture.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-performance/database-indexing/microskills/index-access-paths.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-performance/database-indexing/microskills/index-trade-offs.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-performance/database-indexing/microskills/query-predicate-support.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-performance/database-indexing/competencies/L1-explain-database-indexing-and-query-performance.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-performance/database-partitioning/microskills/hash-partitioning.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-performance/database-partitioning/microskills/partition-pruning.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-performance/database-partitioning/microskills/range-partitioning.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-performance/database-partitioning/competencies/L2-design-database-partitioning-strategy.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-systems/microskills/3-tier-application-model.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-systems/microskills/acid-properties.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-systems/microskills/application-business-logic-layer.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-systems/microskills/data-access-layer.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-systems/microskills/data-model-distinctions.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-systems/microskills/commit-and-rollback.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-systems/microskills/data-relationships.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-systems/microskills/database-structure-tables-columns-rows.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-systems/microskills/nosql-database-characteristics.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-systems/microskills/inter-tier-communication-flow.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-systems/microskills/presentation-layer-functionality.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-systems/microskills/rdbms-key-components.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-systems/microskills/relational-database-characteristics.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-systems/microskills/relational-database-fundamentals.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-systems/microskills/structural-differences.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-systems/microskills/transaction-boundaries.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-systems/microskills/use-case-suitability.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-performance/database-replication/competencies/L2-explain-database-replication-trade-offs.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-performance/database-replication/microskills/failover-behavior.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-performance/database-replication/microskills/primary-replica-topology.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-performance/database-replication/microskills/replication-lag.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/column-family-databases/competencies/L2-design-column-family-data-models.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-transactions/competencies/L2-manage-database-transactions.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/column-family-databases/microskills/column-family-data-model.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/column-family-databases/microskills/partition-key-design.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/column-family-databases/microskills/query-driven-denormalization.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-performance/query-optimization/competencies/L2-optimize-database-query-performance.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-transactions/microskills/concurrency-anomalies.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-transactions/microskills/isolation-levels.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-foundations/database-transactions/microskills/transaction-lifecycle.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/graph-databases/competencies/L2-model-and-query-graph-data.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/document-databases/mongodb/mongodb.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/key-value-databases/redis/redis.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-performance/query-optimization/microskills/execution-plan-reading.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-performance/query-optimization/microskills/predicate-selectivity.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-performance/query-optimization/microskills/query-rewrite-techniques.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/graph-databases/microskills/graph-traversal-queries.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/graph-databases/microskills/node-edge-property-model.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/graph-databases/microskills/relationship-centric-modeling.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/nosql-database-system/microskills/column-family-stores.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/nosql-database-system/microskills/document-databases.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/nosql-database-system/microskills/flexibility-needs.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/nosql-database-system/microskills/graph-databases.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/nosql-database-system/microskills/key-value-stores.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/nosql-database-system/microskills/nosql-database-categories.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/nosql-database-system/microskills/performance-considerations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/nosql-database-system/microskills/scalability-requirements.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/nosql-database-system/microskills/situational-applicability-of-nosql.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/nosql-database-system/competencies/L1-explain-nosql-use-cases.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/nosql-database-system/competencies/L1-list-nosql-types.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-practices/database-migration/competencies/L2-plan-and-apply-database-migrations.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-practices/database-backup-and-recovery/competencies/L1-explain-database-backup-and-recovery-concepts.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-practices/database-backup-and-recovery/microskills/backup-types.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-practices/database-backup-and-recovery/microskills/recovery-objectives.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-practices/database-backup-and-recovery/microskills/restore-operations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-practices/database-monitoring/microskills/database-alert-thresholds.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-practices/database-monitoring/microskills/database-health-metrics.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-practices/database-monitoring/microskills/slow-query-monitoring.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-practices/database-monitoring/competencies/L2-monitor-database-health-and-performance.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-practices/database-security/competencies/L2-apply-database-security-controls.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-practices/database-migration/microskills/backward-compatible-schema-change.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-practices/database-migration/microskills/migration-rollback-planning.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-practices/database-migration/microskills/schema-migration-script.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/relational-database/microskills/column-identification.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/relational-database/microskills/data-integrity-enhancement.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/relational-database/microskills/first-normal-form-1nf.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/relational-database/microskills/normalization-principles.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/relational-database/microskills/primary-key-identification.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/relational-database/microskills/second-normal-form-2nf.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/relational-database/microskills/relational-schema-elements.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/relational-database/microskills/table-identification.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/relational-database/microskills/third-normal-form-3nf.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/relational-database/microskills/redundancy-reduction-in-design.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/relational-database/competencies/L1-describe-and-compare-normalization-forms.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/relational-database/competencies/L1-identify-schema-components.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/postgresql/microskills/postgresql-constraints.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/postgresql/microskills/postgresql-data-types.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/postgresql/microskills/postgresql-query-execution.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/postgresql/competencies/L2-use-postgresql-for-relational-data-storage.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/relational-model/competencies/L2-apply-relational-model-principles.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/mysql/microskills/column-definition-statements.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/mysql/microskills/constraint-implementation-e-g-primary-keys.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/mysql/microskills/schema-construction.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/mysql/microskills/sql-data-definition-language-ddl.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/mysql/microskills/table-creation-statements.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/mysql/competencies/L2-implement-database-schema.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/sql/competencies/L1-define-sql.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/sql/competencies/L1-explain-sql-clauses-and-syntax.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/sql/competencies/L2-execute-sql-queries.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/sql/competencies/L2-use-sql-ddl.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/relational-model/microskills/candidate-and-foreign-keys.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/relational-model/microskills/relation-and-tuple-concepts.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/relational-model/microskills/relational-operations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/sql/microskills/basic-sql-query-execution.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/sql/microskills/data-manipulation-operations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/sql/microskills/data-retrieval-operations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/sql/microskills/schema-evolution-with-ddl.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/sql/microskills/sql-clause-functions.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/sql/microskills/sql-data-manipulation-basics-insert-update-delete.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/sql/microskills/sql-data-retrieval-basics-select-from-where.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/sql/microskills/sql-ddl-commands.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/sql/microskills/sql-syntax-rules.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/sql/microskills/structured-query-language-sql-definition.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/relational-databases/sql/microskills/table-and-column-definition-with-ddl.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-practices/database-security/microskills/credential-management.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-practices/database-security/microskills/data-encryption-controls.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/database-practices/database-security/microskills/database-user-privileges.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/document-databases/mongodb/competencies/L1-explain-mongodb-data-model.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/document-databases/mongodb/competencies/L2-apply-mongodb-crud-operations.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/document-databases/mongodb/microskills/flexible-schema-concepts.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/key-value-databases/redis/competencies/L2-use-redis-key-value-data-structures.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/document-databases/mongodb/microskills/mongodb-insert-operations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/document-databases/mongodb/microskills/mongodb-documents-and-collections.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/document-databases/mongodb/microskills/mongodb-query-operations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/document-databases/mongodb/microskills/mongodb-update-delete-operations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/document-databases/mongodb/microskills/relational-vs-document-data-model.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/key-value-databases/redis/microskills/cache-access-patterns.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/key-value-databases/redis/microskills/redis-key-expiration.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/database-system/nosql-databases/key-value-databases/redis/microskills/redis-data-structures.md": {
+    "iconName": "LiBoxes"
+  }
 }

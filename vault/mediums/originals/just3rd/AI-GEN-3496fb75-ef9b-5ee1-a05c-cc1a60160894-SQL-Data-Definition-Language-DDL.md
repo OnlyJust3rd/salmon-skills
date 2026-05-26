@@ -8,7 +8,7 @@ contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
   - "[[sql-data-definition-language-ddl|sql-data-definition-language-ddl]]"
 related-skills:
-  - "[[skills/computing/data-ai/database-system/relational-databases/mysql/mysql|mysql]]"
+  - "[[skills/computing/systems-infrastructure/database-system/relational-databases/mysql/mysql|mysql]]"
 learning-time-in-minutes: 3
 ---
 # Understanding SQL Data Definition Language (DDL)

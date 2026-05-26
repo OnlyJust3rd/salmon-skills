@@ -1,6 +1,6 @@
 ---
 type: medium
-title: "MongoDB University Document Model and CRUD"
+title: MongoDB University Document Model and CRUD
 tags:
   - medium
   - course
@@ -8,13 +8,13 @@ tags:
   - document-database
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/database-system/nosql-databases/document-databases/mongodb/competencies/L1-explain-mongodb-data-model|L1-explain-mongodb-data-model]]"
-  - "[[skills/computing/data-ai/database-system/nosql-databases/document-databases/mongodb/competencies/L2-apply-mongodb-crud-operations|L2-apply-mongodb-crud-operations]]"
-  - "[[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/competencies/L1-list-nosql-types|L1-list-nosql-types]]"
-  - "[[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/competencies/L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]"
+  - "[[L1-explain-mongodb-data-model|L1-explain-mongodb-data-model]]"
+  - "[[L2-apply-mongodb-crud-operations|L2-apply-mongodb-crud-operations]]"
+  - "[[L1-list-nosql-types|L1-list-nosql-types]]"
+  - "[[L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]"
 related-skills:
-  - "[[skills/computing/data-ai/database-system/nosql-databases/document-databases/mongodb/mongodb|mongodb]]"
-  - "[[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/nosql-database-system|nosql-database-system]]"
+  - "[[mongodb|mongodb]]"
+  - "[[nosql-database-system|nosql-database-system]]"
 learning-time-in-minutes: 210
 ---
 
@@ -24,10 +24,10 @@ MongoDB University units on the document model and CRUD introduce document struc
 
 ## Learning Outcomes
 
-- [[skills/computing/data-ai/database-system/nosql-databases/document-databases/mongodb/competencies/L1-explain-mongodb-data-model|L1-explain-mongodb-data-model]]
-- [[skills/computing/data-ai/database-system/nosql-databases/document-databases/mongodb/competencies/L2-apply-mongodb-crud-operations|L2-apply-mongodb-crud-operations]]
-- [[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/competencies/L1-list-nosql-types|L1-list-nosql-types]]
-- [[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/competencies/L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]
+- [[L1-explain-mongodb-data-model|L1-explain-mongodb-data-model]]
+- [[L2-apply-mongodb-crud-operations|L2-apply-mongodb-crud-operations]]
+- [[L1-list-nosql-types|L1-list-nosql-types]]
+- [[L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]
 
 ## Notes
 

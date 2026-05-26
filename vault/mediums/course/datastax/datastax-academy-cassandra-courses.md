@@ -1,6 +1,6 @@
 ---
 type: medium
-title: "DataStax Academy Cassandra Courses"
+title: DataStax Academy Cassandra Courses
 tags:
   - medium
   - course
@@ -8,14 +8,14 @@ tags:
   - column-family-database
 contributor: "[[contributors/just3rd|just3rd]]"
 learning-outcomes:
-  - "[[skills/computing/data-ai/database-system/nosql-databases/column-family-databases/competencies/L2-design-column-family-data-models|L2-design-column-family-data-models]]"
-  - "[[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/competencies/L1-list-nosql-types|L1-list-nosql-types]]"
-  - "[[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/competencies/L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]"
-  - "[[skills/computing/data-ai/database-system/database-practices/database-monitoring/competencies/L2-monitor-database-health-and-performance|L2-monitor-database-health-and-performance]]"
+  - "[[L2-design-column-family-data-models|L2-design-column-family-data-models]]"
+  - "[[L1-list-nosql-types|L1-list-nosql-types]]"
+  - "[[L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]"
+  - "[[L2-monitor-database-health-and-performance|L2-monitor-database-health-and-performance]]"
 related-skills:
-  - "[[skills/computing/data-ai/database-system/nosql-databases/column-family-databases/column-family-databases|column-family-databases]]"
-  - "[[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/nosql-database-system|nosql-database-system]]"
-  - "[[skills/computing/data-ai/database-system/database-practices/database-monitoring/database-monitoring|database-monitoring]]"
+  - "[[column-family-databases|column-family-databases]]"
+  - "[[nosql-database-system|nosql-database-system]]"
+  - "[[database-monitoring|database-monitoring]]"
 learning-time-in-minutes: 900
 ---
 
@@ -25,10 +25,10 @@ DataStax Academy offers free self-paced Cassandra developer and administrator tr
 
 ## Learning Outcomes
 
-- [[skills/computing/data-ai/database-system/nosql-databases/column-family-databases/competencies/L2-design-column-family-data-models|L2-design-column-family-data-models]]
-- [[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/competencies/L1-list-nosql-types|L1-list-nosql-types]]
-- [[skills/computing/data-ai/database-system/nosql-databases/nosql-database-system/competencies/L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]
-- [[skills/computing/data-ai/database-system/database-practices/database-monitoring/competencies/L2-monitor-database-health-and-performance|L2-monitor-database-health-and-performance]]
+- [[L2-design-column-family-data-models|L2-design-column-family-data-models]]
+- [[L1-list-nosql-types|L1-list-nosql-types]]
+- [[L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]
+- [[L2-monitor-database-health-and-performance|L2-monitor-database-health-and-performance]]
 
 ## Notes
 
